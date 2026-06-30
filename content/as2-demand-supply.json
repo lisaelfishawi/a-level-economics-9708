@@ -1,0 +1,49 @@
+{
+  "id": "as2-demand-supply",
+  "unit": "as2",
+  "title": "Demand and Supply",
+  "order": 1,
+  "summary": "## Big picture\n\nA **market** is any arrangement that brings buyers and sellers together. In a free market, the interaction of **demand** and **supply** determines the **equilibrium price** and **quantity** — this is the *price mechanism*, which performs three functions: **rationing** (high prices ration scarce goods), **signalling** (prices signal where resources are wanted), and **incentive** (high prices reward producers to supply more). This chapter is the foundation for almost everything else in microeconomics.\n\n## Demand\n\n**Demand** = the quantity of a good consumers are *willing and able* to buy at each price in a given period. Note *effective demand* (backed by ability to pay), not just desire.\n\n**Law of demand:** as price rises, quantity demanded falls (and vice versa), *ceteris paribus*. The demand curve slopes **downward**.\n\nWhy it slopes down:\n- **Income effect** — a price fall raises real income, so consumers can buy more.\n- **Substitution effect** — a price fall makes the good cheaper relative to substitutes, so consumers switch to it.\n- **Diminishing marginal utility** — each extra unit gives less satisfaction, so consumers only buy more at a lower price.\n\n### Movement vs shift (examiners test this constantly)\n- A change in the good's **own price** → a **movement along** the curve (*extension* if Q rises, *contraction* if Q falls).\n- A change in **any other factor** → a **shift** of the whole curve.\n\n**Conditions of demand (shift factors) — mnemonic PIRATES:**\n- **P**opulation / demographics\n- **I**ncome (normal good: ↑income → ↑demand; inferior good: ↑income → ↓demand)\n- **R**elated goods — substitutes (↑price of rival → ↑demand for this) and complements (↑price of complement → ↓demand)\n- **A**dvertising / tastes & fashion\n- **T**axes & subsidies on consumers\n- **E**xpectations of future prices\n- **S**easons / weather\n\n## Supply\n\n**Supply** = the quantity producers are *willing and able* to sell at each price in a given period.\n\n**Law of supply:** as price rises, quantity supplied rises, *ceteris paribus*. The supply curve slopes **upward** because higher prices mean higher potential profit (an incentive to produce more) and cover the rising marginal cost of extra output.\n\n### Conditions of supply (shift factors) — mnemonic PINTSWC:\n- **P**roductivity\n- **I**ndirect taxes (↑tax → supply shifts left) and **subsidies** (shift right)\n- **N**umber of firms\n- **T**echnology\n- **S**ubsidies / costs of production (raw materials, wages, energy)\n- **W**eather / shocks (esp. agriculture)\n- **C**osts of factors of production\n\nAgain: own-price change → **movement** along supply; any other factor → **shift**.\n\n## Market equilibrium\n\n**Equilibrium** is where demand = supply (the curves cross): the market *clears*, with no tendency to change. Price here is the **equilibrium / market-clearing price**.\n\n- If price is **above** equilibrium → **surplus** (excess supply) → downward pressure on price.\n- If price is **below** equilibrium → **shortage** (excess demand) → upward pressure on price.\n\nThe market self-corrects back to equilibrium — the price mechanism at work.\n\n### Working through shifts (the exam skill)\nAlways state the *direction* each curve moves, then the effect on **price and quantity**:\n\n| Change | Curve | New price | New quantity |\n|---|---|---|---|\n| Rise in consumer income (normal good) | D right | ↑ | ↑ |\n| New rival product launched | D left | ↓ | ↓ |\n| Fall in raw-material costs | S right | ↓ | ↑ |\n| New tax on producers | S left | ↑ | ↓ |\n\n> If **both** curves shift, the effect on either price *or* quantity is **indeterminate** — you can sign one but not the other without knowing the relative size of the shifts. Examiners love this.\n\n## Egypt / real-world application\n\n- When the **Central Bank of Egypt** floated the pound, the **EGP price of imported wheat rose**, shifting the **supply of bread** left → higher prices and the strain that subsidies are designed to offset.\n- A growing, young **Egyptian population** keeps the **demand** for housing and food shifting right — useful for application/evaluation marks.\n\n## Why it matters\n\nDemand and supply analysis underlies elasticities, government intervention (price controls, taxes, subsidies), and the whole AD/AS macro model. Master shifting curves cleanly now and the rest of the course gets much easier.",
+  "keyTerms": [
+    { "term": "Effective demand", "definition": "Demand backed by the willingness AND ability to pay, not mere desire." },
+    { "term": "Ceteris paribus", "definition": "‘All other things equal’ — the assumption that lets us isolate the effect of one variable." },
+    { "term": "Extension / contraction of demand", "definition": "A movement along the demand curve caused by a change in the good's own price (extension = more demanded, contraction = less)." },
+    { "term": "Normal good", "definition": "A good whose demand rises as consumer income rises (positive income elasticity)." },
+    { "term": "Inferior good", "definition": "A good whose demand falls as income rises (negative income elasticity)." },
+    { "term": "Substitutes", "definition": "Goods consumed instead of one another; a rise in the price of one raises demand for the other." },
+    { "term": "Complements", "definition": "Goods consumed together; a rise in the price of one lowers demand for the other." },
+    { "term": "Equilibrium price", "definition": "The price at which quantity demanded equals quantity supplied and the market clears." },
+    { "term": "Excess demand (shortage)", "definition": "When price is below equilibrium so quantity demanded exceeds quantity supplied." },
+    { "term": "Excess supply (surplus)", "definition": "When price is above equilibrium so quantity supplied exceeds quantity demanded." },
+    { "term": "Price mechanism", "definition": "The way prices ration, signal, and incentivise to allocate resources in a market." }
+  ],
+  "diagrams": [
+    "**Basic D/S equilibrium:** axes Price (vertical) and Quantity (horizontal); downward D, upward S; mark equilibrium price P* and quantity Q* at the intersection. Always label axes, curves, and the equilibrium point.",
+    "**Demand shift:** show D1 → D2 (right or left) along a fixed S, then mark the new equilibrium and use arrows to show P and Q changing. Never confuse a shift with a movement.",
+    "**Supply shift:** show S1 → S2 along a fixed D; show new P and Q. Tax shifts S left/up, subsidy shifts S right/down.",
+    "**Shortage / surplus:** draw a horizontal price line above (surplus) or below (shortage) equilibrium and label the horizontal gap between the curves as excess supply / excess demand."
+  ],
+  "tips": [
+    "**Always label diagrams fully** — axes (Price, Quantity), every curve (D, S, D1, D2…), and the equilibrium price & quantity. Unlabelled diagrams lose easy marks.",
+    "Use the precise command-word language: *‘the demand curve shifts to the right from D1 to D2’*, not ‘demand goes up’. **Shift vs movement** is the single most common error.",
+    "For ‘analyse/explain’ questions, **chain your logic**: cause → which curve shifts and why → new equilibrium → effect on price AND quantity.",
+    "Watch the **own-price trap**: a change in the good's own price NEVER shifts its own demand or supply curve — it's a movement along.",
+    "When **both curves shift**, state clearly that the effect on price *or* quantity is **indeterminate** and explain it depends on the relative magnitude of the shifts — this scores evaluation marks.",
+    "Bring in **real, ideally Egyptian, examples** (EGP devaluation → import costs; population growth → housing demand) for application and evaluation marks.",
+    "Distinguish a normal from an inferior good by the **direction of the income effect**, and remember inferior-good demand can *rise* in a recession."
+  ],
+  "videos": {
+    "channels": [
+      { "name": "tutor2u Economics", "url": "https://www.youtube.com/@tutor2u", "why": "Exam-board-focused short revision videos; excellent for AS/A2 micro and macro." },
+      { "name": "EconplusDal", "url": "https://www.youtube.com/@EconplusDal", "why": "Clear diagram walkthroughs and 25-mark essay technique; great for A Level evaluation." },
+      { "name": "Khan Academy — Microeconomics", "url": "https://www.youtube.com/playlist?list=PLECDB72AE65C5B528", "why": "Slow, fundamentals-first explanations of demand, supply and equilibrium." }
+    ],
+    "keyConcepts": [
+      { "concept": "Law of demand & why the curve slopes down", "title": "Demand — tutor2u / EconplusDal explainer", "url": "https://www.youtube.com/results?search_query=econplusdal+demand+curve+a+level" },
+      { "concept": "Shifts vs movements along demand & supply", "title": "Shifts vs movements (the #1 exam trap)", "url": "https://www.youtube.com/results?search_query=shifts+vs+movements+demand+supply+a+level+economics" },
+      { "concept": "Market equilibrium, shortages & surpluses", "title": "Equilibrium, excess demand & excess supply", "url": "https://www.youtube.com/results?search_query=market+equilibrium+excess+demand+supply+tutor2u" },
+      { "concept": "Both curves shifting (indeterminate outcome)", "title": "When demand AND supply shift together", "url": "https://www.youtube.com/results?search_query=demand+and+supply+both+shift+indeterminate+a+level" }
+    ]
+  },
+  "searchTerms": ["price mechanism", "rationing signalling incentive", "extension contraction", "shortage surplus", "PIRATES conditions of demand", "market clearing"]
+}

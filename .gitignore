@@ -1,0 +1,10 @@
+# Never publish the copyrighted coursebook
+*.pdf
+
+# OS / editor cruft
+.DS_Store
+*.swp
+
+# Python / scratch
+venv/
+__pycache__/

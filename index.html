@@ -1,0 +1,49 @@
+<!DOCTYPE html>
+<html lang="en" data-theme="dark">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Econ 9708 — A Level Economics</title>
+  <meta name="description" content="Personal study hub for Cambridge International AS & A Level Economics (9708)." />
+  <link rel="preconnect" href="https://fonts.googleapis.com" />
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+  <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600&family=Space+Grotesk:wght@500;600;700&display=swap" rel="stylesheet" />
+  <link rel="stylesheet" href="assets/styles.css" />
+</head>
+<body>
+  <button id="navToggle" class="nav-toggle" aria-label="Toggle navigation">☰</button>
+
+  <aside id="sidebar" class="sidebar">
+    <div class="brand">
+      <span class="brand-mark">9708</span>
+      <div class="brand-text">
+        <strong>A Level Economics</strong>
+        <small>Cambridge International · AS &amp; A2</small>
+      </div>
+    </div>
+
+    <div class="search-wrap">
+      <input id="search" type="search" placeholder="Search notes, terms, topics…" autocomplete="off" />
+      <div id="searchResults" class="search-results" hidden></div>
+    </div>
+
+    <div class="progress-summary" id="progressSummary">
+      <div class="progress-bar"><span id="progressFill"></span></div>
+      <small id="progressLabel">0 of 0 chapters done</small>
+    </div>
+
+    <nav id="nav" class="nav" aria-label="Chapters"></nav>
+
+    <div class="sidebar-foot">
+      <button id="themeToggle" class="ghost-btn" title="Toggle dim / dark">◐ Dim</button>
+    </div>
+  </aside>
+
+  <main id="content" class="content">
+    <div class="loading">Loading…</div>
+  </main>
+
+  <script src="assets/marked.min.js"></script>
+  <script src="assets/app.js"></script>
+</body>
+</html>
