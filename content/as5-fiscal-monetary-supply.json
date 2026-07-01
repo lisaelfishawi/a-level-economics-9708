@@ -1,0 +1,40 @@
+{
+  "id": "as5-fiscal-monetary-supply",
+  "unit": "as5",
+  "title": "Fiscal, monetary & supply-side policy",
+  "order": 2,
+  "summary": "## Three families of macro policy\n\nGovernments have three main policy toolkits. **Fiscal** and **monetary** policy are **demand-side** (they shift AD); **supply-side** policy shifts **LRAS**.\n\n## 1. Fiscal policy\n\n**Fiscal policy** = the use of **government spending (G)** and **taxation (T)** to influence AD and the economy.\n- **Expansionary** — cut taxes and/or raise spending → **AD rises** (used to fight recession/unemployment). Usually widens the **budget deficit**.\n- **Contractionary** — raise taxes and/or cut spending → **AD falls** (used to curb inflation).\n- **Direct/indirect taxes**; a **budget deficit** (G > T) adds to **national debt**, a **surplus** (T > G) reduces it.\n- **Strengths:** can target specific groups/regions; government spending directly creates demand; can also improve supply (infrastructure, education).\n- **Weaknesses:** time lags, risk of rising debt and interest costs, **crowding out** of private investment, political constraints.\n\n## 2. Monetary policy\n\n**Monetary policy** = a central bank's use of **interest rates**, the **money supply** and (later) **quantitative easing** to influence AD, usually to hit an inflation target.\n- **Lower interest rates** → cheaper borrowing, less saving, higher C and I, weaker currency (↑X−M) → **AD rises**.\n- **Higher interest rates** → the reverse, cooling demand and inflation.\n- **Strengths:** flexible, run by an independent central bank (credibility), affects the whole economy.\n- **Weaknesses:** time lags (~18 months), ineffective at very low rates (liquidity trap), depends on confidence, and hits borrowers/exporters unevenly.\n\n## 3. Supply-side policy\n\n**Supply-side policies** aim to raise the economy's **productive capacity and efficiency**, shifting **LRAS right** (potential growth) — the only way to raise growth *without* inflation in the long run.\n- **Market-based:** cut income/corporation tax to sharpen incentives, deregulation, privatisation, trade-union reform, reducing benefits to boost work incentives.\n- **Interventionist:** government spending on **education & training, infrastructure, healthcare, R&D** to raise productivity and human capital.\n- **Strengths:** can improve *several* objectives at once (growth, jobs, lower inflation, better trade balance).\n- **Weaknesses:** **long time lags**, costly, uncertain success, and some measures raise **inequality**.\n\n## Choosing and combining policies\n\nThe right mix depends on the **cause** of the problem: demand-side tools for cyclical/demand shocks; supply-side tools for structural weakness and long-run growth. Policies are often **combined** (e.g. loose monetary + supply-side reform).\n\n## Why it matters\n\nThis chapter is the payoff of AS macro: it applies the AD/AS model to real policy and is the heart of ‘evaluate the best policy to achieve X’ essays in both AS and A2 (Unit 10).",
+  "keyTerms": [
+    { "term": "Fiscal policy", "definition": "Using government spending and taxation to influence aggregate demand." },
+    { "term": "Budget deficit", "definition": "When government spending exceeds tax revenue in a period; adds to national debt." },
+    { "term": "Monetary policy", "definition": "A central bank's use of interest rates and the money supply to influence AD." },
+    { "term": "Interest rate", "definition": "The price/reward of borrowing and saving money; the main monetary-policy tool." },
+    { "term": "Supply-side policy", "definition": "Policies to raise productive capacity and efficiency, shifting LRAS right." },
+    { "term": "Crowding out", "definition": "When higher government borrowing/spending reduces private-sector investment." },
+    { "term": "Demand-side vs supply-side", "definition": "Demand-side policy shifts AD; supply-side policy shifts LRAS." }
+  ],
+  "diagrams": [
+    "**Expansionary demand-side policy:** AD shifts right on AD/AS → higher output (and possibly higher price level near capacity).",
+    "**Contractionary policy:** AD shifts left → lower price level and output.",
+    "**Supply-side policy:** LRAS (and SRAS) shift right → higher output with a *lower* price level — the ideal outcome."
+  ],
+  "tips": [
+    "Classify tools correctly: **fiscal & monetary = demand-side (shift AD)**; **supply-side = shift LRAS**.",
+    "For every policy, give **strengths AND weaknesses** (time lags, debt, crowding out, uncertainty) to reach the top bands.",
+    "Match the **policy to the cause**: demand-side for cyclical problems, supply-side for structural/long-run growth.",
+    "Stress that only **supply-side/LRAS growth** raises output *without* inflation in the long run — a key evaluation line.",
+    "Note the **conflicts/side-effects** (e.g. supply-side reforms raising inequality; higher rates hurting exporters)."
+  ],
+  "videos": {
+    "channels": [
+      { "name": "tutor2u Economics", "url": "https://www.youtube.com/@tutor2u", "why": "Comprehensive fiscal, monetary and supply-side coverage." },
+      { "name": "EconplusDal", "url": "https://www.youtube.com/@EconplusDal", "why": "Excellent policy-evaluation frameworks." }
+    ],
+    "keyConcepts": [
+      { "concept": "Fiscal policy", "title": "Fiscal policy explained", "url": "https://www.youtube.com/results?search_query=fiscal+policy+a+level+economics+tutor2u" },
+      { "concept": "Monetary policy & interest rates", "title": "Monetary policy explained", "url": "https://www.youtube.com/results?search_query=monetary+policy+interest+rates+a+level+economics" },
+      { "concept": "Supply-side policies", "title": "Supply-side policies explained", "url": "https://www.youtube.com/results?search_query=supply+side+policies+a+level+economics+tutor2u" }
+    ]
+  },
+  "searchTerms": ["government spending taxation", "budget deficit national debt", "interest rate transmission", "quantitative easing", "market-based interventionist", "LRAS shift", "crowding out"]
+}

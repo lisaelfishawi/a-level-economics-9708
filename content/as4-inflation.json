@@ -1,0 +1,41 @@
+{
+  "id": "as4-inflation",
+  "unit": "as4",
+  "title": "Inflation & deflation",
+  "order": 3,
+  "summary": "## Definitions\n\n- **Inflation** — a *sustained rise in the general price level* (fall in the value/purchasing power of money).\n- **Deflation** — a *sustained fall in the general price level*.\n- **Disinflation** — a *fall in the rate* of inflation (prices still rising, but more slowly).\n\n## Measuring inflation — the CPI\n\nThe **Consumer Price Index (CPI)** tracks the price of a representative **basket of goods and services**:\n1. A survey finds what typical households buy.\n2. Items are **weighted** by their share of spending.\n3. Prices are collected regularly and combined into an index.\n4. The **% change in the index** is the inflation rate.\n\n**Limitations of the CPI:** the basket becomes outdated (quality changes, new products), it's an *average* that hides differences between households, and it may not reflect an individual's spending pattern.\n\n## Causes of inflation\n\n- **Demand-pull inflation** — **AD rises** faster than AS near full capacity; ‘too much money chasing too few goods’. Shown by AD shifting right along a steep AS.\n- **Cost-push inflation** — **rising costs** (wages, imported raw materials, energy, a weaker currency, higher indirect taxes) shift **SRAS left**, raising prices and cutting output.\n- **Monetary/growth of money supply** — an excessive rise in the money supply (monetarist view) fuels inflation.\n\n## Consequences of inflation\n\n- **Falling purchasing power** and lower real incomes, especially for those on fixed incomes.\n- **Menu costs** (changing prices) and **shoe-leather costs** (managing money).\n- **Loss of international competitiveness** → worse trade balance.\n- **Redistribution:** borrowers gain, lenders/savers lose (if real interest is negative).\n- **Uncertainty** deters investment. *Fiscal drag* pushes people into higher tax bands.\n- But **low, stable inflation (~2%)** is generally seen as healthy — it lubricates the economy and avoids deflation.\n\n## Consequences of deflation\n\nDeflation is often more dangerous:\n- Consumers **delay spending** (expecting lower prices) → falling AD.\n- Rising **real debt** burdens borrowers.\n- Falling profits, wages and employment → a **deflationary spiral**.\n\n## Why it matters\n\nPrice stability (usually ~2% CPI) is a central government objective. Diagnosing inflation as demand-pull vs cost-push determines the right policy response (demand-side vs supply-side), so this chapter connects directly to Unit 5.",
+  "keyTerms": [
+    { "term": "Inflation", "definition": "A sustained rise in the general price level, reducing money's purchasing power." },
+    { "term": "Deflation", "definition": "A sustained fall in the general price level." },
+    { "term": "Disinflation", "definition": "A fall in the rate of inflation; prices still rise but more slowly." },
+    { "term": "Consumer Price Index (CPI)", "definition": "A weighted index of the price of a representative basket of goods and services." },
+    { "term": "Demand-pull inflation", "definition": "Inflation caused by AD rising faster than supply near full capacity." },
+    { "term": "Cost-push inflation", "definition": "Inflation caused by rising costs shifting SRAS to the left." },
+    { "term": "Purchasing power", "definition": "The quantity of goods and services a unit of money can buy." },
+    { "term": "Deflationary spiral", "definition": "Falling prices → delayed spending → falling AD, output and wages → further falls." }
+  ],
+  "diagrams": [
+    "**Demand-pull:** AD shifts right along a steep/near-vertical AS → higher price level and output.",
+    "**Cost-push:** SRAS shifts left → higher price level, lower output (stagflation).",
+    "Optional: a diagram of the **CPI basket/weights** concept, or a price-index line over time."
+  ],
+  "tips": [
+    "Define inflation precisely as a **sustained rise in the *general* price level** — not a one-off or a single good's price.",
+    "Always diagnose the **type** (demand-pull vs cost-push) with the correct AD/AS shift — it drives the policy answer.",
+    "Distinguish **disinflation** (rate falling) from **deflation** (prices falling) — a common trap.",
+    "Give **CPI limitations** (outdated basket, average masks differences) for evaluation.",
+    "Explain why **deflation can be worse than mild inflation** (delayed spending, rising real debt) — a strong higher-mark point."
+  ],
+  "videos": {
+    "channels": [
+      { "name": "tutor2u Economics", "url": "https://www.youtube.com/@tutor2u", "why": "Clear on inflation causes, CPI and consequences." },
+      { "name": "EconplusDal", "url": "https://www.youtube.com/@EconplusDal", "why": "Strong demand-pull/cost-push diagrams." }
+    ],
+    "keyConcepts": [
+      { "concept": "Causes of inflation", "title": "Demand-pull and cost-push inflation", "url": "https://www.youtube.com/results?search_query=demand+pull+cost+push+inflation+a+level+economics" },
+      { "concept": "Measuring inflation (CPI)", "title": "How the CPI measures inflation", "url": "https://www.youtube.com/results?search_query=cpi+measuring+inflation+a+level+economics" },
+      { "concept": "Deflation and its dangers", "title": "Why deflation is dangerous", "url": "https://www.youtube.com/results?search_query=deflation+dangers+a+level+economics" }
+    ]
+  },
+  "searchTerms": ["general price level", "basket of goods weights", "menu shoe-leather costs", "fiscal drag", "hyperinflation", "value of money", "price stability"]
+}

@@ -1,0 +1,38 @@
+{
+  "id": "as3-price-controls",
+  "unit": "as3",
+  "title": "Maximum & minimum prices",
+  "order": 1,
+  "summary": "## Why governments control prices\n\nGovernments intervene in markets to change the price/quantity outcome for reasons of **equity, affordability or protection**. The two main direct controls are **maximum prices** and **minimum prices**.\n\n## Maximum (ceiling) prices\n\nA **maximum price** is a legal *upper limit* on the price of a good, set to make essentials affordable (e.g. rent controls, capped food/fuel prices).\n\n- To have any effect it must be set **below the free-market equilibrium**.\n- Result: quantity demanded > quantity supplied → a **shortage (excess demand)**.\n- **Consequences:** queues, waiting lists, rationing, black (parallel) markets where the good is resold above the cap, and a fall in quality.\n\n> Diagram: price line below equilibrium; the horizontal gap between the S and D curves at that price is the shortage.\n\n**To ease the shortage** the government can shift supply right (subsidise producers, release buffer stocks) or ration fairly.\n\n## Minimum (floor) prices\n\nA **minimum price** is a legal *lower limit*, set to protect producers' incomes or discourage consumption (e.g. agricultural price supports, a national minimum wage, minimum alcohol pricing).\n\n- To have any effect it must be set **above the free-market equilibrium**.\n- Result: quantity supplied > quantity demanded → a **surplus (excess supply)**.\n- **Consequences:** unsold surpluses, government cost of buying up the surplus, wasted resources, and possible over-production.\n\n> Diagram: price line above equilibrium; the horizontal gap between S and D at that price is the surplus.\n\n## Buffer stock schemes\n\nFor volatile agricultural/commodity markets, a **buffer stock scheme** stabilises prices around a target range: the agency **buys and stores** when prices fall to the floor and **sells from stock** when prices rise to the ceiling.\n- **Pros:** stabler farm incomes and consumer prices.\n- **Cons:** high storage costs, risk of running out of stock or funds, hard to set the right price, perishability.\n\n## Evaluation\n\nPrice controls trade one problem for another: maximum prices raise affordability but create shortages and black markets; minimum prices protect incomes but create surpluses and inefficiency. Effectiveness depends on **elasticities**, enforcement, and whether the control tackles the underlying cause. Governments often prefer subsidies/taxes or income support instead.\n\n## Why it matters\n\nPrice controls are a direct, examinable application of demand & supply, surplus and elasticity — and a classic ‘government failure’ case where intervention creates new distortions.",
+  "keyTerms": [
+    { "term": "Maximum (ceiling) price", "definition": "A legal upper limit on price, effective only if set below the equilibrium; causes shortages." },
+    { "term": "Minimum (floor) price", "definition": "A legal lower limit on price, effective only if set above the equilibrium; causes surpluses." },
+    { "term": "Excess demand (shortage)", "definition": "When quantity demanded exceeds quantity supplied at the controlled price." },
+    { "term": "Excess supply (surplus)", "definition": "When quantity supplied exceeds quantity demanded at the controlled price." },
+    { "term": "Black market", "definition": "An illegal market where goods are traded above a maximum price during a shortage." },
+    { "term": "Buffer stock scheme", "definition": "A price-stabilisation scheme that buys surplus at a floor and sells stock at a ceiling." }
+  ],
+  "diagrams": [
+    "**Maximum price:** D/S diagram with a horizontal price line BELOW equilibrium; label the shortage as the horizontal distance between quantity demanded and quantity supplied.",
+    "**Minimum price:** D/S diagram with a horizontal price line ABOVE equilibrium; label the surplus (excess supply).",
+    "**Buffer stock:** show a target price band; buying adds to demand when price hits the floor, selling adds to supply when price hits the ceiling."
+  ],
+  "tips": [
+    "State the golden rule: a maximum price only bites **below** equilibrium; a minimum price only bites **above** it. Getting this wrong loses the whole answer.",
+    "Always identify and **label the shortage or surplus** on the diagram, then explain the consequences (black markets, waste).",
+    "Bring elasticity in: the **size** of the shortage/surplus depends on the elasticities of demand and supply.",
+    "Evaluate with **alternatives** (subsidies, income support) and note the risk of **government failure**.",
+    "Use real examples: Egyptian bread/fuel subsidies (implicit price caps), minimum wages, minimum alcohol pricing."
+  ],
+  "videos": {
+    "channels": [
+      { "name": "tutor2u Economics", "url": "https://www.youtube.com/@tutor2u", "why": "Clear max/min price diagrams and evaluation." },
+      { "name": "EconplusDal", "url": "https://www.youtube.com/@EconplusDal", "why": "Strong on price controls and buffer stocks." }
+    ],
+    "keyConcepts": [
+      { "concept": "Maximum & minimum prices", "title": "Price ceilings and floors explained", "url": "https://www.youtube.com/results?search_query=maximum+minimum+price+a+level+economics+tutor2u" },
+      { "concept": "Buffer stock schemes", "title": "Buffer stocks and price stabilisation", "url": "https://www.youtube.com/results?search_query=buffer+stock+scheme+a+level+economics" }
+    ]
+  },
+  "searchTerms": ["price ceiling floor", "rent control", "minimum wage", "shortage surplus", "black market", "commodity price stabilisation"]
+}

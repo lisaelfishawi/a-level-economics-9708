@@ -142,7 +142,6 @@
       "unit": "as3",
       "order": 1,
       "title": "Maximum & minimum prices",
-      "stub": true,
       "keywords": [
         "price ceiling floor",
         "shortage surplus",
@@ -154,7 +153,6 @@
       "unit": "as3",
       "order": 2,
       "title": "Indirect taxes & subsidies",
-      "stub": true,
       "keywords": [
         "specific ad valorem tax",
         "subsidy",
@@ -166,7 +164,6 @@
       "unit": "as3",
       "order": 3,
       "title": "Direct provision & other intervention",
-      "stub": true,
       "keywords": [
         "state provision",
         "transfer payments",
@@ -178,7 +175,6 @@
       "unit": "as4",
       "order": 1,
       "title": "Aggregate demand & aggregate supply",
-      "stub": true,
       "keywords": [
         "AD AS",
         "components C I G X-M",
@@ -191,7 +187,6 @@
       "unit": "as4",
       "order": 2,
       "title": "Measuring economic activity (GDP)",
-      "stub": true,
       "keywords": [
         "GDP GNI",
         "real nominal",
@@ -204,7 +199,6 @@
       "unit": "as4",
       "order": 3,
       "title": "Inflation & deflation",
-      "stub": true,
       "keywords": [
         "CPI",
         "demand-pull cost-push",
@@ -217,7 +211,6 @@
       "unit": "as4",
       "order": 4,
       "title": "Balance of payments & exchange rates",
-      "stub": true,
       "keywords": [
         "current account",
         "exchange rate",
@@ -230,7 +223,6 @@
       "unit": "as5",
       "order": 1,
       "title": "Macroeconomic policy objectives",
-      "stub": true,
       "keywords": [
         "growth employment inflation BoP",
         "conflicts"
@@ -241,7 +233,6 @@
       "unit": "as5",
       "order": 2,
       "title": "Fiscal, monetary & supply-side policy",
-      "stub": true,
       "keywords": [
         "interest rates",
         "government spending taxation",

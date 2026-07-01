@@ -1,0 +1,39 @@
+{
+  "id": "as4-bop-exchange",
+  "unit": "as4",
+  "title": "Balance of payments & exchange rates",
+  "order": 4,
+  "summary": "## The balance of payments\n\nThe **balance of payments (BoP)** records all economic transactions between a country and the rest of the world over a period. It has two main parts:\n\n### The current account (AS focus)\nRecords trade and income flows:\n1. **Trade in goods** (visible trade) — exports minus imports of goods.\n2. **Trade in services** (invisible trade) — e.g. tourism, shipping, finance.\n3. **Primary income** — income from investment and employment abroad (interest, profits, dividends, wages).\n4. **Secondary income (current transfers)** — e.g. remittances, foreign aid.\n\n- A **current account deficit** = value of imports/outflows > exports/inflows.\n- A **current account surplus** = the reverse.\n\n### The financial and capital accounts\nRecord flows of **investment and capital** (FDI, portfolio flows, reserves). In principle the accounts **balance overall** — a current-account deficit is financed by inflows on the financial account.\n\n## Exchange rates\n\nThe **exchange rate** is the price of one currency in terms of another. It is set in the foreign-exchange market by **demand for and supply of the currency** (demand comes from exports and inward investment; supply from imports and outward investment).\n\n- **Appreciation** — a rise in the currency's value (floating system).\n- **Depreciation** — a fall in its value (floating system).\n- **Revaluation / devaluation** — a deliberate rise/fall under a **fixed** system.\n\n## Effects of a change — SPICED / WPIDEC\n\n- **Depreciation:** exports cheaper, imports dearer → **WPIDEC** (Weak Pound, Imports Dear, Exports Cheap). Can improve the current account and raise AD, but raises imported inflation.\n- **Appreciation:** **SPICED** (Strong Pound, Imports Cheap, Exports Dear). Can worsen the current account but eases imported inflation.\n\n> The effect on the **trade balance depends on elasticities** (the Marshall–Lerner condition, developed at A2): a depreciation only improves the current account if demand for exports and imports is sufficiently elastic. In the short run the trade balance may worsen first — the **J-curve effect**.\n\n## Egypt application\n\nWhen the **Central Bank of Egypt floated/devalued the pound (EGP)**, imports (wheat, fuel, machinery) became far more expensive — raising **imported cost-push inflation** — while Egyptian exports and tourism became more price-competitive. A textbook depreciation case.\n\n## Why it matters\n\nThe BoP and exchange rates connect the domestic economy to the world, linking directly to AD (via net exports), inflation (imported costs), competitiveness and macro policy. Exchange-rate systems are developed further in A2 Unit 9.",
+  "keyTerms": [
+    { "term": "Balance of payments", "definition": "A record of all economic transactions between a country and the rest of the world." },
+    { "term": "Current account", "definition": "The part of the BoP recording trade in goods and services, plus primary and secondary income." },
+    { "term": "Current account deficit", "definition": "When the outflows on the current account exceed the inflows." },
+    { "term": "Exchange rate", "definition": "The price of one currency expressed in terms of another." },
+    { "term": "Depreciation", "definition": "A fall in a currency's value in a floating exchange-rate system." },
+    { "term": "Appreciation", "definition": "A rise in a currency's value in a floating exchange-rate system." },
+    { "term": "Devaluation / revaluation", "definition": "A deliberate fall/rise in a currency's value under a fixed exchange-rate system." }
+  ],
+  "diagrams": [
+    "**FOREX market:** axes = exchange rate (price of the currency) and quantity of the currency; downward demand, upward supply; show demand/supply shifts causing appreciation or depreciation.",
+    "Optional: label the **current account structure** (goods, services, primary and secondary income) as a table."
+  ],
+  "tips": [
+    "Know the **four parts of the current account**; goods = visible, services = invisible trade.",
+    "Use **WPIDEC / SPICED** to recall the effects of depreciation/appreciation quickly and correctly.",
+    "State that the trade-balance effect **depends on elasticities** (Marshall–Lerner / J-curve) — a strong evaluation link.",
+    "Distinguish market-driven **appreciation/depreciation** (floating) from policy-driven **revaluation/devaluation** (fixed).",
+    "Apply to **Egypt's EGP devaluation** for high-quality application and evaluation marks (imported inflation vs competitiveness)."
+  ],
+  "videos": {
+    "channels": [
+      { "name": "tutor2u Economics", "url": "https://www.youtube.com/@tutor2u", "why": "Clear BoP and exchange-rate diagrams and effects." },
+      { "name": "EconplusDal", "url": "https://www.youtube.com/@EconplusDal", "why": "Strong on exchange-rate effects and the current account." }
+    ],
+    "keyConcepts": [
+      { "concept": "The current account of the BoP", "title": "Balance of payments explained", "url": "https://www.youtube.com/results?search_query=balance+of+payments+current+account+a+level+economics" },
+      { "concept": "Exchange rate determination", "title": "How exchange rates are determined", "url": "https://www.youtube.com/results?search_query=exchange+rate+determination+forex+a+level+economics" },
+      { "concept": "Effects of appreciation & depreciation", "title": "Appreciation vs depreciation effects", "url": "https://www.youtube.com/results?search_query=appreciation+depreciation+effects+a+level+economics" }
+    ]
+  },
+  "searchTerms": ["visible invisible trade", "primary secondary income", "trade deficit surplus", "forex market", "WPIDEC SPICED", "Marshall-Lerner", "J-curve", "EGP devaluation"]
+}

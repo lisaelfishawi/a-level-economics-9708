@@ -1,0 +1,42 @@
+{
+  "id": "as4-ad-as",
+  "unit": "as4",
+  "title": "Aggregate demand & aggregate supply",
+  "order": 1,
+  "summary": "## The macro model\n\n**Aggregate demand (AD)** and **aggregate supply (AS)** determine the economy's overall **price level** and **real output (real GDP)** — the macro equivalent of demand & supply. Their intersection is **macroeconomic equilibrium**.\n\n## Aggregate demand\n\n**AD = C + I + G + (X − M)** — total planned spending on domestic output:\n- **C** — consumption (households); the largest component.\n- **I** — investment (firms' spending on capital).\n- **G** — government spending.\n- **(X − M)** — net exports (exports minus imports).\n\nThe **AD curve slopes downward** because a lower price level raises real incomes (*real balance/wealth effect*), lowers interest rates (encouraging C and I), and makes exports more competitive (*trade effect*).\n\n**AD shifts** when any component changes — e.g. a fall in interest rates (↑C, ↑I), a tax cut (↑C), a weaker currency (↑X−M), or higher confidence.\n\n## The circular flow (context)\n\nIncome flows between households and firms, with **injections** (I, G, X) adding to and **withdrawals/leakages** (S, T, M) removing from the flow. When injections = withdrawals, the economy is in equilibrium.\n\n## Aggregate supply\n\n**AS** shows total planned output at each price level.\n- **SRAS (short-run AS)** slopes **upward**: higher prices, with sticky costs, make production more profitable. It shifts with **costs of production** (wages, raw materials, energy, exchange rate, indirect taxes).\n- **LRAS (long-run AS)** shows the economy's **productive capacity** (the ‘full-employment’ level). Its shape is debated:\n  - **Keynesian LRAS** — horizontal at low output (spare capacity), curving to vertical at full capacity.\n  - **Classical/monetarist LRAS** — **vertical** at the full-employment level of output, determined only by the quantity/quality of factors.\n\n**LRAS shifts right** with anything that raises long-run capacity: more/better labour and capital, technology, productivity, and effective supply-side policies (this is **potential economic growth**, an outward PPC shift).\n\n## Using the model\n\n- A rise in AD with spare capacity → higher output and employment with little inflation.\n- A rise in AD near full capacity → mainly **demand-pull inflation**.\n- A rise in costs → **SRAS shifts left** → **cost-push inflation** and lower output (*stagflation*).\n\n## Why it matters\n\nAD/AS is the master diagram of macro. Every macro topic — growth, unemployment, inflation, and fiscal/monetary/supply-side policy — is analysed by shifting AD or AS. Master it now.",
+  "keyTerms": [
+    { "term": "Aggregate demand (AD)", "definition": "Total planned spending on domestic output: C + I + G + (X − M)." },
+    { "term": "Consumption (C)", "definition": "Household spending on goods and services; the largest AD component." },
+    { "term": "Investment (I)", "definition": "Firms' spending on capital goods." },
+    { "term": "Net exports (X − M)", "definition": "Exports minus imports; a component of AD." },
+    { "term": "Short-run AS (SRAS)", "definition": "Upward-sloping AS that shifts with production costs." },
+    { "term": "Long-run AS (LRAS)", "definition": "The economy's productive capacity; vertical (classical) or reverse-L (Keynesian)." },
+    { "term": "Macroeconomic equilibrium", "definition": "Where AD equals AS, setting the price level and real output." },
+    { "term": "Injections & withdrawals", "definition": "Injections (I, G, X) add to the circular flow; withdrawals (S, T, M) remove from it." }
+  ],
+  "diagrams": [
+    "**AD/AS equilibrium:** axes = Price Level (vertical) and Real GDP/output (horizontal); downward AD, upward SRAS; mark equilibrium price level and output.",
+    "**AD shift:** show AD1 → AD2 and the effect on price level and output (near vs far from capacity).",
+    "**SRAS shift:** show a cost rise shifting SRAS left → higher price level, lower output (cost-push/stagflation).",
+    "**LRAS shapes:** draw the vertical Classical LRAS and the reverse-L Keynesian LRAS; show LRAS shifting right for potential growth."
+  ],
+  "tips": [
+    "Memorise **AD = C + I + G + (X − M)** and be ready to explain how a shock changes a specific component.",
+    "Be explicit about **capacity**: the inflation/output effect of an AD rise depends on how close output is to full employment.",
+    "Distinguish **SRAS shifts (costs)** from **LRAS shifts (capacity/potential growth)** — a common confusion.",
+    "Know both **LRAS shapes** (Keynesian vs Classical) and mention the debate for evaluation marks.",
+    "Use the model to define **demand-pull** vs **cost-push** inflation with the correct curve shift."
+  ],
+  "videos": {
+    "channels": [
+      { "name": "tutor2u Economics", "url": "https://www.youtube.com/@tutor2u", "why": "Comprehensive AD/AS diagram tutorials." },
+      { "name": "EconplusDal", "url": "https://www.youtube.com/@EconplusDal", "why": "Clear on AD components and LRAS debate." }
+    ],
+    "keyConcepts": [
+      { "concept": "AD and its components", "title": "Aggregate demand explained", "url": "https://www.youtube.com/results?search_query=aggregate+demand+a+level+economics+tutor2u" },
+      { "concept": "SRAS and LRAS", "title": "Aggregate supply — SRAS and LRAS", "url": "https://www.youtube.com/results?search_query=aggregate+supply+sras+lras+a+level+economics" },
+      { "concept": "Keynesian vs Classical LRAS", "title": "Keynesian vs Classical AS", "url": "https://www.youtube.com/results?search_query=keynesian+classical+lras+a+level+economics" }
+    ]
+  },
+  "searchTerms": ["C I G X-M", "real balance effect", "circular flow", "injections withdrawals", "demand-pull cost-push", "potential growth", "stagflation"]
+}

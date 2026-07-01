@@ -1,0 +1,36 @@
+{
+  "id": "as3-direct-provision",
+  "unit": "as3",
+  "title": "Direct provision & other intervention",
+  "order": 3,
+  "summary": "## Beyond prices and taxes\n\nAs well as price controls and taxes/subsidies, governments correct market failure and pursue equity through **direct provision, transfer payments, regulation, information and nudges**. This chapter surveys these tools and how to evaluate them.\n\n## Direct (state) provision\n\nThe government **produces and supplies goods itself**, usually **free at the point of use**, funded by taxation.\n- Used for **public goods** (defence, street lighting) that markets under-provide, and **merit goods** (state schools, public healthcare) to boost consumption and equity.\n- **Pros:** ensures access regardless of income, corrects under-consumption, captures positive externalities.\n- **Cons:** **opportunity cost** to the budget, risk of **excess demand** and waiting lists when price is zero, and possible **inefficiency/x-inefficiency** without the profit incentive.\n\n## Transfer payments\n\n**Transfer payments** (pensions, unemployment benefit, subsidies to households) redistribute income *without* anything being produced in return. They tackle **inequity and poverty** but may weaken work incentives and are costly.\n\n## Regulation and legislation\n\nRules that **compel or ban** behaviour: bans on demerit goods to minors, emissions limits, licensing, health-and-safety, compulsory schooling.\n- **Pros:** direct, clear, can be strong where taxes are politically hard.\n- **Cons:** enforcement/monitoring costs, black markets, may be a blunt instrument, risk of **regulatory capture** and government failure.\n\n## Information provision\n\nCorrects **information failure** so consumers make better choices: labelling, health warnings, advertising campaigns, compulsory disclosure.\n- **Pros:** cheaper than provision, preserves choice.\n- **Cons:** may be ignored; effect uncertain; time lags.\n\n## Behavioural ‘nudges’\n\nUsing **choice architecture** to steer behaviour while preserving freedom (e.g. **default enrolment** into pensions, placing healthy food at eye level). Cheap and popular, but effects can be small and raise ethical questions (developed further in A2 behavioural economics).\n\n## Government failure\n\nIntervention can leave society **worse off** — this is **government failure**, caused by: imperfect information, unintended consequences (black markets, distorted incentives), administrative/enforcement costs, regulatory capture, and political short-termism. Always weigh it against the market failure being corrected.\n\n## Why it matters\n\nThis chapter gives you the full ‘policy toolkit’ and the crucial evaluative concept of **government failure** — essential for the higher-mark ‘discuss/evaluate’ questions throughout the course.",
+  "keyTerms": [
+    { "term": "Direct provision", "definition": "Government producing and supplying a good itself, often free at the point of use." },
+    { "term": "Transfer payment", "definition": "A government payment that redistributes income with no good or service produced in return." },
+    { "term": "Regulation", "definition": "Rules that compel or prohibit certain behaviour to correct market failure." },
+    { "term": "Information provision", "definition": "Government action to correct information failure (labels, warnings, campaigns)." },
+    { "term": "Nudge / choice architecture", "definition": "Designing how choices are presented to influence behaviour while preserving freedom of choice." },
+    { "term": "Government failure", "definition": "When intervention creates a net welfare loss, e.g. through distortions, costs or unintended effects." }
+  ],
+  "diagrams": [
+    "No specific diagram, but direct provision of a merit good links to the **positive-externality (MSB > MPB)** diagram — reference it to show the welfare gain from higher consumption."
+  ],
+  "tips": [
+    "Match the **tool to the failure**: public goods → direct provision; information failure → information/nudges; inequity → transfer payments.",
+    "Always evaluate with **government failure** — costs, unintended consequences, and opportunity cost of spending.",
+    "For direct provision, note the **zero-price problem**: excess demand, waiting lists and rationing by time not price.",
+    "Use nudges/choice architecture as a modern, high-level evaluation point (links to A2 behavioural economics).",
+    "Balance every answer: state the intended benefit, then the risk of government failure, then a judgement."
+  ],
+  "videos": {
+    "channels": [
+      { "name": "tutor2u Economics", "url": "https://www.youtube.com/@tutor2u", "why": "Covers state provision, regulation and government failure." },
+      { "name": "EconplusDal", "url": "https://www.youtube.com/@EconplusDal", "why": "Good synthesis of intervention tools and evaluation." }
+    ],
+    "keyConcepts": [
+      { "concept": "Government failure", "title": "Government failure explained", "url": "https://www.youtube.com/results?search_query=government+failure+a+level+economics+tutor2u" },
+      { "concept": "Nudge theory & behavioural policy", "title": "Nudge theory and choice architecture", "url": "https://www.youtube.com/results?search_query=nudge+theory+behavioural+economics+a+level" }
+    ]
+  },
+  "searchTerms": ["state provision", "public sector", "regulation legislation", "information failure", "nudge default", "regulatory capture", "unintended consequences"]
+}

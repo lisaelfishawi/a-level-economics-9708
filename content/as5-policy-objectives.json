@@ -1,0 +1,39 @@
+{
+  "id": "as5-policy-objectives",
+  "unit": "as5",
+  "title": "Macroeconomic policy objectives",
+  "order": 1,
+  "summary": "## The four main macroeconomic objectives\n\nGovernments pursue four core goals (sometimes with two more):\n1. **Economic growth** — steady, sustainable growth of real GDP (raising living standards).\n2. **Low unemployment** — a high level of employment / low unemployment.\n3. **Low and stable inflation** — price stability (often a target of about 2% CPI).\n4. **A satisfactory balance of payments** — avoiding a large, persistent current-account deficit.\n\nOften added: **balanced government budget / sustainable public finances** and **equitable income distribution**, plus **environmental sustainability**.\n\n## Economic growth\n\n- **Actual growth** = rising real GDP (moving toward the PPC/LRAS); **potential growth** = rising capacity (outward PPC/LRAS shift).\n- Benefits: higher incomes, employment, tax revenue. Costs: possible **inflation, inequality, environmental damage, and depletion of resources** — hence the stress on *sustainable* growth.\n\n## Unemployment\n\n**Unemployment** = people willing and able to work, actively seeking, but without a job. Measured by the **claimant count** or the **ILO labour-force survey**.\n\n**Types/causes:**\n- **Cyclical (demand-deficient)** — from a fall in AD in a downturn.\n- **Structural** — from a mismatch of skills/location as industries decline.\n- **Frictional** — short-term, between jobs.\n- **Seasonal** — tied to the time of year.\n**Costs:** lost output, lower incomes, government benefit costs and lost tax, social problems, hysteresis (long-term skill loss).\n\n## Inflation and the balance of payments\n\n(Covered in detail in Unit 4.) Objectives: keep inflation low and stable, and avoid an unsustainable current-account deficit that must be financed by borrowing or reserves.\n\n## Conflicts between objectives (crucial for evaluation)\n\nObjectives frequently **trade off**:\n- **Growth vs inflation** — boosting AD for growth/jobs can cause demand-pull inflation.\n- **Unemployment vs inflation** — the short-run **Phillips curve** trade-off (developed at A2).\n- **Growth vs the current account** — faster growth sucks in imports, worsening the trade balance.\n- **Growth vs the environment / equity** — growth can raise pollution and inequality.\nThese conflicts mean policymakers must **prioritise** and accept trade-offs.\n\n## Why it matters\n\nThese objectives frame every macro-policy question. Being able to explain the **conflicts** between them is exactly what higher-mark ‘evaluate/discuss’ answers reward, and it sets up the policy tools in the next chapter.",
+  "keyTerms": [
+    { "term": "Economic growth", "definition": "An increase in real GDP (actual growth) or in productive capacity (potential growth)." },
+    { "term": "Unemployment", "definition": "People willing and able to work and actively seeking a job but unable to find one." },
+    { "term": "Cyclical unemployment", "definition": "Demand-deficient unemployment caused by a fall in AD during a downturn." },
+    { "term": "Structural unemployment", "definition": "Unemployment from a mismatch of skills or location as industries change." },
+    { "term": "Frictional unemployment", "definition": "Short-term unemployment while workers move between jobs." },
+    { "term": "Price stability", "definition": "Keeping inflation low and stable, often around a 2% CPI target." },
+    { "term": "Policy conflict / trade-off", "definition": "When achieving one macro objective worsens another (e.g. growth vs inflation)." }
+  ],
+  "diagrams": [
+    "**AD/AS** to show growth (AD or LRAS shifts) and the inflation that can accompany a demand boost.",
+    "Optional at AS: sketch the **short-run Phillips curve** trade-off between unemployment and inflation (developed fully at A2)."
+  ],
+  "tips": [
+    "Learn the **four (to six) objectives** and be able to define and measure each (esp. the types of unemployment).",
+    "Nail the **conflicts** — growth vs inflation, unemployment vs inflation, growth vs current account — as your evaluation backbone.",
+    "Distinguish **actual vs potential growth** and **cyclical vs structural** unemployment precisely.",
+    "Note that **sustainability and equity** matter alongside raw GDP growth (links to A2 development).",
+    "Use data/context (e.g. Egyptian youth unemployment) to apply the theory for higher marks."
+  ],
+  "videos": {
+    "channels": [
+      { "name": "tutor2u Economics", "url": "https://www.youtube.com/@tutor2u", "why": "Covers all macro objectives and their conflicts." },
+      { "name": "EconplusDal", "url": "https://www.youtube.com/@EconplusDal", "why": "Clear on unemployment types and policy trade-offs." }
+    ],
+    "keyConcepts": [
+      { "concept": "Macroeconomic objectives", "title": "The main macroeconomic objectives", "url": "https://www.youtube.com/results?search_query=macroeconomic+objectives+a+level+economics+tutor2u" },
+      { "concept": "Types & causes of unemployment", "title": "Types of unemployment", "url": "https://www.youtube.com/results?search_query=types+of+unemployment+a+level+economics" },
+      { "concept": "Conflicts between objectives", "title": "Policy conflicts and trade-offs", "url": "https://www.youtube.com/results?search_query=macroeconomic+policy+conflicts+a+level+economics" }
+    ]
+  },
+  "searchTerms": ["growth employment inflation balance of payments", "claimant count ILO", "demand deficient", "hysteresis", "sustainable growth", "Phillips curve trade-off"]
+}

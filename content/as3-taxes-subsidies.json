@@ -1,0 +1,40 @@
+{
+  "id": "as3-taxes-subsidies",
+  "unit": "as3",
+  "title": "Indirect taxes & subsidies",
+  "order": 2,
+  "summary": "## Indirect taxes\n\nAn **indirect tax** is a tax on *spending/expenditure*, collected by producers and passed on (wholly or partly) to consumers. Governments use them to raise revenue and to **correct market failure** (e.g. taxing demerit goods and negative externalities).\n\nTwo types:\n- **Specific (unit) tax** — a fixed amount per unit (e.g. \\$2 per litre). Shifts supply **up by a constant vertical distance** (parallel shift).\n- **Ad valorem tax** — a percentage of the price (e.g. VAT at 15%). Shifts supply up by a **growing** amount as price rises (curves diverge).\n\nEffect: supply shifts **left/up**, equilibrium **price rises** and **quantity falls**.\n\n## Incidence of a tax\n\nThe **incidence (burden)** is how the tax is split between consumers and producers, and it depends on **relative elasticities**:\n- **Inelastic demand** (or elastic supply) → consumers bear **most** of the tax (price rises a lot, quantity barely falls).\n- **Elastic demand** (or inelastic supply) → producers bear **most** of the tax.\n> This is why governments tax goods with **inelastic demand** (tobacco, fuel) — big revenue, small fall in quantity.\n\nOn the diagram: the tax is the vertical gap between the two supply curves; consumer incidence is the part above the old price, producer incidence the part below. The rectangle **(tax × new quantity)** is government revenue; the triangle beyond is **deadweight loss**.\n\n## Subsidies\n\nA **subsidy** is a payment from government to producers (or consumers) to *lower price and raise output* — used to encourage merit goods, positive externalities, or support key industries/incomes.\n\nEffect: supply shifts **right/down**, equilibrium **price falls** and **quantity rises**.\n- The **benefit is shared** between consumers (lower price) and producers (higher price received), again according to **relative elasticities**.\n- **Cost** to government = subsidy per unit × new quantity — an **opportunity cost** for the budget.\n\n## Evaluation\n\n- Taxes/subsidies can internalise externalities but the **correct size is hard to set** (information problem) and demand may be **inelastic**, so quantity changes little.\n- Taxes are **regressive** (hit the poor proportionately harder) and can push activity into black markets.\n- Subsidies are **costly**, can encourage inefficiency/dependency, and may be captured by producers.\n\n## Why it matters\n\nTaxes and subsidies are the government's main *market-based* tools. They apply demand, supply, elasticity and surplus all at once, and they recur in externalities (A2 Unit 8) and fiscal policy (Unit 5).",
+  "keyTerms": [
+    { "term": "Indirect tax", "definition": "A tax on spending, collected by firms and passed on to consumers in higher prices." },
+    { "term": "Specific (unit) tax", "definition": "A fixed tax per unit, causing a parallel upward shift of supply." },
+    { "term": "Ad valorem tax", "definition": "A percentage tax on price, causing supply to pivot up by a growing amount." },
+    { "term": "Incidence of tax", "definition": "The division of the tax burden between consumers and producers, set by relative elasticities." },
+    { "term": "Subsidy", "definition": "A government payment to lower price and raise output of a good." },
+    { "term": "Deadweight loss", "definition": "The welfare loss from output moving away from the efficient equilibrium after a tax." }
+  ],
+  "diagrams": [
+    "**Specific tax:** supply shifts up by a constant vertical distance (S → S+tax); mark new higher price, lower quantity, and split the tax gap into consumer and producer incidence.",
+    "**Ad valorem tax:** supply pivots upward (widening gap); otherwise labelled like the specific-tax diagram.",
+    "**Tax revenue & deadweight loss:** shade the rectangle (tax × Q) as revenue and the triangle as deadweight loss.",
+    "**Subsidy:** supply shifts down/right; mark lower price, higher quantity, and the government cost rectangle."
+  ],
+  "tips": [
+    "Distinguish **specific vs ad valorem** by the *shape* of the supply shift (parallel vs diverging).",
+    "Link **incidence to elasticity**: inelastic demand → consumer bears more. This is a very common exam point.",
+    "Explain why demerit goods are taxed (inelastic demand → high revenue, small quantity fall) — a ready evaluation line.",
+    "For subsidies, always state the **cost to government / opportunity cost** and who benefits most (by elasticity).",
+    "Evaluate the **information problem** — setting the ‘right’ tax/subsidy to fully correct an externality is difficult."
+  ],
+  "videos": {
+    "channels": [
+      { "name": "tutor2u Economics", "url": "https://www.youtube.com/@tutor2u", "why": "Clear tax/subsidy diagrams with incidence analysis." },
+      { "name": "EconplusDal", "url": "https://www.youtube.com/@EconplusDal", "why": "Excellent on tax incidence and elasticity links." }
+    ],
+    "keyConcepts": [
+      { "concept": "Indirect taxes & incidence", "title": "Indirect taxes and tax incidence", "url": "https://www.youtube.com/results?search_query=indirect+tax+incidence+elasticity+a+level+economics" },
+      { "concept": "Specific vs ad valorem tax", "title": "Specific vs ad valorem taxes", "url": "https://www.youtube.com/results?search_query=specific+ad+valorem+tax+a+level+economics" },
+      { "concept": "Subsidies", "title": "Subsidies explained", "url": "https://www.youtube.com/results?search_query=subsidy+diagram+a+level+economics+tutor2u" }
+    ]
+  },
+  "searchTerms": ["VAT", "unit tax", "tax burden", "producer consumer incidence", "government revenue rectangle", "regressive tax", "subsidy cost"]
+}
