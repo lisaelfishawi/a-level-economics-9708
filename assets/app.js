@@ -163,6 +163,7 @@
         <div class="eyebrow">${data.unitTitle || data.unit || ""}</div>
         <h1>${data.title}</h1>
         <div class="head-actions">
+          ${data.revisionNotes ? '<button class="rev-btn" id="revBtn">📝 Revision notes</button>' : ''}
           <button class="mark-btn ${isDone ? "is-done" : ""}" id="markBtn">${isDone ? "✓ Completed" : "Mark as done"}</button>
         </div>
       </header>
@@ -175,8 +176,35 @@
       this.classList.toggle("is-done", nowDone);
       this.textContent = nowDone ? "✓ Completed" : "Mark as done";
     });
+    if (data.revisionNotes) {
+      var rb = document.getElementById("revBtn");
+      if (rb) rb.addEventListener("click", function () { openRevModal(data.revisionNotes); });
+    }
     els.content.scrollTop = 0;
     window.scrollTo(0, 0);
+  }
+
+  /* ---------- revision-notes modal ---------- */
+  function openRevModal(md) {
+    let ov = document.getElementById("revModal");
+    if (!ov) {
+      ov = document.createElement("div");
+      ov.id = "revModal";
+      ov.className = "modal-overlay";
+      ov.innerHTML = '<div class="modal"><button class="modal-close" aria-label="Close">✕</button><div class="modal-eyebrow">Revision notes</div><div class="modal-body prose"></div></div>';
+      document.body.appendChild(ov);
+      ov.addEventListener("click", function (e) {
+        if (e.target === ov || e.target.classList.contains("modal-close")) closeRevModal();
+      });
+    }
+    ov.querySelector(".modal-body").innerHTML = marked.parse(md);
+    ov.classList.add("open");
+    document.body.style.overflow = "hidden";
+  }
+  function closeRevModal() {
+    const ov = document.getElementById("revModal");
+    if (ov) ov.classList.remove("open");
+    document.body.style.overflow = "";
   }
 
   /* ---------- search ---------- */
@@ -232,7 +260,7 @@
   });
   document.addEventListener("keydown", (e) => {
     if (e.key === "/" && document.activeElement !== els.search) { e.preventDefault(); els.search.focus(); }
-    if (e.key === "Escape") { els.searchResults.hidden = true; els.search.blur(); }
+    if (e.key === "Escape") { els.searchResults.hidden = true; els.search.blur(); closeRevModal(); }
   });
 
   /* ---------- mobile nav ---------- */

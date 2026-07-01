@@ -126,6 +126,18 @@ body::before { /* faint fiery aura top-left */
   padding: 9px 16px; border-radius: 9px; cursor: pointer; font-size: 13.5px;
 }
 .mark-btn.is-done { background: var(--surface-2); color: var(--yellow); border: 1px solid var(--yellow); }
+.rev-btn { background: var(--surface-2); color: var(--yellow); border: 1px solid var(--yellow); font-weight: 600; padding: 9px 16px; border-radius: 9px; cursor: pointer; font-size: 13.5px; }
+.rev-btn:hover { background: rgba(255,214,10,.12); box-shadow: var(--glow); }
+
+/* revision-notes modal */
+.modal-overlay { position: fixed; inset: 0; background: rgba(0,0,0,.74); backdrop-filter: blur(3px); z-index: 60; display: none; align-items: flex-start; justify-content: center; padding: 6vh 16px; overflow-y: auto; }
+.modal-overlay.open { display: flex; }
+.modal { position: relative; background: var(--surface); border: 1px solid var(--border); border-top: 3px solid transparent; border-image: var(--fire) 1; border-radius: 16px; max-width: 760px; width: 100%; padding: 30px 34px 40px; box-shadow: 0 30px 90px rgba(0,0,0,.65); }
+.modal-close { position: absolute; top: 14px; right: 14px; background: var(--surface-2); color: var(--text); border: 1px solid var(--border); width: 34px; height: 34px; border-radius: 8px; cursor: pointer; font-size: 14px; }
+.modal-close:hover { border-color: var(--orange); color: var(--orange); }
+.modal-eyebrow { color: var(--orange); text-transform: uppercase; letter-spacing: 1px; font-size: 12px; font-weight: 700; margin-bottom: 4px; }
+.modal-body h1 { font-family: "Space Grotesk", sans-serif; font-size: 24px; margin: 4px 0 14px; }
+.modal-body h1 + p, .modal-body p { margin-top: 8px; }
 
 .prose h1 { font-family: "Space Grotesk", sans-serif; font-size: 28px; margin: 38px 0 12px; }
 .prose h2 { font-family: "Space Grotesk", sans-serif; font-size: 23px; margin: 32px 0 10px; color: #fff;
