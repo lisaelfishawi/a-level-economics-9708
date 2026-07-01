@@ -141,6 +141,14 @@ body::before { /* faint fiery aura top-left */
 .prose th { background: var(--surface-2); color: var(--orange); }
 .prose hr { border: none; border-top: 1px solid var(--border); margin: 30px 0; }
 
+/* in-text diagrams (self-drawn SVG) */
+.prose figure.diagram { margin: 24px 0; background: var(--surface-2); border: 1px solid var(--border); border-radius: 14px; padding: 18px 16px 12px; }
+.prose figure.diagram svg { width: 100%; height: auto; max-width: 480px; display: block; margin: 0 auto; }
+.prose figure.diagram figcaption { color: var(--orange); font-size: 12.5px; text-align: center; margin-top: 10px; font-weight: 600; letter-spacing: .2px; }
+.diagram-key { background: var(--surface); border: 1px solid var(--border); border-left: 3px solid var(--orange); border-radius: 0 10px 10px 0; padding: 12px 16px; margin: 14px 0 26px; }
+.diagram-key strong { color: var(--yellow); }
+.prose .qr { background: var(--surface); border: 1px solid var(--border); border-radius: 14px; padding: 6px 22px 14px; margin-top: 28px; }
+
 /* content cards */
 .card { background: var(--surface); border: 1px solid var(--border); border-radius: 14px; padding: 20px 22px; margin: 26px 0; }
 .card > h2.card-title { font-family: "Space Grotesk", sans-serif; font-size: 20px; margin: 0 0 14px; display: flex; align-items: center; gap: 10px; border: none; padding: 0; }
