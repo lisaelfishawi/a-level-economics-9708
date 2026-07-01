@@ -1,0 +1,37 @@
+{
+  "id": "a10-imf-worldbank",
+  "unit": "a10",
+  "title": "The IMF, World Bank & global policy",
+  "order": 3,
+  "summary": "## Managing the global economy\n\nInternational institutions coordinate policy, lend to countries in difficulty, and support development. The two most important — created at **Bretton Woods (1944)** — are the **IMF** and the **World Bank**, alongside the **WTO**.\n\n## The International Monetary Fund (IMF)\n\n**Role:** to promote global **monetary and financial stability**.\n- Oversees the international monetary system and exchange rates.\n- Provides **short-term loans** to members with **balance-of-payments/financial crises** (a lender of last resort for countries).\n- Offers policy advice and surveillance.\n**Conditionality:** IMF loans usually require **structural adjustment / austerity** — cutting deficits, reducing subsidies, devaluing/floating the currency, liberalising and privatising.\n*Criticisms:* austerity can deepen recessions and hit the poor; a ‘one-size-fits-all’ approach; loss of economic **sovereignty**; moral hazard.\n\n## The World Bank\n\n**Role:** to reduce poverty and promote **long-term development**.\n- Provides **long-term loans and grants** for development projects (infrastructure, education, health).\n- Focuses on capacity building and structural reform in developing economies.\n*Criticisms:* project failures, debt burdens, and past emphasis on conditions similar to the IMF's.\n\n## The World Trade Organisation (WTO)\n\nPromotes **free, rules-based trade**, negotiates trade liberalisation and settles disputes. Criticised for favouring developed economies and for slow progress (e.g. the Doha round).\n\n## Structural adjustment and development debate\n\n**Structural adjustment programmes (SAPs)** attach market-liberalising conditions to loans. Supporters say they restore stability and efficiency; critics say austerity, rapid liberalisation and subsidy cuts can raise poverty and unemployment in the short run. Modern approaches stress **institutions, governance and targeted poverty reduction (e.g. the SDGs)**.\n\n## Egypt application\n\nEgypt has run several **IMF-supported programmes** involving **EGP devaluation/flotation, subsidy reform and fiscal consolidation**. These aimed to restore macro stability and investor confidence but raised **inflation and living-cost pressures** in the short run — a textbook illustration of IMF conditionality trade-offs and the exchange-rate topics from Unit 9.\n\n## Why it matters\n\nGlobal institutions are the international layer of macro policy and a rich synoptic topic — linking exchange rates, the balance of payments, development, protectionism and government/market failure. They give you real-world, evaluative context (especially Egypt) for top-band answers.",
+  "keyTerms": [
+    { "term": "International Monetary Fund (IMF)", "definition": "An institution promoting global financial stability and lending short-term to countries in crisis." },
+    { "term": "World Bank", "definition": "An institution providing long-term loans and grants to promote development and reduce poverty." },
+    { "term": "World Trade Organisation (WTO)", "definition": "The body that promotes and regulates rules-based free trade and settles trade disputes." },
+    { "term": "Conditionality", "definition": "Policy conditions (e.g. austerity, reform) attached to IMF/World Bank loans." },
+    { "term": "Structural adjustment programme (SAP)", "definition": "Loan conditions requiring market liberalisation, fiscal discipline and reform." },
+    { "term": "Bretton Woods", "definition": "The 1944 conference that established the IMF and World Bank." },
+    { "term": "Austerity", "definition": "Policies to cut a government's budget deficit through lower spending and/or higher taxes." }
+  ],
+  "diagrams": [
+    "No specific diagram is required. Support answers with **AD/AS** (austerity shifting AD left), the **FOREX/exchange-rate** diagram (devaluation) and **current-account** analysis from Unit 9."
+  ],
+  "tips": [
+    "Distinguish the **IMF (short-term stability & BoP crises)** from the **World Bank (long-term development)** — a common exam distinction.",
+    "Explain **conditionality/SAPs** and give a **balanced evaluation** (stability & confidence vs austerity, poverty and lost sovereignty).",
+    "Link IMF programmes to **exchange rates, the current account and inflation** from Unit 9 for synoptic marks.",
+    "Use the **Egyptian IMF programmes and EGP reforms** as a powerful, current application/evaluation example.",
+    "Mention modern shifts toward **institutions, governance and the SDGs** for up-to-date evaluation."
+  ],
+  "videos": {
+    "channels": [
+      { "name": "tutor2u Economics", "url": "https://www.youtube.com/@tutor2u", "why": "Covers global institutions and development policy." },
+      { "name": "EconplusDal", "url": "https://www.youtube.com/@EconplusDal", "why": "Clear on IMF/World Bank roles and evaluation." }
+    ],
+    "keyConcepts": [
+      { "concept": "IMF & World Bank roles", "title": "The IMF and World Bank explained", "url": "https://www.youtube.com/results?search_query=imf+world+bank+role+a+level+economics" },
+      { "concept": "Structural adjustment & conditionality", "title": "Structural adjustment programmes evaluated", "url": "https://www.youtube.com/results?search_query=structural+adjustment+imf+conditionality+a+level+economics" }
+    ]
+  },
+  "searchTerms": ["Bretton Woods", "lender of last resort", "balance of payments crisis", "austerity subsidy reform", "sovereignty moral hazard", "SDGs", "Egypt IMF programme EGP"]
+}

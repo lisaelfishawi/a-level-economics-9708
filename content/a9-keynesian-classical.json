@@ -1,0 +1,40 @@
+{
+  "id": "a9-keynesian-classical",
+  "unit": "a9",
+  "title": "Keynesian vs classical macroeconomics",
+  "order": 2,
+  "summary": "## Two views of the macroeconomy\n\nThe central macro debate is how the economy behaves in the long run and whether it self-corrects — the **Classical (monetarist/new classical)** vs the **Keynesian** view. It shapes the whole argument over demand-side vs supply-side policy.\n\n## The Classical view\n\n- Markets (including labour) are **flexible** and **clear**; wages and prices adjust.\n- **LRAS is vertical** at the full-employment (natural) level of output, set only by supply-side factors.\n- Any fall in AD is **temporary**: falling wages/prices restore full employment automatically.\n- A rise in AD in the long run just causes **inflation** (higher price level, same output) — so **demand management is ineffective** and may be inflationary.\n- Policy focus: **supply-side** reform and controlling the money supply. Underpinned by the **Quantity Theory of Money (MV = PT)** — excessive money growth causes inflation.\n\n## The Keynesian view\n\n- Prices and especially **wages are ‘sticky’ downward**; markets may **not clear**.\n- The economy can get **stuck in a prolonged recession** with a negative output gap (demand-deficient unemployment).\n- The **Keynesian LRAS is reverse-L shaped**: horizontal with spare capacity, then upward-sloping, then vertical only at full capacity.\n- Therefore **AD management works** when there is spare capacity: government spending can restore full employment.\n\n## The multiplier and accelerator\n\n- **The multiplier** — an initial injection (e.g. government spending) causes a **larger final rise in national income**, because spending becomes others' income and is re-spent. **Multiplier = 1 / (1 − MPC) = 1 / MPW**, where MPW = marginal propensities to save + tax + import. Bigger MPC → bigger multiplier. Works in reverse too.\n- **The accelerator** — investment depends on the **rate of change** of output/demand; rising demand triggers a proportionately larger rise in investment (and vice versa), amplifying the cycle.\n\n## The money supply and interest rates\n\n- **Money supply** growth, the role of the central bank, and how monetary policy transmits to AD. Classical economists stress money growth → inflation; Keynesians note monetary policy can be weak in a **liquidity trap**.\n\n## Synthesis and evaluation\n\nMost economists accept a **middle ground**: demand-side policy helps in the short run/with spare capacity (Keynesian), but only **supply-side improvements raise output without inflation in the long run** (Classical). The right policy depends on the **cause of the problem and how much spare capacity exists** — the perfect evaluation framework.\n\n## Why it matters\n\nThis debate ties AS macro (AD/AS, policy) into a coherent A2 framework and is the backbone of high-level policy essays: which LRAS shape you assume changes the whole conclusion.",
+  "keyTerms": [
+    { "term": "Classical view", "definition": "The view that markets clear and LRAS is vertical, so demand management is ineffective in the long run." },
+    { "term": "Keynesian view", "definition": "The view that sticky wages/prices can leave the economy below full employment, so AD management can work." },
+    { "term": "Keynesian LRAS", "definition": "A reverse-L AS curve: horizontal with spare capacity, sloping up, then vertical at full capacity." },
+    { "term": "The multiplier", "definition": "The ratio of the final change in national income to the initial change in spending; 1/(1−MPC)." },
+    { "term": "Marginal propensity to consume (MPC)", "definition": "The fraction of extra income that is spent; drives the size of the multiplier." },
+    { "term": "The accelerator", "definition": "The theory that investment depends on the rate of change of output/demand." },
+    { "term": "Quantity theory of money (MV = PT)", "definition": "The monetarist idea that excessive money-supply growth causes inflation." },
+    { "term": "Liquidity trap", "definition": "When interest rates are so low that monetary policy loses traction on AD." }
+  ],
+  "diagrams": [
+    "**Classical vs Keynesian LRAS:** draw the vertical Classical LRAS and the reverse-L Keynesian LRAS; show that an AD rise causes only inflation on the vertical section but output gains on the horizontal section.",
+    "**The multiplier:** show an AD shift larger than the initial injection, illustrating the multiplied final effect on real output."
+  ],
+  "tips": [
+    "Contrast the **two LRAS shapes** and explain how each changes the effect of a rise in AD — the crux of the debate.",
+    "Calculate the **multiplier = 1/(1−MPC) = 1/MPW** and explain why leakages (S, T, M) shrink it.",
+    "Link the **accelerator** to investment volatility and the trade cycle.",
+    "Reach a **synthesis judgement**: demand-side for spare capacity/short run, supply-side for long-run non-inflationary growth.",
+    "Note the **liquidity trap** and weak confidence as limits on monetary policy for evaluation."
+  ],
+  "videos": {
+    "channels": [
+      { "name": "tutor2u Economics", "url": "https://www.youtube.com/@tutor2u", "why": "Clear Keynesian vs classical and multiplier tutorials." },
+      { "name": "EconplusDal", "url": "https://www.youtube.com/@EconplusDal", "why": "Strong on LRAS shapes and the multiplier." }
+    ],
+    "keyConcepts": [
+      { "concept": "Keynesian vs classical LRAS", "title": "Keynesian vs classical AS debate", "url": "https://www.youtube.com/results?search_query=keynesian+classical+lras+debate+a+level+economics" },
+      { "concept": "The multiplier", "title": "The multiplier effect explained", "url": "https://www.youtube.com/results?search_query=multiplier+effect+a+level+economics+tutor2u" },
+      { "concept": "The accelerator", "title": "The accelerator theory of investment", "url": "https://www.youtube.com/results?search_query=accelerator+theory+investment+a+level+economics" }
+    ]
+  },
+  "searchTerms": ["market clearing", "sticky wages", "self-correcting", "monetarist new classical", "1/(1-MPC) MPW", "leakages injections multiplier", "MV=PT", "output gap"]
+}

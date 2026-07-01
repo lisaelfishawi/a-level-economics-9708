@@ -1,0 +1,39 @@
+{
+  "id": "a8-privatisation-regulation",
+  "unit": "a8",
+  "title": "Privatisation, nationalisation & regulation",
+  "order": 2,
+  "summary": "## Intervening in markets with market power\n\nWhere firms have **monopoly/market power**, governments use **competition policy, regulation, privatisation and nationalisation** to protect consumers and improve efficiency. This chapter weighs public vs private ownership and how to control natural monopolies.\n\n## Privatisation\n\n**Privatisation** = transferring assets/industries from the **public to the private sector**.\n- **Arguments for:** the profit motive raises **productive/dynamic efficiency** and cuts X-inefficiency; competition and choice; revenue for government; frees firms from political interference.\n- **Arguments against:** private **natural monopolies** may exploit consumers (higher prices); loss of important **externalities/public-service goals**; short-termism; one-off sale revenue; possible job losses.\n\n## Nationalisation\n\n**Nationalisation** = bringing industries into **state ownership**.\n- **For:** control of **natural monopolies** in the public interest, capture of positive externalities, universal service, economies of scale, protection of strategic industries.\n- **Against:** **X-inefficiency** and lack of profit incentive, political interference, funding burden on taxpayers, ‘moral hazard’ of guaranteed survival.\n\n## Regulation of natural monopolies\n\nA **natural monopoly** (huge economies of scale, e.g. water, rail track) can't be broken up efficiently, so it is **regulated** instead. Tools:\n- **Price-cap regulation (‘RPI − X’)** — caps price rises below inflation to force efficiency gains onto consumers.\n- **Profit/rate-of-return regulation**, quality standards, and performance targets.\n- **Yardstick competition** — comparing regional monopolies against each other.\n*Problems:* **regulatory capture** (the regulator serves the firm), information asymmetry (the firm knows its true costs), and setting X too tight/loose.\n\n## Competition policy\n\nGovernments/agencies act to promote competition and protect consumers:\n- **Controlling mergers** that would create excessive market power.\n- **Prohibiting anti-competitive practices** — cartels, price-fixing, predatory pricing, collusion.\n- **Promoting contestability** by lowering barriers to entry and deregulating.\n- **Consumer protection** laws.\n\n## Evaluation\n\nThe right approach depends on the **industry** (is it a natural monopoly?), the **strength of competition**, and the risk of **government/regulatory failure**. Ownership matters less than the **degree of competition and the quality of regulation** — a key evaluative theme.\n\n## Why it matters\n\nThis chapter turns the market-structures theory of Unit 7 into real policy. It is rich ground for evaluation essays on efficiency, consumer welfare and the proper role of the state.",
+  "keyTerms": [
+    { "term": "Privatisation", "definition": "Transferring ownership of assets or industries from the public to the private sector." },
+    { "term": "Nationalisation", "definition": "Bringing privately-owned industries into state ownership." },
+    { "term": "Natural monopoly", "definition": "An industry where economies of scale make a single supplier the lowest-cost provider." },
+    { "term": "Price-cap regulation (RPI − X)", "definition": "Limiting a monopoly's price increases to below inflation to force efficiency gains to consumers." },
+    { "term": "Regulatory capture", "definition": "When a regulator comes to act in the interest of the firms it regulates rather than consumers." },
+    { "term": "Competition policy", "definition": "Government measures to promote competition and prevent abuse of market power." },
+    { "term": "Deregulation", "definition": "Removing barriers to entry and rules to increase competition and contestability." }
+  ],
+  "diagrams": [
+    "**Natural monopoly:** a downward-sloping LRAC over the whole market with demand; show that one firm minimises cost, and mark the loss-making point if forced to price at P = MC (justifying regulation/subsidy).",
+    "**Monopoly vs regulated price:** compare the profit-max (MC=MR) price with a regulated price closer to allocative efficiency."
+  ],
+  "tips": [
+    "Argue that **the degree of competition and regulation often matters more than ownership** — a strong evaluative line.",
+    "Use the **natural monopoly diagram** to justify why some industries are regulated rather than broken up.",
+    "Explain **RPI − X price caps** and their weakness: **regulatory capture** and **information asymmetry**.",
+    "Give **balanced privatisation/nationalisation** cases (efficiency & revenue vs externalities & consumer exploitation).",
+    "Bring in real examples (UK utilities/rail, or Egyptian state enterprises and privatisation programmes) for application."
+  ],
+  "videos": {
+    "channels": [
+      { "name": "tutor2u Economics", "url": "https://www.youtube.com/@tutor2u", "why": "Clear on privatisation, regulation and competition policy." },
+      { "name": "EconplusDal", "url": "https://www.youtube.com/@EconplusDal", "why": "Strong natural-monopoly and regulation analysis." }
+    ],
+    "keyConcepts": [
+      { "concept": "Privatisation & nationalisation", "title": "Privatisation vs nationalisation", "url": "https://www.youtube.com/results?search_query=privatisation+nationalisation+a+level+economics" },
+      { "concept": "Regulating natural monopoly", "title": "Regulation of natural monopolies (RPI-X)", "url": "https://www.youtube.com/results?search_query=natural+monopoly+regulation+rpi+x+a+level+economics" },
+      { "concept": "Competition policy", "title": "Competition policy explained", "url": "https://www.youtube.com/results?search_query=competition+policy+a+level+economics" }
+    ]
+  },
+  "searchTerms": ["public private ownership", "state enterprise", "price cap", "yardstick competition", "merger policy", "predatory pricing", "deregulation contestability", "regulatory capture"]
+}

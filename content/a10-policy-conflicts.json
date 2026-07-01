@@ -1,0 +1,38 @@
+{
+  "id": "a10-policy-conflicts",
+  "unit": "a10",
+  "title": "Policy conflicts & the Phillips curve",
+  "order": 1,
+  "summary": "## Objectives that pull against each other\n\nGovernments rarely achieve all macro objectives at once — pursuing one often worsens another. This chapter analyses the main **conflicts** and the **Phillips curve**, the classic model of the inflation–unemployment trade-off.\n\n## The main policy conflicts\n\n- **Unemployment vs inflation** — cutting unemployment by boosting AD can raise **demand-pull inflation** (the Phillips curve).\n- **Economic growth vs inflation** — fast demand-led growth near capacity is inflationary.\n- **Economic growth vs the current account** — growth raises incomes and **sucks in imports**, worsening the trade balance.\n- **Economic growth vs the environment / sustainability** — output growth can raise pollution and deplete resources.\n- **Growth/efficiency vs equity** — supply-side reforms and growth can widen **inequality**.\n- **Short run vs long run** — deflating to cut inflation raises unemployment now; supply-side reform helps later but not immediately.\n\n## The Phillips curve\n\n### Short-run Phillips curve (SRPC)\nA.W. Phillips found an **inverse relationship** between unemployment and inflation: lower unemployment ↔ higher inflation. This implies a **menu of choices** — governments could ‘trade’ some inflation for lower unemployment via demand management.\n\n### The breakdown — stagflation\nThe 1970s saw **stagflation** (high inflation *and* high unemployment), which the simple curve couldn't explain. Friedman and Phelps responded with the expectations-augmented curve.\n\n### Long-run Phillips curve (LRPC)\n- Workers adjust to **expected inflation**, so any attempt to hold unemployment below the **natural rate (NRU/NAIRU)** only causes **accelerating inflation**.\n- The **LRPC is vertical at the natural rate of unemployment** — the monetarist mirror of the vertical LRAS.\n- So there is **no long-run trade-off**: unemployment below the NRU is unsustainable. Only **supply-side policies that lower the NRU** can cut unemployment without inflation.\n\n## Managing conflicts\n\n- **Combine policies** — e.g. loose monetary policy plus supply-side reform.\n- **Prioritise** according to the current problem and the government's aims.\n- **Independent central banks / inflation targeting** anchor expectations and reduce the trade-off's severity.\n- **Supply-side policy** is the key to easing conflicts because it can improve *several* objectives at once (growth, jobs, inflation, competitiveness).\n\n## Why it matters\n\nPolicy conflicts are the essence of top-band macro evaluation. The Phillips curve integrates AD/AS, expectations and the natural rate, and shows why supply-side improvement is central to escaping the trade-offs.",
+  "keyTerms": [
+    { "term": "Policy conflict / trade-off", "definition": "When achieving one macro objective worsens another." },
+    { "term": "Short-run Phillips curve (SRPC)", "definition": "The inverse short-run relationship between unemployment and inflation." },
+    { "term": "Long-run Phillips curve (LRPC)", "definition": "A vertical line at the natural rate of unemployment, implying no long-run trade-off." },
+    { "term": "Natural rate of unemployment (NRU/NAIRU)", "definition": "The unemployment rate consistent with stable inflation, determined by supply-side factors." },
+    { "term": "Stagflation", "definition": "The simultaneous occurrence of high inflation and high unemployment." },
+    { "term": "Expectations-augmented Phillips curve", "definition": "A Phillips curve that shifts with workers' inflation expectations." }
+  ],
+  "diagrams": [
+    "**Short-run Phillips curve:** downward-sloping, inflation on the y-axis and unemployment on the x-axis.",
+    "**Long-run Phillips curve:** a vertical LRPC at the natural rate, with a family of SRPCs shifting up as expected inflation rises; show the move from A to B to C when unemployment is pushed below the NRU.",
+    "Pair with **AD/AS** to link the Phillips curve to demand-pull inflation."
+  ],
+  "tips": [
+    "Have the **main conflicts** ready as an evaluation checklist (unemployment–inflation, growth–current account, growth–environment, efficiency–equity).",
+    "Explain the **SRPC vs LRPC** and why the long-run curve is **vertical at the NRU** (expectations adjust).",
+    "Use **stagflation** to explain why the original Phillips curve broke down.",
+    "Conclude that **only supply-side policy that lowers the NRU** cuts unemployment without inflation.",
+    "Mention **inflation targeting / independent central banks** as ways to soften the trade-off."
+  ],
+  "videos": {
+    "channels": [
+      { "name": "tutor2u Economics", "url": "https://www.youtube.com/@tutor2u", "why": "Clear Phillips curve and policy-conflict tutorials." },
+      { "name": "EconplusDal", "url": "https://www.youtube.com/@EconplusDal", "why": "Strong on SRPC/LRPC and the natural rate." }
+    ],
+    "keyConcepts": [
+      { "concept": "The Phillips curve", "title": "Short-run and long-run Phillips curve", "url": "https://www.youtube.com/results?search_query=phillips+curve+short+long+run+a+level+economics" },
+      { "concept": "Macroeconomic policy conflicts", "title": "Conflicts between macro objectives", "url": "https://www.youtube.com/results?search_query=macroeconomic+policy+conflicts+trade+offs+a+level+economics" }
+    ]
+  },
+  "searchTerms": ["inflation unemployment trade-off", "NAIRU natural rate", "expectations augmented", "stagflation 1970s", "accelerating inflation", "supply-side lower NRU", "inflation targeting"]
+}

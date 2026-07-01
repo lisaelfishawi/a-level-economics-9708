@@ -1,0 +1,40 @@
+{
+  "id": "a9-growth-development",
+  "unit": "a9",
+  "title": "Economic growth & development",
+  "order": 1,
+  "summary": "## Growth vs development\n\n- **Economic growth** = an increase in **real GDP** (a *quantitative* measure of output).\n- **Economic development** = a *qualitative*, broader improvement in **welfare and quality of life** — living standards, health, education, freedom and reduced poverty.\nGrowth can occur *without* much development if the gains are unequally shared or bought at the cost of the environment.\n\n## Measuring development\n\n- **Human Development Index (HDI)** — a composite index (0–1) combining **income (GNI per capita, PPP), health (life expectancy)** and **education (mean and expected years of schooling)**. Broader than GDP but still omits inequality, environment, freedom.\n- **Other indicators:** the Multidimensional Poverty Index, access to clean water/sanitation, the Genuine Progress Indicator, Gini coefficient, mobile/internet access, and happiness/wellbeing measures.\n\n## Characteristics of developing economies\n\nCommon features (with wide variation): low GDP per head, high population growth, dependence on **primary products**, large **informal/agricultural sectors**, low savings and investment, poor infrastructure, and weak human capital.\n\n## Barriers to growth and development\n\n- **The savings gap / Harrod–Domar** — low incomes → low savings → low investment → low growth (a vicious cycle); may need foreign capital/aid.\n- **The foreign-exchange gap** and reliance on volatile **primary-product exports** (the **Prebisch–Singer** decline in the terms of trade).\n- **Poor human capital** (health, education), **weak institutions/corruption**, **political instability/conflict**, poor infrastructure, and high **debt burdens**.\n- **The demographic challenge** — rapid population growth outpacing capital.\n\n## Strategies to promote development\n\n- **Investment** in physical and human capital; attracting **FDI**.\n- **Trade strategies** — export-led growth vs import substitution; diversification away from primary products.\n- **Aid and debt relief**; microfinance.\n- **Institutional reform** — property rights, good governance, tackling corruption.\n- **The Lewis model** — moving surplus labour from low-productivity agriculture to industry.\n*Evaluation:* aid dependency, ‘Dutch disease’, appropriate vs inappropriate technology, and sustainability all qualify these strategies.\n\n## Sustainability\n\n**Sustainable development** meets present needs without compromising future generations — balancing growth against **resource depletion and environmental damage**. Growth that ignores externalities is not truly welfare-improving.\n\n## Why it matters\n\nDevelopment economics is prominent in A2 macro and highly relevant to economies like **Egypt** (young population, remittances, tourism, IMF programmes). It rewards synoptic links to trade, exchange rates, market failure and macro policy.",
+  "keyTerms": [
+    { "term": "Economic growth", "definition": "A quantitative increase in real GDP (output)." },
+    { "term": "Economic development", "definition": "A qualitative improvement in welfare, living standards and quality of life." },
+    { "term": "Human Development Index (HDI)", "definition": "A 0–1 composite of income, health and education used to measure development." },
+    { "term": "Savings gap (Harrod–Domar)", "definition": "Low incomes leading to low savings and investment, limiting growth." },
+    { "term": "Primary product dependency", "definition": "Reliance on exporting raw commodities with volatile, often declining, prices." },
+    { "term": "Prebisch–Singer hypothesis", "definition": "The long-run tendency for the terms of trade of primary exporters to decline." },
+    { "term": "Sustainable development", "definition": "Development that meets present needs without compromising future generations." },
+    { "term": "Foreign direct investment (FDI)", "definition": "Investment by multinationals in productive assets in another country." }
+  ],
+  "diagrams": [
+    "Use the **PPC / AD-LRAS** to show growth (outward shift), and note development goes beyond these output measures.",
+    "Optional: a **vicious cycle of poverty** flow diagram (low income → low saving → low investment → low growth)."
+  ],
+  "tips": [
+    "State the **growth vs development** distinction up front — quantitative output vs qualitative welfare.",
+    "Explain **HDI's three components** and its limitations (ignores inequality, environment, freedom).",
+    "Use named **barriers** (savings gap, primary-product dependency, human capital, institutions) and matching **strategies**.",
+    "Always **evaluate strategies** (aid dependency, sustainability, appropriate technology) rather than listing them.",
+    "Apply to a real developing economy such as **Egypt** for strong application/evaluation marks."
+  ],
+  "videos": {
+    "channels": [
+      { "name": "tutor2u Economics", "url": "https://www.youtube.com/@tutor2u", "why": "Comprehensive growth & development coverage." },
+      { "name": "EconplusDal", "url": "https://www.youtube.com/@EconplusDal", "why": "Clear on HDI, barriers and development strategies." }
+    ],
+    "keyConcepts": [
+      { "concept": "Growth vs development & HDI", "title": "Economic growth vs development and HDI", "url": "https://www.youtube.com/results?search_query=economic+growth+development+hdi+a+level+economics" },
+      { "concept": "Barriers to development", "title": "Barriers to growth and development", "url": "https://www.youtube.com/results?search_query=barriers+to+economic+development+a+level+economics" },
+      { "concept": "Development strategies", "title": "Strategies to promote development", "url": "https://www.youtube.com/results?search_query=strategies+economic+development+a+level+economics" }
+    ]
+  },
+  "searchTerms": ["real GDP growth", "quality of life", "HDI life expectancy schooling GNI", "vicious cycle of poverty", "terms of trade decline", "FDI aid debt relief", "Lewis model", "sustainability"]
+}

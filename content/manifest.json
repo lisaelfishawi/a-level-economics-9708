@@ -1,6 +1,6 @@
 {
   "title": "A Level Economics 9708",
-  "note": "Chapter list is provisional (based on the 9708 syllabus) until the coursebook PDF is mapped in. Stub chapters show a placeholder until written.",
+  "note": "All chapters written from the Cambridge coursebook (Bamford & Grant, 9708) and cross-checked against the syllabus. Say 'update the econ site' to refresh notes/videos.",
   "units": [
     {
       "id": "as1",
@@ -327,7 +327,6 @@
       "unit": "a8",
       "order": 1,
       "title": "Externalities & public goods policy",
-      "stub": true,
       "keywords": [
         "taxes tradable permits",
         "public goods",
@@ -339,7 +338,6 @@
       "unit": "a8",
       "order": 2,
       "title": "Privatisation, nationalisation & regulation",
-      "stub": true,
       "keywords": [
         "privatisation",
         "regulation",
@@ -351,7 +349,6 @@
       "unit": "a8",
       "order": 3,
       "title": "Equity, poverty & income distribution",
-      "stub": true,
       "keywords": [
         "Gini Lorenz",
         "poverty",
@@ -363,7 +360,6 @@
       "unit": "a9",
       "order": 1,
       "title": "Economic growth & development",
-      "stub": true,
       "keywords": [
         "HDI",
         "growth vs development",
@@ -376,7 +372,6 @@
       "unit": "a9",
       "order": 2,
       "title": "Keynesian vs classical macroeconomics",
-      "stub": true,
       "keywords": [
         "multiplier accelerator",
         "LRAS",
@@ -388,7 +383,6 @@
       "unit": "a9",
       "order": 3,
       "title": "International trade & exchange-rate systems",
-      "stub": true,
       "keywords": [
         "comparative advantage",
         "terms of trade",
@@ -401,7 +395,6 @@
       "unit": "a10",
       "order": 1,
       "title": "Policy conflicts & the Phillips curve",
-      "stub": true,
       "keywords": [
         "Phillips curve",
         "NAIRU",
@@ -413,7 +406,6 @@
       "unit": "a10",
       "order": 2,
       "title": "Protectionism & trade policy",
-      "stub": true,
       "keywords": [
         "tariffs quotas",
         "WTO",
@@ -425,7 +417,6 @@
       "unit": "a10",
       "order": 3,
       "title": "The IMF, World Bank & global policy",
-      "stub": true,
       "keywords": [
         "IMF World Bank",
         "debt",

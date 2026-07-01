@@ -1,0 +1,40 @@
+{
+  "id": "a8-equity-efficiency",
+  "unit": "a8",
+  "title": "Equity, poverty & income distribution",
+  "order": 3,
+  "summary": "## Equity vs equality vs efficiency\n\n- **Equality** means everyone has the *same*; **equity** means *fairness*, which may not mean equal shares.\n- **Horizontal equity** — treating those in the same situation the same.\n- **Vertical equity** — treating differently those in different situations (e.g. the rich pay more tax).\nGovernments often face an **equity–efficiency trade-off**: redistribution can blunt incentives to work, save and take risks, while too much inequality has social and economic costs.\n\n## Measuring income and wealth inequality\n\n- **Income** is a *flow* (earnings, benefits over time); **wealth** is a *stock* (assets owned). Wealth is usually **more unequally distributed** than income.\n- **The Lorenz curve** plots the cumulative % of income against the cumulative % of population; the further it bows from the 45° **line of equality**, the greater the inequality.\n- **The Gini coefficient** = area between the Lorenz curve and the line of equality ÷ total area under the line. It ranges from **0 (perfect equality) to 1 (perfect inequality)** — a single summary number.\n\n## Poverty\n\n- **Absolute poverty** — income below a level needed for **basic necessities** (e.g. the World Bank's international poverty line). Falls with growth.\n- **Relative poverty** — income **below a set proportion (e.g. 60%) of the median** in that society; a measure of inequality that can persist even as a country grows.\n- **Causes:** unemployment, low wages/skills, illness/age, poor education, discrimination, and the **poverty trap/cycle** (where earning more loses benefits, weakening incentives).\n\n## Policies to reduce poverty and inequality\n\n- **Progressive taxation** — higher earners pay a larger *proportion* (contrast **regressive** taxes like VAT that hit the poor harder, and **proportional** flat taxes).\n- **Transfer payments / benefits** — pensions, unemployment and child benefits, targeted (means-tested) or universal.\n- **State provision of merit goods** — free education and healthcare improve opportunity and human capital.\n- **Minimum wages** and labour-market policy.\n- **Supply-side measures** — education, training and job creation to tackle the *causes*.\n\n**Evaluation:** redistribution can reduce the **incentive to work** (poverty/unemployment traps), is costly, and may cause government failure; means-testing has admin costs and low take-up. But extreme inequality harms cohesion, health and even growth. The balance is a **normative judgement**.\n\n## Why it matters\n\nEquity is one of the six macro objectives and a recurring evaluation theme. The Lorenz curve and Gini coefficient are examinable tools, and the equity–efficiency trade-off runs through tax, welfare and development policy.",
+  "keyTerms": [
+    { "term": "Equity vs equality", "definition": "Equity is fairness (which may be unequal); equality is everyone having the same." },
+    { "term": "Horizontal equity", "definition": "Treating people in identical circumstances in the same way." },
+    { "term": "Vertical equity", "definition": "Treating people in different circumstances differently (e.g. the rich pay more tax)." },
+    { "term": "Lorenz curve", "definition": "A graph of cumulative income share against cumulative population share, showing inequality." },
+    { "term": "Gini coefficient", "definition": "A 0–1 measure of inequality; 0 is perfect equality, 1 is perfect inequality." },
+    { "term": "Absolute poverty", "definition": "Income too low to afford basic necessities." },
+    { "term": "Relative poverty", "definition": "Income below a set proportion of the median in a society." },
+    { "term": "Progressive tax", "definition": "A tax taking a larger proportion of income as income rises." },
+    { "term": "Poverty trap", "definition": "When earning more income leads to lost benefits/higher tax, weakening the incentive to work." }
+  ],
+  "diagrams": [
+    "**Lorenz curve:** the 45° line of equality and a bowed Lorenz curve; the more it bows, the greater the inequality; relate the gap to the Gini coefficient.",
+    "Optional: a tax-incidence sketch contrasting **progressive, proportional and regressive** taxes."
+  ],
+  "tips": [
+    "Distinguish **income (flow) from wealth (stock)** and note wealth is usually more unequal.",
+    "Explain the **Lorenz curve and Gini coefficient** precisely (0–1 scale) — common data-response tools.",
+    "Separate **absolute vs relative poverty** and note relative poverty can persist despite growth.",
+    "Frame answers around the **equity–efficiency trade-off** and the **poverty/unemployment trap** for evaluation.",
+    "Classify policies as tackling **symptoms (transfers) vs causes (education/supply-side)** — a strong structuring point."
+  ],
+  "videos": {
+    "channels": [
+      { "name": "tutor2u Economics", "url": "https://www.youtube.com/@tutor2u", "why": "Clear on inequality, Lorenz/Gini and poverty policy." },
+      { "name": "EconplusDal", "url": "https://www.youtube.com/@EconplusDal", "why": "Good on equity–efficiency and redistribution." }
+    ],
+    "keyConcepts": [
+      { "concept": "Lorenz curve & Gini coefficient", "title": "Measuring inequality: Lorenz and Gini", "url": "https://www.youtube.com/results?search_query=lorenz+curve+gini+coefficient+a+level+economics" },
+      { "concept": "Poverty & redistribution policy", "title": "Poverty and policies to reduce it", "url": "https://www.youtube.com/results?search_query=poverty+inequality+redistribution+a+level+economics" }
+    ]
+  },
+  "searchTerms": ["income wealth distribution", "line of equality", "means-tested universal benefits", "progressive regressive proportional tax", "absolute relative poverty", "poverty cycle", "redistribution incentives"]
+}

@@ -1,0 +1,39 @@
+{
+  "id": "a8-externalities-policy",
+  "unit": "a8",
+  "title": "Externalities & public goods policy",
+  "order": 1,
+  "summary": "## Correcting market failure\n\nBuilding on A2 Unit 6, this chapter examines the **policies** governments use to correct **externalities** and provide **public goods**, and how to evaluate each. The aim is to move output toward the **social optimum (MSB = MSC)** while avoiding **government failure**.\n\n## Policies for negative externalities\n\n- **Indirect (Pigouvian) taxes** — set the tax equal to the external cost so **MPC shifts up to MSC**, internalising the externality (‘polluter pays’). *Pros:* market-based, raises revenue, keeps flexibility. *Cons:* hard to value the externality, demand may be **inelastic**, regressive, risk of evasion/black markets.\n- **Tradable pollution permits (cap-and-trade)** — the government **caps** total emissions and issues permits firms can trade. Clean firms sell spare permits; polluters must buy. *Pros:* certainty over total pollution, incentive to cut emissions, market sets the price. *Cons:* setting the cap is hard, monitoring costs, permits may be too cheap.\n- **Regulation** — emission limits, bans, standards. *Pros:* simple, certain. *Cons:* blunt, enforcement cost, no incentive to cut below the limit.\n\n## Policies for positive externalities / merit goods\n\n- **Subsidies** — shift MPC/MPB to raise output/consumption to the optimum.\n- **Direct state provision** — e.g. education, healthcare, vaccination.\n- **Information/regulation** — campaigns, compulsory schooling.\n\n## Public goods\n\nBecause public goods are **non-excludable and non-rival**, the **free-rider problem** means markets provide little or none (complete market failure). The main solution is **government provision funded by taxation**, deciding output by weighing **social benefit vs cost** (there is no market price). Some goods can be made **excludable** (toll roads) or provided by other means.\n\n## The Coase theorem (evaluation)\n\nWhere **property rights are well defined** and bargaining costs are low, **private parties can negotiate** to correct an externality *without* government (the **Coase theorem**). In practice high transaction costs, many affected parties and unclear rights limit this — but it's a strong evaluation point about the limits of intervention.\n\n## Government failure again\n\nEvery policy risks **government failure**: imperfect information (wrong tax/cap), unintended consequences, administrative and enforcement costs, and regulatory capture. The best answer usually **combines policies** and weighs the intervention against the market failure it targets.\n\n## Why it matters\n\nThis is the ‘solutions’ half of market failure — heavily examined in data-response and essays. Knowing several tools, their diagrams and their trade-offs lets you build balanced, high-mark evaluations.",
+  "keyTerms": [
+    { "term": "Pigouvian tax", "definition": "A tax set equal to the external cost of a good, shifting MPC up to MSC to internalise the externality." },
+    { "term": "Tradable pollution permits", "definition": "A cap-and-trade system where firms buy and sell rights to emit within a fixed total cap." },
+    { "term": "Internalising an externality", "definition": "Making producers/consumers bear the full social cost or benefit of their actions." },
+    { "term": "Free-rider problem", "definition": "Non-payers consuming a non-excludable good, so markets under-provide it." },
+    { "term": "Coase theorem", "definition": "The idea that clear property rights and low bargaining costs let private parties resolve externalities without government." },
+    { "term": "Government failure", "definition": "When intervention creates a net welfare loss through distortions, costs or unintended effects." }
+  ],
+  "diagrams": [
+    "**Pigouvian tax:** on a negative-production-externality diagram, show the tax shifting MPC up to MSC so output falls to the social optimum; mark the revenue and the removed welfare loss.",
+    "**Subsidy for a positive externality:** shift MPB (or MPC) to reach the MSB = MSC optimum for a merit good.",
+    "**Tradable permits:** a vertical (fixed) supply of permits and a demand for them setting a permit price; show the incentive to abate."
+  ],
+  "tips": [
+    "For each policy give the **diagram + a balanced evaluation** (pros, cons, government failure) — don't just list tools.",
+    "Stress the **information problem**: valuing the externality to set the ‘right’ tax/cap is very difficult.",
+    "Compare **taxes vs permits**: taxes fix the price of pollution, permits fix the *quantity* — a sophisticated point.",
+    "Use the **Coase theorem** and **property rights** as an evaluation of whether government action is even needed.",
+    "Bring in real context (carbon taxes, EU ETS, Egyptian fuel-subsidy reform) for application marks."
+  ],
+  "videos": {
+    "channels": [
+      { "name": "tutor2u Economics", "url": "https://www.youtube.com/@tutor2u", "why": "Clear coverage of externality policies and permits." },
+      { "name": "EconplusDal", "url": "https://www.youtube.com/@EconplusDal", "why": "Strong on tax vs permit evaluation." }
+    ],
+    "keyConcepts": [
+      { "concept": "Taxes & subsidies for externalities", "title": "Correcting externalities with taxes and subsidies", "url": "https://www.youtube.com/results?search_query=correcting+externalities+tax+subsidy+a+level+economics" },
+      { "concept": "Tradable pollution permits", "title": "Tradable pollution permits explained", "url": "https://www.youtube.com/results?search_query=tradable+pollution+permits+a+level+economics" },
+      { "concept": "Public goods provision", "title": "Public goods and free riders", "url": "https://www.youtube.com/results?search_query=public+goods+provision+free+rider+a+level+economics" }
+    ]
+  },
+  "searchTerms": ["polluter pays", "cap and trade", "carbon tax", "property rights", "transaction costs", "regulation standards", "merit good subsidy", "EU ETS"]
+}

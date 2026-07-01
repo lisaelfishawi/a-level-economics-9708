@@ -1,0 +1,41 @@
+{
+  "id": "a10-protectionism-trade-policy",
+  "unit": "a10",
+  "title": "Protectionism & trade policy",
+  "order": 2,
+  "summary": "## What is protectionism?\n\n**Protectionism** is government policy that **restricts international trade** to shield domestic industries from foreign competition. It is the counterweight to the free-trade case from Unit 9.\n\n## Instruments of protection\n\n- **Tariffs** — taxes on imports. They raise the import price, cutting import volume and protecting domestic producers, and raise government revenue. *On a diagram:* the tariff raises price from the world price; domestic output rises, imports fall, and there is a **welfare (deadweight) loss** (production and consumption distortions) plus **government revenue** (tariff × imports).\n- **Quotas** — physical limits on the quantity of imports. Raise price and protect producers but give the quota rent to importers/foreign firms, not the government.\n- **Subsidies to domestic producers** — lower their costs so they undercut imports.\n- **Non-tariff barriers** — bureaucratic rules, standards, licensing, and **embargoes** (total bans).\n- **Exchange-rate manipulation** — keeping the currency weak to make exports cheap.\n\n## Arguments FOR protection\n\n- **Infant-industry argument** — protect new industries until they achieve economies of scale.\n- **Sunset/declining industries** — ease structural unemployment during decline.\n- **Anti-dumping** — counter foreign goods sold below cost.\n- **Protect employment** and strategic/defence industries.\n- **Correct a current-account deficit**; retaliation; protect against unfair competition/low labour standards.\n\n## Arguments AGAINST protection\n\n- **Loss of the gains from comparative advantage** — higher prices, less choice, inefficiency.\n- **Retaliation and trade wars** shrink world trade.\n- **Higher costs** for firms using imported inputs, and reduced competitive pressure → **X-inefficiency**.\n- **Regressive** effect on consumers; **government failure** and lobbying/capture.\n- Infant industries may **never grow up** (dependency).\n\n## Trade liberalisation and blocs\n\n- **The WTO** promotes free trade and rules-based dispute settlement.\n- **Regional trade agreements / trading blocs** — **free-trade areas, customs unions, common markets, economic/monetary unions** (e.g. EU). They bring **trade creation** (efficient sourcing within the bloc) but risk **trade diversion** (switching from a cheaper non-member to a dearer member).\n- **Globalisation** deepens integration — with gains (growth, choice) and concerns (inequality, sovereignty, environment).\n\n## Why it matters\n\nProtectionism is a favourite evaluation topic that ties comparative advantage, market failure, the current account and development together. Tariff/quota diagrams and a balanced for/against judgement are frequently examined.",
+  "keyTerms": [
+    { "term": "Protectionism", "definition": "Government restriction of trade to protect domestic industries from foreign competition." },
+    { "term": "Tariff", "definition": "A tax on imports that raises their price and reduces the quantity imported." },
+    { "term": "Quota", "definition": "A physical limit on the quantity of a good that may be imported." },
+    { "term": "Non-tariff barrier", "definition": "Non-tax restrictions such as standards, licensing, red tape or embargoes." },
+    { "term": "Infant-industry argument", "definition": "The case for protecting a new industry until it can compete internationally." },
+    { "term": "Dumping", "definition": "Selling exports below cost or below the home-market price to capture foreign markets." },
+    { "term": "Trade creation", "definition": "Switching to lower-cost production within a trading bloc, raising efficiency." },
+    { "term": "Trade diversion", "definition": "Switching from a lower-cost non-member to a higher-cost member because of bloc tariffs." }
+  ],
+  "diagrams": [
+    "**Tariff diagram:** world price line, domestic supply and demand; add the tariff, then mark the rise in domestic output, fall in imports, government revenue rectangle, and the two deadweight-loss triangles.",
+    "**Quota diagram:** show the restricted import quantity raising price, with the quota rent going to importers rather than government.",
+    "Optional: a **trade-creation vs trade-diversion** sketch for a customs union."
+  ],
+  "tips": [
+    "Draw the **tariff diagram fully**: revenue rectangle **and** the two welfare-loss triangles — a common high-mark requirement.",
+    "Give a **balanced case**: infant industry/employment/anti-dumping **for**, vs comparative advantage/retaliation/X-inefficiency **against**.",
+    "Contrast **tariffs (revenue to government)** with **quotas (rent to importers)**.",
+    "Distinguish **trade creation from trade diversion** when evaluating trading blocs.",
+    "Reach a **judgement** — protection may be justified temporarily/selectively (infant industry) but is usually welfare-reducing long term."
+  ],
+  "videos": {
+    "channels": [
+      { "name": "tutor2u Economics", "url": "https://www.youtube.com/@tutor2u", "why": "Clear tariff/quota diagrams and protectionism debate." },
+      { "name": "EconplusDal", "url": "https://www.youtube.com/@EconplusDal", "why": "Excellent tariff-diagram walkthroughs." }
+    ],
+    "keyConcepts": [
+      { "concept": "Tariffs & the tariff diagram", "title": "Tariffs and welfare loss explained", "url": "https://www.youtube.com/results?search_query=tariff+diagram+welfare+loss+a+level+economics+econplusdal" },
+      { "concept": "Arguments for & against protectionism", "title": "Protectionism: for and against", "url": "https://www.youtube.com/results?search_query=protectionism+arguments+for+against+a+level+economics" },
+      { "concept": "Trading blocs & the WTO", "title": "Trading blocs, trade creation and diversion", "url": "https://www.youtube.com/results?search_query=trading+blocs+trade+creation+diversion+a+level+economics" }
+    ]
+  },
+  "searchTerms": ["import tax", "import quota rent", "embargo", "anti-dumping", "customs union common market", "WTO globalisation", "deadweight loss tariff", "retaliation trade war"]
+}
