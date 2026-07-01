@@ -1,0 +1,41 @@
+{
+  "id": "as1-factors-of-production",
+  "unit": "as1",
+  "title": "Factors of production",
+  "order": 2,
+  "summary": "## The four factors of production\n\nResources used to produce goods and services are grouped into **four factors of production**, each earning a **reward**:\n\n| Factor | Definition | Reward |\n|---|---|---|\n| **Land** | All natural resources (soil, minerals, sea, forests) | Rent |\n| **Labour** | Human physical and mental effort | Wages |\n| **Capital** | Man-made aids to production (machines, tools, factories) | Interest |\n| **Enterprise** | Risk-taking and organising the other three factors | Profit |\n\n- **Land** is the gift of nature; some is *renewable* (forests) and some *non-renewable* (oil).\n- **Labour** can be improved through **human capital** — education, training, healthcare raise productivity.\n- **Capital** includes *working capital* (stocks/raw materials) and *fixed capital* (machinery, buildings). **Investment** is spending on capital goods.\n- **The entrepreneur** combines the factors, bears *uncertainty/risk*, and is the residual claimant on profit.\n\n## Mobility of factors\n\nFactors can be more or less mobile:\n- **Geographical mobility** — the ability to move *location* (labour may be tied by family/housing).\n- **Occupational mobility** — the ability to move between *uses/jobs* (a surgeon cannot easily become a pilot).\nImmobility is a cause of structural unemployment and market failure.\n\n## Specialisation and the division of labour\n\n**Specialisation** is concentrating on what you do best; the **division of labour** is breaking production into separate tasks done by different workers (Adam Smith's pin factory).\n\n**Advantages:** higher productivity, workers become skilled, time saved, allows use of machinery, lower unit costs.\n\n**Disadvantages:** boredom/demotivation, occupational immobility if a task disappears, over-reliance/interdependence (one breakdown halts the line), loss of craftsmanship, structural unemployment risk.\n\nSpecialisation applies at every level — individuals, firms, regions and **countries** (the basis of international trade and comparative advantage).\n\n## Money — what makes specialisation work\n\nSpecialisation requires **exchange**, which requires **money**. Money's four functions:\n1. **Medium of exchange** — removes the need for barter's *double coincidence of wants*.\n2. **Measure/unit of value** — prices everything in common terms.\n3. **Store of value** — wealth can be held over time (undermined by inflation).\n4. **Standard of deferred payment** — allows borrowing and credit.\n\n## Why it matters\n\nUnderstanding the factors and their rewards underpins production, costs, the labour market and the gains from trade. Specialisation explains why economies are productive — and why structural change can create unemployment.",
+  "keyTerms": [
+    { "term": "Land", "definition": "All natural resources used in production; rewarded by rent." },
+    { "term": "Labour", "definition": "Human physical and mental effort in production; rewarded by wages." },
+    { "term": "Capital", "definition": "Man-made aids to production such as machinery and tools; rewarded by interest." },
+    { "term": "Enterprise", "definition": "The factor that takes risks and organises the others; rewarded by profit." },
+    { "term": "Human capital", "definition": "The skills, knowledge and health embodied in workers, raising their productivity." },
+    { "term": "Investment", "definition": "Spending by firms on capital goods that increases productive capacity." },
+    { "term": "Geographical mobility", "definition": "The ease with which a factor can move between locations." },
+    { "term": "Occupational mobility", "definition": "The ease with which a factor can move between different uses or jobs." },
+    { "term": "Division of labour", "definition": "Splitting a production process into separate tasks performed by different workers." },
+    { "term": "Specialisation", "definition": "Concentrating on a narrow range of tasks or products to raise efficiency." }
+  ],
+  "diagrams": [
+    "No diagram required, but division of labour links to **lower average costs** — you can reference the cost curves you meet later in the A2 costs chapter."
+  ],
+  "tips": [
+    "Memorise the **factor–reward pairs** (land→rent, labour→wages, capital→interest, enterprise→profit) — a frequent quick-mark question.",
+    "Don't confuse the economist's **capital** (machines/tools) with everyday ‘capital’ meaning money — money is not a factor of production.",
+    "For specialisation questions, give a **balanced answer**: list advantages AND disadvantages, then evaluate which dominates.",
+    "Link **occupational immobility** to structural unemployment and market failure for higher-level analysis.",
+    "Use money's **four functions** as a ready-made list; note that **inflation erodes the store-of-value function**."
+  ],
+  "videos": {
+    "channels": [
+      { "name": "tutor2u Economics", "url": "https://www.youtube.com/@tutor2u", "why": "Short revision clips on factors, specialisation and division of labour." },
+      { "name": "EconplusDal", "url": "https://www.youtube.com/@EconplusDal", "why": "Clear, exam-oriented A Level explanations." }
+    ],
+    "keyConcepts": [
+      { "concept": "Factors of production & their rewards", "title": "The four factors of production", "url": "https://www.youtube.com/results?search_query=factors+of+production+a+level+economics+tutor2u" },
+      { "concept": "Specialisation & division of labour", "title": "Division of labour — pros and cons", "url": "https://www.youtube.com/results?search_query=specialisation+division+of+labour+a+level+economics" },
+      { "concept": "Functions of money", "title": "The four functions of money", "url": "https://www.youtube.com/results?search_query=functions+of+money+a+level+economics" }
+    ]
+  },
+  "searchTerms": ["land labour capital enterprise", "rent wages interest profit", "fixed working capital", "mobility of labour", "barter double coincidence of wants", "Adam Smith pin factory"]
+}

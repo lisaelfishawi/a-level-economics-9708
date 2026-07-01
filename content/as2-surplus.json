@@ -1,0 +1,38 @@
+{
+  "id": "as2-surplus",
+  "unit": "as2",
+  "title": "Consumer & producer surplus",
+  "order": 3,
+  "summary": "## Measuring welfare in a market\n\n**Consumer surplus** and **producer surplus** measure the *welfare* (net benefit) that buyers and sellers gain from trading at the market price. Together they let us judge how much a market benefits society — and how taxes, subsidies and price controls change that.\n\n## Consumer surplus\n\n**Consumer surplus** = the difference between the price consumers are **willing to pay** (shown by the demand curve) and the price they **actually pay** (the market price).\n\n- On a diagram it is the **area below the demand curve and above the market price**, up to the quantity traded.\n- It exists because the demand curve shows that earlier units were valued *more* than the price paid.\n\n## Producer surplus\n\n**Producer surplus** = the difference between the price producers **actually receive** and the **minimum** they would have been willing to accept (shown by the supply curve).\n\n- On a diagram it is the **area above the supply curve and below the market price**, up to the quantity traded.\n\n## Total welfare\n\n**Community/total surplus = consumer surplus + producer surplus.** At the free-market equilibrium this is **maximised**, which is why competitive equilibrium is *allocatively efficient* (no deadweight loss). Anything that moves the market away from equilibrium (a tax, price floor, monopoly) creates a **deadweight welfare loss** — surplus that disappears.\n\n## How surpluses change\n\n- A **fall in price** (e.g. supply increases) → consumer surplus **rises**.\n- A **rise in price** → consumer surplus **falls**, producer surplus may rise.\n- **Elasticity matters:** with **inelastic demand**, consumer surplus is large and consumers bear more of a tax; the split of surplus between buyers and sellers depends on the relative elasticities of demand and supply.\n\n## Applications\n\n- **Taxes/subsidies:** an indirect tax shrinks both surpluses and creates a deadweight loss; the **incidence** (who loses more surplus) depends on relative elasticities.\n- **Price controls:** a maximum price can raise consumer surplus on units still traded but causes shortages; a minimum price can raise producer surplus but causes surpluses.\n- **Monopoly:** raises price and restricts output, transferring consumer surplus to producers and creating deadweight loss (A2).\n\n## Why it matters\n\nSurplus analysis is the bridge from positive demand-and-supply mechanics to **normative welfare judgements**. It is the toolkit you use to evaluate every intervention in Unit 3 and beyond.",
+  "keyTerms": [
+    { "term": "Consumer surplus", "definition": "The difference between what consumers are willing to pay and what they actually pay; the area below demand and above price." },
+    { "term": "Producer surplus", "definition": "The difference between the price producers receive and the minimum they would accept; the area above supply and below price." },
+    { "term": "Total (community) surplus", "definition": "Consumer surplus plus producer surplus; maximised at competitive equilibrium." },
+    { "term": "Allocative efficiency", "definition": "When resources are allocated to maximise total welfare (price = marginal cost), with no deadweight loss." },
+    { "term": "Deadweight loss", "definition": "The loss of total surplus when output is pushed away from the efficient equilibrium." },
+    { "term": "Welfare", "definition": "The net benefit society gains from the consumption and production of goods." }
+  ],
+  "diagrams": [
+    "**Surplus diagram:** standard D/S with equilibrium P* and Q*. Shade the triangle below D and above P* (consumer surplus) and the triangle above S and below P* (producer surplus).",
+    "**Effect of a price fall:** show supply shifting right, price falling, and the consumer-surplus triangle enlarging.",
+    "**Deadweight loss:** show an indirect tax shifting supply up; mark the smaller surpluses and the deadweight-loss triangle between the old and new quantities."
+  ],
+  "tips": [
+    "Get the **areas right**: consumer surplus is *below demand, above price*; producer surplus is *above supply, below price*. Mislabelling loses marks.",
+    "State that **total surplus is maximised at competitive equilibrium** to explain allocative efficiency.",
+    "Link surplus changes to **elasticity** — who gains/loses more depends on relative elasticities of demand and supply.",
+    "Use surplus diagrams to **evaluate interventions** (taxes, price controls, monopoly) and identify **deadweight loss**.",
+    "Always **shade and label** the relevant areas on the diagram rather than just describing them in words."
+  ],
+  "videos": {
+    "channels": [
+      { "name": "tutor2u Economics", "url": "https://www.youtube.com/@tutor2u", "why": "Clear consumer/producer surplus diagrams and welfare analysis." },
+      { "name": "EconplusDal", "url": "https://www.youtube.com/@EconplusDal", "why": "Good on surplus, deadweight loss and efficiency." }
+    ],
+    "keyConcepts": [
+      { "concept": "Consumer & producer surplus", "title": "Consumer and producer surplus explained", "url": "https://www.youtube.com/results?search_query=consumer+producer+surplus+a+level+economics+tutor2u" },
+      { "concept": "Welfare loss / deadweight loss", "title": "Deadweight welfare loss", "url": "https://www.youtube.com/results?search_query=deadweight+welfare+loss+a+level+economics" }
+    ]
+  },
+  "searchTerms": ["willingness to pay", "area below demand", "welfare triangle", "deadweight loss", "allocative efficiency", "community surplus"]
+}

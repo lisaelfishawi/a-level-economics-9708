@@ -1,0 +1,38 @@
+{
+  "id": "as1-resource-allocation",
+  "unit": "as1",
+  "title": "Resource allocation & economic systems",
+  "order": 3,
+  "summary": "## Allocating scarce resources\n\nEvery economy must decide **what, how and for whom** to produce. The way it answers these questions defines its **economic system**. There are three types.\n\n## 1. Market economy\n\nResources are allocated by the **price mechanism** through private buyers and sellers, with minimal government. Decisions are decentralised; the **profit motive** and **consumer sovereignty** drive what is produced.\n\n- **Advantages:** efficiency, choice, innovation, responsiveness to consumer demand, incentives to work and invest.\n- **Disadvantages:** market failure (externalities, public goods under-provided, monopoly), inequality, no provision for those who cannot pay.\n\n## 2. Planned (command) economy\n\nThe **state owns resources** and a central authority decides what, how and for whom to produce (e.g. former Soviet Union).\n\n- **Advantages:** can reduce inequality, provide public/merit goods, avoid wasteful duplication, direct resources to national priorities.\n- **Disadvantages:** no price signals → inefficiency and shortages/surpluses, lack of choice and innovation, weak incentives, risk of bureaucracy and corruption.\n\n## 3. Mixed economy\n\nMost real economies are **mixed**: the **private sector** (firms, households) and the **public sector** (government) both allocate resources. Government corrects market failure and provides public goods, while markets allocate most output. Egypt, the UK and the USA are all mixed economies that differ in the *balance* between state and market.\n\n## The role of the price mechanism\n\nIn the market parts of an economy, prices perform three functions (Adam Smith's ‘invisible hand’):\n- **Rationing** — rising prices ration scarce goods to those willing/able to pay.\n- **Signalling** — prices signal where resources are wanted (or not).\n- **Incentive** — higher prices/profit reward producers to supply more.\n\n## Consumer sovereignty vs producer sovereignty\n\n- **Consumer sovereignty** — consumers ‘vote’ with their spending and direct production.\n- **Producer sovereignty** — firms influence wants (advertising) and can dominate when competition is weak.\n\n## Why it matters\n\nThe choice of system is one of the biggest debates in economics. Knowing the strengths and weaknesses of markets vs planning sets up the entire ‘market failure → government intervention → government failure’ thread that runs through both AS and A2.",
+  "keyTerms": [
+    { "term": "Economic system", "definition": "The way an economy organises the allocation of its scarce resources." },
+    { "term": "Market economy", "definition": "An economy where resources are allocated mainly by the price mechanism with minimal government." },
+    { "term": "Planned (command) economy", "definition": "An economy where the state owns resources and centrally allocates them." },
+    { "term": "Mixed economy", "definition": "An economy combining private-sector markets and public-sector provision." },
+    { "term": "Price mechanism", "definition": "The system by which prices ration, signal and incentivise to allocate resources." },
+    { "term": "Consumer sovereignty", "definition": "The idea that consumers, through their spending, ultimately determine what is produced." },
+    { "term": "Private sector", "definition": "The part of the economy owned and run by individuals and firms for profit." },
+    { "term": "Public sector", "definition": "The part of the economy owned and run by the government." }
+  ],
+  "diagrams": [
+    "Optional: a simple **demand & supply** diagram to illustrate how the price mechanism reaches equilibrium and rations a scarce good."
+  ],
+  "tips": [
+    "Structure system comparisons around the **three questions (what/how/for whom)** — it keeps answers focused and analytical.",
+    "Always evaluate: no pure market or pure planned economy exists; real economies are **mixed**, so judge the *balance*.",
+    "Tie market failure (next chapters) to the **disadvantages of the market** to show synoptic understanding.",
+    "Use the **rationing/signalling/incentive** trio whenever a question mentions ‘how markets allocate resources’.",
+    "Bring in **Egypt as a mixed economy** (state subsidies + private markets) for a strong applied example."
+  ],
+  "videos": {
+    "channels": [
+      { "name": "tutor2u Economics", "url": "https://www.youtube.com/@tutor2u", "why": "Clear coverage of economic systems and the price mechanism." },
+      { "name": "EconplusDal", "url": "https://www.youtube.com/@EconplusDal", "why": "Strong on price-mechanism functions and evaluation." }
+    ],
+    "keyConcepts": [
+      { "concept": "Market vs planned vs mixed economies", "title": "Types of economic system compared", "url": "https://www.youtube.com/results?search_query=market+planned+mixed+economy+a+level+economics" },
+      { "concept": "Functions of the price mechanism", "title": "Rationing, signalling & incentive functions", "url": "https://www.youtube.com/results?search_query=price+mechanism+rationing+signalling+incentive+tutor2u" }
+    ]
+  },
+  "searchTerms": ["invisible hand", "command economy", "free market", "public private sector", "consumer sovereignty", "allocation of resources"]
+}

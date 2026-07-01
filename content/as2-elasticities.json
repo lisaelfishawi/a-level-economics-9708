@@ -1,0 +1,42 @@
+{
+  "id": "as2-elasticities",
+  "unit": "as2",
+  "title": "Elasticities (PED, YED, XED, PES)",
+  "order": 2,
+  "summary": "## What elasticity measures\n\n**Elasticity** measures how *responsive* one variable is to a change in another. All elasticities are calculated as:\n\n> **% change in the variable affected ÷ % change in the variable causing it**\n\nThere are four you must know: **PED, YED, XED** (demand-side) and **PES** (supply-side).\n\n## 1. Price elasticity of demand (PED)\n\n**PED = % change in quantity demanded ÷ % change in price.** It is normally **negative** (law of demand); we usually quote the size.\n\n| Value | Term | Meaning |\n|---|---|---|\n| 0 | Perfectly inelastic | Qd doesn't change |\n| 0 to −1 | Inelastic | Qd changes proportionately less than price |\n| −1 | Unit elastic | Qd changes in exact proportion |\n| −1 to ∞ | Elastic | Qd changes proportionately more than price |\n| ∞ | Perfectly elastic | Any price rise → Qd falls to zero |\n\n**Determinants of PED — mnemonic SPLAT:**\n- **S**ubstitutes available (more → more elastic)\n- **P**roportion of income spent (larger → more elastic)\n- **L**uxury or necessity (luxuries elastic; necessities inelastic)\n- **A**ddictiveness/habit (addictive → inelastic)\n- **T**ime period (longer → more elastic)\n\n**PED and total revenue (TR = P × Q):**\n- Demand **inelastic** → raise price to raise TR.\n- Demand **elastic** → lower price to raise TR.\n- **Unit elastic** → TR is maximised/unchanged.\nThis is vital for firms' pricing and for tax policy.\n\n## 2. Income elasticity of demand (YED)\n\n**YED = % change in Qd ÷ % change in income.**\n- **Normal good:** YED positive. (necessity: 0–1; luxury: >1)\n- **Inferior good:** YED negative (demand falls as income rises).\nUseful for firms planning for booms/recessions and for understanding structural change.\n\n## 3. Cross elasticity of demand (XED)\n\n**XED = % change in Qd of good A ÷ % change in price of good B.**\n- **Substitutes:** XED **positive** (price of one up → demand for other up).\n- **Complements:** XED **negative** (price of one up → demand for other down).\n- **Unrelated:** XED ≈ 0.\nThe larger the magnitude, the closer the relationship.\n\n## 4. Price elasticity of supply (PES)\n\n**PES = % change in quantity supplied ÷ % change in price**; normally **positive**.\n\n**Determinants:** spare capacity, availability of stocks, ease/speed of switching production, mobility of factors, and **time** — supply is more **elastic in the long run**. Agricultural goods are inelastic in the short run (long growing seasons).\n\n## Why it matters\n\nElasticities turn demand & supply into a *quantitative, predictive* tool — they drive firm pricing, the incidence of taxes and subsidies, the effect of exchange-rate changes on trade, and the success of price controls. Expect calculation and application in every paper.",
+  "keyTerms": [
+    { "term": "Price elasticity of demand (PED)", "definition": "The responsiveness of quantity demanded to a change in the good's own price." },
+    { "term": "Inelastic demand", "definition": "PED between 0 and −1: quantity changes proportionately less than price." },
+    { "term": "Elastic demand", "definition": "PED beyond −1: quantity changes proportionately more than price." },
+    { "term": "Income elasticity of demand (YED)", "definition": "The responsiveness of demand to a change in consumer income." },
+    { "term": "Normal good", "definition": "A good with positive YED — demand rises as income rises." },
+    { "term": "Inferior good", "definition": "A good with negative YED — demand falls as income rises." },
+    { "term": "Cross elasticity of demand (XED)", "definition": "The responsiveness of demand for one good to a price change of another." },
+    { "term": "Price elasticity of supply (PES)", "definition": "The responsiveness of quantity supplied to a change in price." },
+    { "term": "Total revenue", "definition": "Price × quantity sold; its response to a price change depends on PED." }
+  ],
+  "diagrams": [
+    "**PED extremes:** draw a vertical demand curve (perfectly inelastic) and a horizontal one (perfectly elastic); show a steep (inelastic) vs shallow (elastic) curve.",
+    "**PED & total revenue:** on a linear demand curve, shade the TR rectangle and show how it changes when price falls in the elastic vs inelastic range.",
+    "**PES:** draw a steep (inelastic) and a shallow (elastic) supply curve; a supply line through the origin is unit elastic."
+  ],
+  "tips": [
+    "Show the **formula and working** in calculations and keep the **sign** (negative PED/XED tells you the relationship — don't just drop it).",
+    "Link **PED to total revenue**: inelastic → raise price; elastic → cut price. A classic application question.",
+    "Use **SPLAT** to generate determinants of PED quickly and fully.",
+    "Remember supply (and demand) are **more elastic in the long run** — always consider the time period.",
+    "Apply elasticity to policy: governments tax **inelastic** demerit goods (tobacco) to raise revenue with little fall in quantity — a strong evaluation link."
+  ],
+  "videos": {
+    "channels": [
+      { "name": "tutor2u Economics", "url": "https://www.youtube.com/@tutor2u", "why": "Step-by-step elasticity calculations and applications." },
+      { "name": "EconplusDal", "url": "https://www.youtube.com/@EconplusDal", "why": "Clear PED/total-revenue and elasticity diagrams." }
+    ],
+    "keyConcepts": [
+      { "concept": "PED and its determinants", "title": "Price elasticity of demand explained", "url": "https://www.youtube.com/results?search_query=price+elasticity+of+demand+a+level+economics+tutor2u" },
+      { "concept": "PED and total revenue", "title": "Elasticity and total revenue", "url": "https://www.youtube.com/results?search_query=ped+total+revenue+a+level+economics" },
+      { "concept": "YED, XED and PES", "title": "Income, cross and supply elasticity", "url": "https://www.youtube.com/results?search_query=yed+xed+pes+elasticity+a+level+economics" }
+    ]
+  },
+  "searchTerms": ["elastic inelastic", "SPLAT determinants", "total revenue test", "normal inferior good", "substitutes complements", "perfectly elastic inelastic", "long run short run supply"]
+}

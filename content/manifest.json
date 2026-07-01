@@ -2,59 +2,452 @@
   "title": "A Level Economics 9708",
   "note": "Chapter list is provisional (based on the 9708 syllabus) until the coursebook PDF is mapped in. Stub chapters show a placeholder until written.",
   "units": [
-    { "id": "as1", "title": "AS · 1 — Basic ideas & resource allocation" },
-    { "id": "as2", "title": "AS · 2 — The price system & the microeconomy" },
-    { "id": "as3", "title": "AS · 3 — Government microeconomic intervention" },
-    { "id": "as4", "title": "AS · 4 — The macroeconomy" },
-    { "id": "as5", "title": "AS · 5 — Government macroeconomic intervention" },
-    { "id": "a6", "title": "A2 · 6 — Basic ideas & resource allocation" },
-    { "id": "a7", "title": "A2 · 7 — The price system & the microeconomy" },
-    { "id": "a8", "title": "A2 · 8 — Government microeconomic intervention" },
-    { "id": "a9", "title": "A2 · 9 — The macroeconomy" },
-    { "id": "a10", "title": "A2 · 10 — Government macroeconomic intervention" }
+    {
+      "id": "as1",
+      "title": "AS · 1 — Basic ideas & resource allocation"
+    },
+    {
+      "id": "as2",
+      "title": "AS · 2 — The price system & the microeconomy"
+    },
+    {
+      "id": "as3",
+      "title": "AS · 3 — Government microeconomic intervention"
+    },
+    {
+      "id": "as4",
+      "title": "AS · 4 — The macroeconomy"
+    },
+    {
+      "id": "as5",
+      "title": "AS · 5 — Government macroeconomic intervention"
+    },
+    {
+      "id": "a6",
+      "title": "A2 · 6 — Basic ideas & resource allocation"
+    },
+    {
+      "id": "a7",
+      "title": "A2 · 7 — The price system & the microeconomy"
+    },
+    {
+      "id": "a8",
+      "title": "A2 · 8 — Government microeconomic intervention"
+    },
+    {
+      "id": "a9",
+      "title": "A2 · 9 — The macroeconomy"
+    },
+    {
+      "id": "a10",
+      "title": "A2 · 10 — Government macroeconomic intervention"
+    }
   ],
   "chapters": [
-    { "id": "as1-fundamental-problem", "unit": "as1", "order": 1, "title": "The fundamental economic problem", "stub": true, "keywords": ["scarcity", "choice", "opportunity cost", "wants needs", "ceteris paribus"] },
-    { "id": "as1-factors-of-production", "unit": "as1", "order": 2, "title": "Factors of production", "stub": true, "keywords": ["land labour capital enterprise", "rewards rent wages interest profit"] },
-    { "id": "as1-resource-allocation", "unit": "as1", "order": 3, "title": "Resource allocation & economic systems", "stub": true, "keywords": ["market planned mixed economy", "what how for whom"] },
-    { "id": "as1-ppc", "unit": "as1", "order": 4, "title": "Production possibility curves", "stub": true, "keywords": ["PPC PPF", "opportunity cost", "economic growth", "shifts"] },
-    { "id": "as1-classification-goods", "unit": "as1", "order": 5, "title": "Classification of goods & money", "stub": true, "keywords": ["free good economic good", "public private good", "merit demerit", "money functions"] },
-
-    { "id": "as2-demand-supply", "unit": "as2", "order": 1, "title": "Demand and supply", "keywords": ["demand", "supply", "equilibrium", "shifts", "conditions of demand"] },
-    { "id": "as2-elasticities", "unit": "as2", "order": 2, "title": "Elasticities (PED, YED, XED, PES)", "stub": true, "keywords": ["price elasticity", "income elasticity", "cross elasticity", "elastic inelastic"] },
-    { "id": "as2-surplus", "unit": "as2", "order": 3, "title": "Consumer & producer surplus", "stub": true, "keywords": ["consumer surplus", "producer surplus", "welfare"] },
-
-    { "id": "as3-price-controls", "unit": "as3", "order": 1, "title": "Maximum & minimum prices", "stub": true, "keywords": ["price ceiling floor", "shortage surplus", "buffer stock"] },
-    { "id": "as3-taxes-subsidies", "unit": "as3", "order": 2, "title": "Indirect taxes & subsidies", "stub": true, "keywords": ["specific ad valorem tax", "subsidy", "incidence burden"] },
-    { "id": "as3-direct-provision", "unit": "as3", "order": 3, "title": "Direct provision & other intervention", "stub": true, "keywords": ["state provision", "transfer payments", "nudge"] },
-
-    { "id": "as4-ad-as", "unit": "as4", "order": 1, "title": "Aggregate demand & aggregate supply", "stub": true, "keywords": ["AD AS", "components C I G X-M", "SRAS LRAS", "macro equilibrium"] },
-    { "id": "as4-measuring-activity", "unit": "as4", "order": 2, "title": "Measuring economic activity (GDP)", "stub": true, "keywords": ["GDP GNI", "real nominal", "national income", "circular flow"] },
-    { "id": "as4-inflation", "unit": "as4", "order": 3, "title": "Inflation & deflation", "stub": true, "keywords": ["CPI", "demand-pull cost-push", "deflation", "purchasing power"] },
-    { "id": "as4-bop-exchange", "unit": "as4", "order": 4, "title": "Balance of payments & exchange rates", "stub": true, "keywords": ["current account", "exchange rate", "appreciation depreciation", "EGP"] },
-
-    { "id": "as5-policy-objectives", "unit": "as5", "order": 1, "title": "Macroeconomic policy objectives", "stub": true, "keywords": ["growth employment inflation BoP", "conflicts"] },
-    { "id": "as5-fiscal-monetary-supply", "unit": "as5", "order": 2, "title": "Fiscal, monetary & supply-side policy", "stub": true, "keywords": ["interest rates", "government spending taxation", "supply-side"] },
-
-    { "id": "a6-efficiency-market-failure", "unit": "a6", "order": 1, "title": "Efficiency & market failure", "stub": true, "keywords": ["allocative productive efficiency", "market failure", "Pareto"] },
-    { "id": "a6-externalities-info", "unit": "a6", "order": 2, "title": "Externalities & information failure", "stub": true, "keywords": ["MSC MSB", "asymmetric information", "moral hazard"] },
-    { "id": "a6-behavioural", "unit": "a6", "order": 3, "title": "Behavioural economics", "stub": true, "keywords": ["bounded rationality", "nudge", "heuristics", "biases"] },
-
-    { "id": "a7-utility", "unit": "a7", "order": 1, "title": "Utility & indifference analysis", "stub": true, "keywords": ["marginal utility", "indifference curve", "budget line", "income substitution effect"] },
-    { "id": "a7-costs-revenue", "unit": "a7", "order": 2, "title": "Costs, revenue & profit", "stub": true, "keywords": ["fixed variable cost", "returns to scale", "economies of scale", "MR MC"] },
-    { "id": "a7-market-structures", "unit": "a7", "order": 3, "title": "Market structures", "stub": true, "keywords": ["perfect competition", "monopoly", "monopolistic", "oligopoly", "game theory"] },
-    { "id": "a7-labour-market", "unit": "a7", "order": 4, "title": "The labour market", "stub": true, "keywords": ["MRP", "wage determination", "trade unions", "monopsony"] },
-
-    { "id": "a8-externalities-policy", "unit": "a8", "order": 1, "title": "Externalities & public goods policy", "stub": true, "keywords": ["taxes tradable permits", "public goods", "free rider"] },
-    { "id": "a8-privatisation-regulation", "unit": "a8", "order": 2, "title": "Privatisation, nationalisation & regulation", "stub": true, "keywords": ["privatisation", "regulation", "competition policy"] },
-    { "id": "a8-equity-efficiency", "unit": "a8", "order": 3, "title": "Equity, poverty & income distribution", "stub": true, "keywords": ["Gini Lorenz", "poverty", "redistribution"] },
-
-    { "id": "a9-growth-development", "unit": "a9", "order": 1, "title": "Economic growth & development", "stub": true, "keywords": ["HDI", "growth vs development", "sustainability", "Egypt"] },
-    { "id": "a9-keynesian-classical", "unit": "a9", "order": 2, "title": "Keynesian vs classical macroeconomics", "stub": true, "keywords": ["multiplier accelerator", "LRAS", "money supply"] },
-    { "id": "a9-trade-exchange", "unit": "a9", "order": 3, "title": "International trade & exchange-rate systems", "stub": true, "keywords": ["comparative advantage", "terms of trade", "fixed floating", "Marshall-Lerner"] },
-
-    { "id": "a10-policy-conflicts", "unit": "a10", "order": 1, "title": "Policy conflicts & the Phillips curve", "stub": true, "keywords": ["Phillips curve", "NAIRU", "trade-offs"] },
-    { "id": "a10-protectionism-trade-policy", "unit": "a10", "order": 2, "title": "Protectionism & trade policy", "stub": true, "keywords": ["tariffs quotas", "WTO", "trade blocs"] },
-    { "id": "a10-imf-worldbank", "unit": "a10", "order": 3, "title": "The IMF, World Bank & global policy", "stub": true, "keywords": ["IMF World Bank", "debt", "structural adjustment", "Egypt"] }
+    {
+      "id": "as1-fundamental-problem",
+      "unit": "as1",
+      "order": 1,
+      "title": "The fundamental economic problem",
+      "keywords": [
+        "scarcity",
+        "choice",
+        "opportunity cost",
+        "wants needs",
+        "ceteris paribus"
+      ]
+    },
+    {
+      "id": "as1-factors-of-production",
+      "unit": "as1",
+      "order": 2,
+      "title": "Factors of production",
+      "keywords": [
+        "land labour capital enterprise",
+        "rewards rent wages interest profit"
+      ]
+    },
+    {
+      "id": "as1-resource-allocation",
+      "unit": "as1",
+      "order": 3,
+      "title": "Resource allocation & economic systems",
+      "keywords": [
+        "market planned mixed economy",
+        "what how for whom"
+      ]
+    },
+    {
+      "id": "as1-ppc",
+      "unit": "as1",
+      "order": 4,
+      "title": "Production possibility curves",
+      "keywords": [
+        "PPC PPF",
+        "opportunity cost",
+        "economic growth",
+        "shifts"
+      ]
+    },
+    {
+      "id": "as1-classification-goods",
+      "unit": "as1",
+      "order": 5,
+      "title": "Classification of goods & money",
+      "keywords": [
+        "free good economic good",
+        "public private good",
+        "merit demerit",
+        "money functions"
+      ]
+    },
+    {
+      "id": "as2-demand-supply",
+      "unit": "as2",
+      "order": 1,
+      "title": "Demand and supply",
+      "keywords": [
+        "demand",
+        "supply",
+        "equilibrium",
+        "shifts",
+        "conditions of demand"
+      ]
+    },
+    {
+      "id": "as2-elasticities",
+      "unit": "as2",
+      "order": 2,
+      "title": "Elasticities (PED, YED, XED, PES)",
+      "keywords": [
+        "price elasticity",
+        "income elasticity",
+        "cross elasticity",
+        "elastic inelastic"
+      ]
+    },
+    {
+      "id": "as2-surplus",
+      "unit": "as2",
+      "order": 3,
+      "title": "Consumer & producer surplus",
+      "keywords": [
+        "consumer surplus",
+        "producer surplus",
+        "welfare"
+      ]
+    },
+    {
+      "id": "as3-price-controls",
+      "unit": "as3",
+      "order": 1,
+      "title": "Maximum & minimum prices",
+      "stub": true,
+      "keywords": [
+        "price ceiling floor",
+        "shortage surplus",
+        "buffer stock"
+      ]
+    },
+    {
+      "id": "as3-taxes-subsidies",
+      "unit": "as3",
+      "order": 2,
+      "title": "Indirect taxes & subsidies",
+      "stub": true,
+      "keywords": [
+        "specific ad valorem tax",
+        "subsidy",
+        "incidence burden"
+      ]
+    },
+    {
+      "id": "as3-direct-provision",
+      "unit": "as3",
+      "order": 3,
+      "title": "Direct provision & other intervention",
+      "stub": true,
+      "keywords": [
+        "state provision",
+        "transfer payments",
+        "nudge"
+      ]
+    },
+    {
+      "id": "as4-ad-as",
+      "unit": "as4",
+      "order": 1,
+      "title": "Aggregate demand & aggregate supply",
+      "stub": true,
+      "keywords": [
+        "AD AS",
+        "components C I G X-M",
+        "SRAS LRAS",
+        "macro equilibrium"
+      ]
+    },
+    {
+      "id": "as4-measuring-activity",
+      "unit": "as4",
+      "order": 2,
+      "title": "Measuring economic activity (GDP)",
+      "stub": true,
+      "keywords": [
+        "GDP GNI",
+        "real nominal",
+        "national income",
+        "circular flow"
+      ]
+    },
+    {
+      "id": "as4-inflation",
+      "unit": "as4",
+      "order": 3,
+      "title": "Inflation & deflation",
+      "stub": true,
+      "keywords": [
+        "CPI",
+        "demand-pull cost-push",
+        "deflation",
+        "purchasing power"
+      ]
+    },
+    {
+      "id": "as4-bop-exchange",
+      "unit": "as4",
+      "order": 4,
+      "title": "Balance of payments & exchange rates",
+      "stub": true,
+      "keywords": [
+        "current account",
+        "exchange rate",
+        "appreciation depreciation",
+        "EGP"
+      ]
+    },
+    {
+      "id": "as5-policy-objectives",
+      "unit": "as5",
+      "order": 1,
+      "title": "Macroeconomic policy objectives",
+      "stub": true,
+      "keywords": [
+        "growth employment inflation BoP",
+        "conflicts"
+      ]
+    },
+    {
+      "id": "as5-fiscal-monetary-supply",
+      "unit": "as5",
+      "order": 2,
+      "title": "Fiscal, monetary & supply-side policy",
+      "stub": true,
+      "keywords": [
+        "interest rates",
+        "government spending taxation",
+        "supply-side"
+      ]
+    },
+    {
+      "id": "a6-efficiency-market-failure",
+      "unit": "a6",
+      "order": 1,
+      "title": "Efficiency & market failure",
+      "stub": true,
+      "keywords": [
+        "allocative productive efficiency",
+        "market failure",
+        "Pareto"
+      ]
+    },
+    {
+      "id": "a6-externalities-info",
+      "unit": "a6",
+      "order": 2,
+      "title": "Externalities & information failure",
+      "stub": true,
+      "keywords": [
+        "MSC MSB",
+        "asymmetric information",
+        "moral hazard"
+      ]
+    },
+    {
+      "id": "a6-behavioural",
+      "unit": "a6",
+      "order": 3,
+      "title": "Behavioural economics",
+      "stub": true,
+      "keywords": [
+        "bounded rationality",
+        "nudge",
+        "heuristics",
+        "biases"
+      ]
+    },
+    {
+      "id": "a7-utility",
+      "unit": "a7",
+      "order": 1,
+      "title": "Utility & indifference analysis",
+      "stub": true,
+      "keywords": [
+        "marginal utility",
+        "indifference curve",
+        "budget line",
+        "income substitution effect"
+      ]
+    },
+    {
+      "id": "a7-costs-revenue",
+      "unit": "a7",
+      "order": 2,
+      "title": "Costs, revenue & profit",
+      "stub": true,
+      "keywords": [
+        "fixed variable cost",
+        "returns to scale",
+        "economies of scale",
+        "MR MC"
+      ]
+    },
+    {
+      "id": "a7-market-structures",
+      "unit": "a7",
+      "order": 3,
+      "title": "Market structures",
+      "stub": true,
+      "keywords": [
+        "perfect competition",
+        "monopoly",
+        "monopolistic",
+        "oligopoly",
+        "game theory"
+      ]
+    },
+    {
+      "id": "a7-labour-market",
+      "unit": "a7",
+      "order": 4,
+      "title": "The labour market",
+      "stub": true,
+      "keywords": [
+        "MRP",
+        "wage determination",
+        "trade unions",
+        "monopsony"
+      ]
+    },
+    {
+      "id": "a8-externalities-policy",
+      "unit": "a8",
+      "order": 1,
+      "title": "Externalities & public goods policy",
+      "stub": true,
+      "keywords": [
+        "taxes tradable permits",
+        "public goods",
+        "free rider"
+      ]
+    },
+    {
+      "id": "a8-privatisation-regulation",
+      "unit": "a8",
+      "order": 2,
+      "title": "Privatisation, nationalisation & regulation",
+      "stub": true,
+      "keywords": [
+        "privatisation",
+        "regulation",
+        "competition policy"
+      ]
+    },
+    {
+      "id": "a8-equity-efficiency",
+      "unit": "a8",
+      "order": 3,
+      "title": "Equity, poverty & income distribution",
+      "stub": true,
+      "keywords": [
+        "Gini Lorenz",
+        "poverty",
+        "redistribution"
+      ]
+    },
+    {
+      "id": "a9-growth-development",
+      "unit": "a9",
+      "order": 1,
+      "title": "Economic growth & development",
+      "stub": true,
+      "keywords": [
+        "HDI",
+        "growth vs development",
+        "sustainability",
+        "Egypt"
+      ]
+    },
+    {
+      "id": "a9-keynesian-classical",
+      "unit": "a9",
+      "order": 2,
+      "title": "Keynesian vs classical macroeconomics",
+      "stub": true,
+      "keywords": [
+        "multiplier accelerator",
+        "LRAS",
+        "money supply"
+      ]
+    },
+    {
+      "id": "a9-trade-exchange",
+      "unit": "a9",
+      "order": 3,
+      "title": "International trade & exchange-rate systems",
+      "stub": true,
+      "keywords": [
+        "comparative advantage",
+        "terms of trade",
+        "fixed floating",
+        "Marshall-Lerner"
+      ]
+    },
+    {
+      "id": "a10-policy-conflicts",
+      "unit": "a10",
+      "order": 1,
+      "title": "Policy conflicts & the Phillips curve",
+      "stub": true,
+      "keywords": [
+        "Phillips curve",
+        "NAIRU",
+        "trade-offs"
+      ]
+    },
+    {
+      "id": "a10-protectionism-trade-policy",
+      "unit": "a10",
+      "order": 2,
+      "title": "Protectionism & trade policy",
+      "stub": true,
+      "keywords": [
+        "tariffs quotas",
+        "WTO",
+        "trade blocs"
+      ]
+    },
+    {
+      "id": "a10-imf-worldbank",
+      "unit": "a10",
+      "order": 3,
+      "title": "The IMF, World Bank & global policy",
+      "stub": true,
+      "keywords": [
+        "IMF World Bank",
+        "debt",
+        "structural adjustment",
+        "Egypt"
+      ]
+    }
   ]
 }

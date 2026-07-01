@@ -1,0 +1,40 @@
+{
+  "id": "as1-ppc",
+  "unit": "as1",
+  "title": "Production possibility curves",
+  "order": 4,
+  "summary": "## What a PPC shows\n\nA **production possibility curve (PPC)** — also called a production possibility frontier (PPF) — shows the **maximum combinations of two goods** an economy can produce when all resources are **fully and efficiently employed**, with fixed technology.\n\nTypically drawn with two goods (e.g. *capital goods* vs *consumer goods*) on the axes. The curve is the *boundary* of what is achievable.\n\n## Key points on and off the curve\n\n- **On the curve** → output is *productively efficient* and resources are *fully employed*.\n- **Inside the curve** → resources are *unemployed or used inefficiently* (e.g. during a recession).\n- **Outside the curve** → currently *unattainable* (impossible without growth).\n\n## Opportunity cost on a PPC\n\nMoving along the curve from one point to another means producing **more of one good and less of the other** — that sacrifice is the **opportunity cost**.\n\n- A **straight-line PPC** → *constant* opportunity cost (resources equally suited to both goods).\n- A **curved (concave to origin) PPC** → *increasing* opportunity cost, because resources are not equally suited to producing both goods. As you specialise in one good, you must give up ever-larger amounts of the other. This is the usual shape.\n\n## Shifts of the PPC = economic growth\n\nThe whole curve shifts **outward** with **economic growth** — more or better resources or technology:\n- increase in the **quantity** of factors (e.g. larger workforce, more capital from investment),\n- increase in the **quality** of factors (education/training, better technology),\n- discovery of new resources.\nIt shifts **inward** with a fall in resources (war, natural disaster, mass emigration). A shift in only one axis shows growth concentrated in one industry.\n\n## Capital vs consumer goods (growth trade-off)\n\nAn economy choosing **more capital goods today** (point favouring investment) sacrifices current consumption but enjoys a **larger outward PPC shift in future** — investment drives long-run growth. Choosing mostly consumer goods raises living standards now but limits future growth.\n\n## Actual vs potential output\n\n- **Potential growth** = an outward shift of the PPC (capacity rises).\n- **Actual growth** = moving from inside the curve *towards* it (using spare capacity) — this is the macro distinction between LRAS shifts and closing an output gap.\n\n## Why it matters\n\nThe PPC is the simplest model of scarcity, choice, opportunity cost, efficiency, unemployment and growth — all on one diagram. It reappears throughout macro (potential vs actual output).",
+  "keyTerms": [
+    { "term": "Production possibility curve (PPC)", "definition": "A curve showing the maximum combinations of two goods producible with full, efficient use of resources." },
+    { "term": "Productive efficiency", "definition": "Producing on the PPC, where it is impossible to make more of one good without making less of another." },
+    { "term": "Increasing opportunity cost", "definition": "The rising sacrifice of one good as more of another is produced, giving the PPC its concave shape." },
+    { "term": "Economic growth", "definition": "An increase in productive capacity, shown by an outward shift of the PPC." },
+    { "term": "Potential growth", "definition": "An outward shift of the PPC from more/better resources or technology." },
+    { "term": "Actual growth", "definition": "A move from inside the PPC towards it as spare capacity is used up." }
+  ],
+  "diagrams": [
+    "**Basic PPC:** Good A on one axis, Good B on the other; concave (bowed-out) curve. Mark a point ON the curve (efficient), a point INSIDE (unemployment/inefficiency), and a point OUTSIDE (unattainable).",
+    "**Opportunity cost:** show a movement from one point on the curve to another, with arrows showing more of Good A and less of Good B.",
+    "**Growth:** show the whole curve shifting OUTWARD (PPC1 → PPC2) for economic growth, or inward for a fall in resources.",
+    "**Capital vs consumer goods:** axes = capital goods vs consumer goods; show that choosing more capital goods today leads to a larger future outward shift."
+  ],
+  "tips": [
+    "Label axes with **two specific goods** and always mark points inside, on and outside the curve to show full understanding.",
+    "Explain the **concave shape** with *increasing opportunity cost* — resources are not equally suited to both goods. This is a common higher-mark point.",
+    "Distinguish a **movement along** the PPC (reallocating resources) from a **shift** (growth/decline) — same shift-vs-movement discipline as demand & supply.",
+    "Use the **capital vs consumer goods** trade-off to discuss investment and future growth — great for evaluation.",
+    "Link a point **inside** the PPC to **unemployment / a negative output gap** for synoptic macro marks."
+  ],
+  "videos": {
+    "channels": [
+      { "name": "tutor2u Economics", "url": "https://www.youtube.com/@tutor2u", "why": "Clean PPC diagram tutorials with exam application." },
+      { "name": "EconplusDal", "url": "https://www.youtube.com/@EconplusDal", "why": "Strong diagram drawing and growth explanations." }
+    ],
+    "keyConcepts": [
+      { "concept": "Drawing & interpreting the PPC", "title": "Production possibility frontier explained", "url": "https://www.youtube.com/results?search_query=production+possibility+curve+a+level+economics+tutor2u" },
+      { "concept": "Shifts of the PPC and economic growth", "title": "PPC shifts and growth", "url": "https://www.youtube.com/results?search_query=ppc+shift+economic+growth+a+level+economics" },
+      { "concept": "Capital vs consumer goods trade-off", "title": "Investment, capital goods and future growth", "url": "https://www.youtube.com/results?search_query=capital+goods+consumer+goods+ppc+economic+growth" }
+    ]
+  },
+  "searchTerms": ["PPF frontier", "opportunity cost diagram", "productive efficiency", "potential output", "outward shift", "capital goods consumer goods"]
+}

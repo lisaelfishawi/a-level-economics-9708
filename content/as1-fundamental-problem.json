@@ -1,0 +1,39 @@
+{
+  "id": "as1-fundamental-problem",
+  "unit": "as1",
+  "title": "The fundamental economic problem",
+  "order": 1,
+  "summary": "## The economic problem\n\nThe **fundamental economic problem** is **scarcity**: resources are *finite* but human wants are *infinite*. Because we cannot have everything, we must **choose** — and every choice has an **opportunity cost**.\n\n- **Scarcity** — there are not enough resources to satisfy all wants.\n- **Choice** — scarcity forces consumers, firms and governments to choose.\n- **Opportunity cost** — the *next best alternative foregone* when a choice is made. (Example: a government spending on defence gives up the schools it could have built.)\n\n> Needs are things required to survive (food, water, shelter). Wants are everything else — and they are unlimited. Economics studies how societies allocate scarce resources to satisfy these wants.\n\n## The three fundamental questions\n\nEvery economy, however organised, must answer:\n1. **What** to produce?\n2. **How** to produce it?\n3. **For whom** to produce (how is output distributed)?\n\n## Economic agents\n\n- **Consumers (households)** aim to maximise *utility* (satisfaction).\n- **Producers (firms)** aim to maximise *profit*.\n- **Government** aims to maximise *social welfare*.\nThe **margin** matters: economists analyse decisions in terms of *one more unit* (marginal benefit vs marginal cost).\n\n## Economic goods vs free goods\n\n- A **free good** has *no opportunity cost* — it is not scarce (e.g. air in most contexts).\n- An **economic good** is *scarce* and so has an opportunity cost; producing it uses resources with alternative uses.\n\n## Positive vs normative\n\n- **Positive statements** are factual and *testable* — e.g. ‘Egypt's inflation rate was 2% in 2013.’\n- **Normative statements** are *value judgements* containing words like *should/ought* — e.g. ‘the government should cut fuel taxes.’\nPolicy disagreements often come from normative differences, not the facts.\n\n## Micro vs macro & methodology\n\n- **Microeconomics** studies individual markets, consumers and firms.\n- **Macroeconomics** studies the economy as a whole (growth, inflation, unemployment).\n- Economics is a **social science**: it builds models using **ceteris paribus** (‘other things equal’) to isolate one variable at a time.\n\n## Why it matters\n\nScarcity, choice and opportunity cost are the lens for the whole course — from a consumer's spending decision to a government's budget. Every later topic is an application of this single idea.",
+  "keyTerms": [
+    { "term": "Scarcity", "definition": "The condition where finite resources are insufficient to satisfy infinite human wants." },
+    { "term": "Opportunity cost", "definition": "The next best alternative foregone when a choice is made." },
+    { "term": "Economic good", "definition": "A good that is scarce and therefore has an opportunity cost in its production." },
+    { "term": "Free good", "definition": "A good with no opportunity cost because it is not scarce (e.g. air)." },
+    { "term": "Needs vs wants", "definition": "Needs are essentials for survival; wants are unlimited desires beyond survival." },
+    { "term": "Positive statement", "definition": "An objective, testable statement of fact." },
+    { "term": "Normative statement", "definition": "A subjective statement based on a value judgement (often uses ‘should/ought’)." },
+    { "term": "Ceteris paribus", "definition": "‘Other things being equal’ — holding all else constant to isolate one variable." },
+    { "term": "Margin", "definition": "The effect of one additional (marginal) unit; decisions are made by comparing marginal benefit and marginal cost." }
+  ],
+  "diagrams": [
+    "No formal diagram required, but you can illustrate opportunity cost with a simple **PPC** (see the PPC chapter): moving along the curve from one good to another shows what must be given up."
+  ],
+  "tips": [
+    "Define **scarcity, choice and opportunity cost together** — examiners reward linking them as the chain that creates the economic problem.",
+    "Spot **positive vs normative** instantly: words like *should, ought, too high, unfair* signal a normative (value-judgement) statement.",
+    "Always express opportunity cost as the **single next best alternative** foregone — not ‘everything else’.",
+    "Use **real examples** for application marks (e.g. a government choosing between subsidising bread vs building hospitals in Egypt).",
+    "Remember a **free good has zero opportunity cost** — most ‘free’ things in everyday speech are actually economic goods."
+  ],
+  "videos": {
+    "channels": [
+      { "name": "tutor2u Economics", "url": "https://www.youtube.com/@tutor2u", "why": "Concise, exam-focused revision clips for every 9708 topic." },
+      { "name": "EconplusDal", "url": "https://www.youtube.com/@EconplusDal", "why": "Clear A Level explanations and essay technique." }
+    ],
+    "keyConcepts": [
+      { "concept": "Scarcity, choice & opportunity cost", "title": "The basic economic problem explained", "url": "https://www.youtube.com/results?search_query=scarcity+choice+opportunity+cost+a+level+economics" },
+      { "concept": "Positive vs normative economics", "title": "Positive vs normative statements", "url": "https://www.youtube.com/results?search_query=positive+vs+normative+economics+tutor2u" }
+    ]
+  },
+  "searchTerms": ["economic problem", "what how for whom", "free good economic good", "value judgement", "social science", "utility maximisation"]
+}

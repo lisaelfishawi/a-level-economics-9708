@@ -1,0 +1,40 @@
+{
+  "id": "as1-classification-goods",
+  "unit": "as1",
+  "title": "Classification of goods & money",
+  "order": 5,
+  "summary": "## Classifying goods and services\n\nEconomists classify goods by two properties — **excludability** and **rivalry** — and by the **information/value judgements** society attaches to them.\n\n### Free vs economic goods\n- **Free good** — unlimited, no opportunity cost (e.g. air).\n- **Economic good** — scarce, has an opportunity cost.\n\n### Private goods\nMost goods are **private goods**, which are:\n- **Excludable** — non-payers can be prevented from consuming.\n- **Rival** — one person's consumption reduces what is available to others.\nThese can be provided efficiently by markets.\n\n### Public goods\n**Public goods** are:\n- **Non-excludable** — you cannot stop non-payers consuming (e.g. national defence, street lighting).\n- **Non-rival** — one person's use doesn't reduce availability to others.\nThis causes the **free-rider problem**: people consume without paying, so the market provides too little or none — a **market failure** requiring government provision (covered in Unit 3 / A2 Unit 8).\n\n### Quasi-public goods\n**Quasi-public goods** have public-good characteristics only *partially* (e.g. a road is non-rival until it congests; a beach can be partly excluded). They sit between private and pure public goods.\n\n### Merit and demerit goods\nThese involve **value judgements** and **information failure**:\n- **Merit goods** — *under-consumed* because people undervalue their **positive externalities** and private benefits (e.g. education, healthcare, vaccinations). Government encourages them.\n- **Demerit goods** — *over-consumed* because people undervalue their **negative externalities** and harms (e.g. tobacco, alcohol). Government discourages them.\n> Because these rest on value judgements, what counts as merit/demerit is **normative**.\n\n## Money\n\nExchange and specialisation need **money**. Without it, trade relies on **barter**, which requires a *double coincidence of wants* (both parties must want what the other offers) — slow and inefficient.\n\n**Four functions of money:**\n1. **Medium of exchange** — universally accepted for payment.\n2. **Unit/measure of value** — a common way to price goods.\n3. **Store of value** — wealth held over time (eroded by **inflation**).\n4. **Standard of deferred payment** — enables credit and contracts over time.\n\n**Characteristics of good money:** acceptability, durability, portability, divisibility, scarcity (limited supply) and uniformity.\n\n## Why it matters\n\nThe goods classification directly sets up **market failure** and government intervention: public goods justify state provision, merit/demerit goods justify subsidies and taxes. Money underlies all exchange and the later study of inflation and monetary policy.",
+  "keyTerms": [
+    { "term": "Private good", "definition": "A good that is both excludable and rival, so markets can provide it." },
+    { "term": "Public good", "definition": "A good that is non-excludable and non-rival, leading to the free-rider problem." },
+    { "term": "Non-excludability", "definition": "The inability to prevent non-payers from consuming a good." },
+    { "term": "Non-rivalry", "definition": "When one person's consumption does not reduce the amount available to others." },
+    { "term": "Free-rider problem", "definition": "When people consume a good without paying, so markets under-provide it." },
+    { "term": "Quasi-public good", "definition": "A good with public-good features only in part (e.g. roads, beaches)." },
+    { "term": "Merit good", "definition": "A good under-consumed by the market because its benefits are undervalued (e.g. education)." },
+    { "term": "Demerit good", "definition": "A good over-consumed by the market because its harms are undervalued (e.g. tobacco)." },
+    { "term": "Barter", "definition": "Direct exchange of goods without money, requiring a double coincidence of wants." }
+  ],
+  "diagrams": [
+    "No diagram needed here, but merit/demerit goods link to the **externality diagrams** (MSB/MSC) in the market-failure chapters — reference them for evaluation."
+  ],
+  "tips": [
+    "Define public goods with **both** properties — non-excludable AND non-rival — and link them to the **free-rider problem** and market failure.",
+    "Stress that **merit/demerit goods rest on value judgements** (normative), unlike the purely technical definition of a public good.",
+    "Give crisp examples: defence/street-lighting (public), education/healthcare (merit), tobacco/alcohol (demerit), roads (quasi-public).",
+    "Connect classifications forward to **government intervention** (provision, subsidies, taxes) to show synoptic links.",
+    "For money, learn the **four functions** and note **inflation undermines the store-of-value function** — a neat evaluation point."
+  ],
+  "videos": {
+    "channels": [
+      { "name": "tutor2u Economics", "url": "https://www.youtube.com/@tutor2u", "why": "Clear public/merit/demerit good explanations with examples." },
+      { "name": "EconplusDal", "url": "https://www.youtube.com/@EconplusDal", "why": "Links goods classification to market failure and intervention." }
+    ],
+    "keyConcepts": [
+      { "concept": "Public goods & the free-rider problem", "title": "Public goods, non-excludability & free riders", "url": "https://www.youtube.com/results?search_query=public+goods+free+rider+problem+a+level+economics" },
+      { "concept": "Merit & demerit goods", "title": "Merit and demerit goods explained", "url": "https://www.youtube.com/results?search_query=merit+demerit+goods+a+level+economics+tutor2u" },
+      { "concept": "Functions & qualities of money", "title": "Functions of money", "url": "https://www.youtube.com/results?search_query=functions+of+money+a+level+economics" }
+    ]
+  },
+  "searchTerms": ["excludable rival", "free rider", "non-excludable non-rival", "value judgement", "positive negative externality", "double coincidence of wants", "store of value"]
+}
