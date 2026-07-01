@@ -1,0 +1,42 @@
+{
+  "id": "a6-externalities-info",
+  "unit": "a6",
+  "title": "Externalities & information failure",
+  "order": 2,
+  "summary": "## Externalities\n\nAn **externality** is a **spillover cost or benefit to a third party** not involved in a transaction — a divergence between **private** and **social** costs/benefits. When they exist, the market output is **not allocatively efficient**.\n\nBuild the analysis from four curves:\n- **MPC** — marginal private cost; **MSC** — marginal social cost = MPC + external cost.\n- **MPB** — marginal private benefit; **MSB** — marginal social benefit = MPB + external benefit.\n- The **social optimum** is where **MSB = MSC**. The market equilibrium (MPB = MPC) differs from it — the gap is the **welfare loss**.\n\n### Negative externalities of production (e.g. pollution)\nMSC lies **above** MPC. The market **over-produces** (Q market > Q optimum) at too low a price → a **deadweight welfare loss** triangle. Firms ignore the external cost they impose.\n\n### Negative externalities of consumption (e.g. smoking, alcohol — demerit goods)\nMSB lies **below** MPB. The market **over-consumes**.\n\n### Positive externalities of production (e.g. a firm training workers)\nMSC lies **below** MPC → the good is **under-produced**.\n\n### Positive externalities of consumption (e.g. education, vaccination — merit goods)\nMSB lies **above** MPB → the good is **under-consumed**.\n\n> On every diagram, identify the **market vs social-optimum quantity** and **shade the welfare-loss triangle** (pointing to the social optimum).\n\n**Policies:** taxes/tradable permits (negative externalities), subsidies/direct provision (positive externalities), regulation, and information — each with the government-failure caveats from AS Unit 3 and A2 Unit 8.\n\n## Information failure\n\nMarkets need good information to work. **Information failure** means agents lack full, accurate information, leading to poor decisions and misallocation. It underlies merit/demerit goods (people misjudge long-term benefits/harms).\n\n### Asymmetric information\n**Asymmetric information** — one party knows **more** than the other, distorting the market:\n- **Adverse selection** — the *hidden information* problem *before* a deal (e.g. the buyer of used cars can't tell good from bad — ‘the market for lemons’; the sick are keenest to buy insurance).\n- **Moral hazard** — the *hidden action* problem *after* a deal (e.g. an insured person takes more risk; banks lend recklessly expecting a bail-out).\n\n**Policies:** compulsory information disclosure, regulation, signalling and screening (e.g. qualifications, warranties, insurance excess).\n\n## Why it matters\n\nExternalities and information failure are the most heavily tested market failures at A2. Mastering the MSB/MSC diagrams and the adverse-selection/moral-hazard distinction is essential for both analysis and evaluation.",
+  "keyTerms": [
+    { "term": "Externality", "definition": "A cost or benefit imposed on a third party not part of the transaction." },
+    { "term": "Marginal social cost (MSC)", "definition": "Marginal private cost plus any external cost of production." },
+    { "term": "Marginal social benefit (MSB)", "definition": "Marginal private benefit plus any external benefit of consumption." },
+    { "term": "Social optimum", "definition": "The allocatively efficient output where MSB = MSC." },
+    { "term": "Welfare (deadweight) loss", "definition": "The loss of social welfare when output differs from the social optimum." },
+    { "term": "Information failure", "definition": "When agents lack full or accurate information, leading to poor decisions." },
+    { "term": "Asymmetric information", "definition": "When one party in a transaction has more information than the other." },
+    { "term": "Adverse selection", "definition": "A pre-contract problem where hidden information leads the wrong types to trade (e.g. lemons)." },
+    { "term": "Moral hazard", "definition": "A post-contract problem where a party takes more risk because they don't bear the full consequences." }
+  ],
+  "diagrams": [
+    "**Negative externality of production:** MSC above MPC; market output where MPB=MPC exceeds the optimum where MSB=MSC; shade the welfare-loss triangle.",
+    "**Positive externality of consumption (merit good):** MSB above MPB; market under-consumes; shade the welfare loss and show the subsidy/provision needed.",
+    "**Corrective tax/subsidy:** show a Pigouvian tax shifting MPC up to MSC (or a subsidy shifting MPB up to MSB) to reach the social optimum."
+  ],
+  "tips": [
+    "Draw externality diagrams **fully labelled** (MPC, MSC, MPB, MSB), mark **both quantities**, and **shade the welfare-loss triangle** pointing toward the social optimum.",
+    "Classify carefully: is it an externality of **production or consumption**, positive or negative? That fixes which curve diverges.",
+    "Distinguish **adverse selection (hidden information, before)** from **moral hazard (hidden action, after)** with an example each.",
+    "Link merit/demerit goods to **information failure + externalities** for a complete answer.",
+    "Evaluate corrective policies with the **information problem** (setting the right tax/subsidy) and **government failure**."
+  ],
+  "videos": {
+    "channels": [
+      { "name": "tutor2u Economics", "url": "https://www.youtube.com/@tutor2u", "why": "Definitive externality diagram tutorials." },
+      { "name": "EconplusDal", "url": "https://www.youtube.com/@EconplusDal", "why": "Step-by-step MSB/MSC diagrams and welfare loss." }
+    ],
+    "keyConcepts": [
+      { "concept": "Negative & positive externalities", "title": "Externalities and welfare loss diagrams", "url": "https://www.youtube.com/results?search_query=externalities+msc+msb+welfare+loss+a+level+economics" },
+      { "concept": "Asymmetric information", "title": "Asymmetric information explained", "url": "https://www.youtube.com/results?search_query=asymmetric+information+a+level+economics" },
+      { "concept": "Adverse selection vs moral hazard", "title": "Adverse selection and moral hazard", "url": "https://www.youtube.com/results?search_query=adverse+selection+moral+hazard+a+level+economics" }
+    ]
+  },
+  "searchTerms": ["spillover", "third party", "MPC MSC MPB MSB", "Pigouvian tax", "market for lemons", "hidden information action", "signalling screening", "welfare triangle"]
+}

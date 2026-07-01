@@ -1,0 +1,44 @@
+{
+  "id": "a7-costs-revenue",
+  "unit": "a7",
+  "title": "Costs, revenue & profit",
+  "order": 2,
+  "summary": "## The theory of the firm's foundations\n\nTo understand how firms behave in different market structures, you first need **costs, revenue and profit** — and the crucial difference between the **short run** and the **long run**.\n\n## Costs in the short run\n\nThe **short run** is when at least one factor is **fixed**. Costs:\n- **Fixed costs (FC/TFC)** — don't vary with output (rent, insurance).\n- **Variable costs (VC/TVC)** — vary with output (raw materials, wages).\n- **Total cost (TC) = TFC + TVC.**\n- **Average cost (AC) = TC/Q**; **average fixed cost (AFC)** falls continuously; **average variable cost (AVC)** is U-shaped.\n- **Marginal cost (MC) = the cost of one more unit** (ΔTC/ΔQ).\n\n### The law of diminishing returns (diminishing marginal product)\nIn the short run, as more of a **variable** factor is added to a **fixed** factor, the **marginal product eventually falls**. This makes **MC eventually rise** and gives the **AC/AVC curves their U-shape**. **MC cuts AVC and AC at their lowest points.**\n\n## Costs in the long run\n\nIn the **long run all factors are variable** — the firm can change its scale. The **long-run average cost (LRAC)** curve is the envelope of short-run AC curves and shows **returns to scale**:\n- **Economies of scale** — LRAC **falls** as output rises. Internal sources: **technical, purchasing (bulk-buying), managerial, financial, marketing, risk-bearing**.\n- **Diseconomies of scale** — LRAC **rises** (control, communication and motivation problems in large firms).\n- **Minimum efficient scale (MES)** — the lowest output at which LRAC is minimised.\n- **External economies of scale** — cost falls from the growth of the whole *industry* (skilled labour pool, infrastructure).\n\n## Revenue\n\n- **Total revenue (TR) = P × Q.**\n- **Average revenue (AR) = TR/Q = price** — so the **AR curve is the demand curve**.\n- **Marginal revenue (MR)** — revenue from one more unit. Under **perfect competition** the firm is a price taker, so **AR = MR = price (horizontal)**. Under **imperfect competition** the downward-sloping AR means **MR lies below AR**.\n\n## Profit and the profit-maximising rule\n\n- **Profit = TR − TC.** Economists include **normal profit** (the minimum return to keep the firm in the industry) as a cost; **supernormal (abnormal) profit** is any profit above that.\n- **Profit is maximised where MC = MR** (and MC is rising). This rule underlies every market-structure diagram.\n- **Other objectives:** firms may pursue revenue maximisation (MR = 0), sales maximisation (max output with normal profit), or satisficing — often due to the **principal–agent problem** (divorce of ownership and control).\n\n## Why it matters\n\nCosts and revenue are the engine room of A2 micro: the **MC = MR** rule and the cost/revenue curves are used to analyse perfect competition, monopoly, oligopoly and the labour market. Get these curves right and market structures become straightforward.",
+  "keyTerms": [
+    { "term": "Fixed vs variable costs", "definition": "Fixed costs don't change with output; variable costs do." },
+    { "term": "Marginal cost (MC)", "definition": "The change in total cost from producing one more unit." },
+    { "term": "Law of diminishing returns", "definition": "In the short run, adding a variable factor to a fixed one eventually lowers marginal product, raising MC." },
+    { "term": "Economies of scale", "definition": "Falling long-run average cost as the scale of production rises." },
+    { "term": "Diseconomies of scale", "definition": "Rising long-run average cost as a firm grows too large." },
+    { "term": "Minimum efficient scale (MES)", "definition": "The lowest output at which long-run average cost is minimised." },
+    { "term": "Average revenue (AR)", "definition": "Total revenue per unit (TR/Q), equal to price and to the demand curve." },
+    { "term": "Marginal revenue (MR)", "definition": "The change in total revenue from selling one more unit." },
+    { "term": "Normal vs supernormal profit", "definition": "Normal profit is the minimum to stay in the industry; supernormal profit is any excess above it." },
+    { "term": "Profit maximisation", "definition": "Producing where MC = MR (with MC rising)." }
+  ],
+  "diagrams": [
+    "**Short-run cost curves:** U-shaped AC and AVC, falling AFC, and an MC curve cutting AVC and AC at their minimum points.",
+    "**LRAC curve:** falling (economies), reaching MES, then rising (diseconomies); show short-run AC curves nested within it.",
+    "**Revenue curves:** horizontal AR=MR (perfect competition) vs downward AR with MR below it (imperfect competition).",
+    "**Profit maximisation:** mark output where MC = MR and read price off the AR curve above it."
+  ],
+  "tips": [
+    "Explain the **U-shaped short-run cost curves via diminishing returns**, and remember **MC cuts AC and AVC at their minimums**.",
+    "Separate the **short run (diminishing returns)** from the **long run (returns to scale/economies of scale)** — a classic confusion.",
+    "State that **AR = the demand curve**, and that **MR < AR** whenever the demand curve slopes down.",
+    "Apply the **MC = MR rule** for profit maximisation on every market-structure diagram.",
+    "Bring in **alternative objectives** and the **principal–agent problem** for evaluation of the profit-max assumption."
+  ],
+  "videos": {
+    "channels": [
+      { "name": "tutor2u Economics", "url": "https://www.youtube.com/@tutor2u", "why": "Thorough cost, revenue and profit tutorials." },
+      { "name": "EconplusDal", "url": "https://www.youtube.com/@EconplusDal", "why": "Excellent on cost curves and economies of scale." }
+    ],
+    "keyConcepts": [
+      { "concept": "Short-run costs & diminishing returns", "title": "Cost curves and diminishing returns", "url": "https://www.youtube.com/results?search_query=short+run+cost+curves+diminishing+returns+a+level+economics" },
+      { "concept": "Economies & diseconomies of scale", "title": "Economies of scale and LRAC", "url": "https://www.youtube.com/results?search_query=economies+of+scale+lrac+a+level+economics" },
+      { "concept": "Revenue and profit maximisation", "title": "Revenue curves and MC=MR", "url": "https://www.youtube.com/results?search_query=revenue+profit+maximisation+mc+mr+a+level+economics" }
+    ]
+  },
+  "searchTerms": ["TFC TVC TC AC MC", "diminishing marginal product", "internal external economies", "LRAC envelope", "AR=MR price taker", "normal supernormal profit", "MC=MR", "principal agent"]
+}

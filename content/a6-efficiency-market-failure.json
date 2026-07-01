@@ -1,0 +1,39 @@
+{
+  "id": "a6-efficiency-market-failure",
+  "unit": "a6",
+  "title": "Efficiency & market failure",
+  "order": 1,
+  "summary": "## Types of efficiency\n\nEconomic efficiency is about getting the most from scarce resources. Four concepts:\n\n- **Productive efficiency** — producing at the **lowest average cost** (on the PPC / bottom of the AC curve). No resources wasted.\n- **Allocative efficiency** — producing the goods society most wants, where **price = marginal cost (P = MC)** and total welfare (consumer + producer surplus) is maximised.\n- **Dynamic efficiency** — efficiency **over time**: innovation, investment and new technology lowering costs and improving products (needs profits to fund R&D).\n- **X-inefficiency** — when a firm's costs are **higher than necessary** (e.g. organisational slack), common where competition is weak.\n\n**Pareto efficiency/optimality** — a position where **no one can be made better off without making someone worse off**. A perfectly competitive market reaches it; market failure means we fall short.\n\n## What is market failure?\n\n**Market failure** occurs when the free market **fails to allocate resources efficiently**, so society's welfare is not maximised. It is the core justification for government intervention.\n\n**Two degrees:**\n- **Complete market failure** — the market fails to provide a good at all (a ‘missing market’, e.g. pure **public goods**).\n- **Partial market failure** — a market exists but produces the **wrong quantity** (over- or under-production), e.g. goods with externalities or merit/demerit goods.\n\n## Main sources of market failure (the A2 map)\n\n1. **Externalities** — costs/benefits to third parties (next chapter).\n2. **Public goods** — non-excludable, non-rival → free-rider problem, under-provision.\n3. **Merit and demerit goods** — mis-valued due to information failure.\n4. **Information failure / asymmetric information** — buyers or sellers lack full information (next chapter).\n5. **Market imbalances & immobility** — factor immobility causing structural unemployment.\n6. **Monopoly power / abuse of market power** — restricting output and raising price above MC (allocatively inefficient).\n7. **Inequity** — an ‘unfair’ distribution of income and wealth (a normative failure).\n8. **Factor immobility** — resources cannot move to their best use.\n\n## Why it matters\n\nEfficiency concepts are the yardstick for judging markets and policy; market failure is the organising theme of the whole A2 micro course (Units 6–8). Every intervention you study is an attempt to move the market **towards allocative efficiency** — while risking government failure.",
+  "keyTerms": [
+    { "term": "Productive efficiency", "definition": "Producing at the lowest possible average cost, using resources without waste." },
+    { "term": "Allocative efficiency", "definition": "Producing the mix of goods society most wants, where price equals marginal cost." },
+    { "term": "Dynamic efficiency", "definition": "Improvements in efficiency over time through innovation and investment." },
+    { "term": "X-inefficiency", "definition": "When a firm produces at a higher cost than necessary, often due to weak competition." },
+    { "term": "Pareto efficiency", "definition": "An allocation where no one can be made better off without making someone worse off." },
+    { "term": "Market failure", "definition": "When free markets fail to allocate resources efficiently, reducing social welfare." },
+    { "term": "Complete vs partial market failure", "definition": "Complete: the good is not provided at all; partial: it is provided in the wrong quantity." }
+  ],
+  "diagrams": [
+    "**Allocative efficiency:** on a demand/supply or cost/revenue diagram, mark the output where **P = MC** and show consumer + producer surplus maximised.",
+    "**Productive efficiency:** the lowest point of the average cost curve, or a point on the PPC.",
+    "Reference the **externality diagrams** (next chapter) to show welfare loss from partial market failure."
+  ],
+  "tips": [
+    "Define **allocative efficiency as P = MC** and productive efficiency as **minimum AC** — precise conditions score marks.",
+    "Use **Pareto optimality** to explain what an efficient outcome means and why market failure falls short.",
+    "Classify failures as **complete (missing market)** vs **partial (wrong quantity)** — a neat framing.",
+    "Mention **dynamic efficiency** and **X-inefficiency** to show A2-level depth beyond static efficiency.",
+    "Treat this chapter as your **map** of Units 6–8; reference the specific failure diagrams when answering."
+  ],
+  "videos": {
+    "channels": [
+      { "name": "tutor2u Economics", "url": "https://www.youtube.com/@tutor2u", "why": "Clear coverage of efficiency types and market failure." },
+      { "name": "EconplusDal", "url": "https://www.youtube.com/@EconplusDal", "why": "Strong A2 market-failure and efficiency explanations." }
+    ],
+    "keyConcepts": [
+      { "concept": "Types of economic efficiency", "title": "Allocative, productive, dynamic & X-inefficiency", "url": "https://www.youtube.com/results?search_query=allocative+productive+dynamic+efficiency+a+level+economics" },
+      { "concept": "Market failure overview", "title": "Market failure explained", "url": "https://www.youtube.com/results?search_query=market+failure+a+level+economics+tutor2u" }
+    ]
+  },
+  "searchTerms": ["P=MC", "minimum average cost", "Pareto optimal", "missing market", "over-production under-production", "monopoly power", "factor immobility", "inequity"]
+}

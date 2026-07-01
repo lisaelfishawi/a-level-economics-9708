@@ -1,0 +1,46 @@
+{
+  "id": "a7-market-structures",
+  "unit": "a7",
+  "title": "Market structures",
+  "order": 3,
+  "summary": "## The spectrum of competition\n\nMarket structures are classified by the **number of firms, barriers to entry, product differentiation and knowledge**. They range from **perfect competition** to **monopoly**, with **monopolistic competition** and **oligopoly** in between. Firms in all of them profit-maximise at **MC = MR**.\n\n## Perfect competition\n\n**Assumptions:** many small firms, identical (homogeneous) products, **no barriers to entry/exit**, perfect information, firms are **price takers**.\n- Each firm faces a **horizontal AR = MR** (the market price).\n- **Short run:** can make **supernormal profit** (or a loss) at MC = MR.\n- **Long run:** entry/exit competes profit away → firms make only **normal profit** (AR = AC).\n- **Efficiency:** achieves both **productive (min AC)** and **allocative (P = MC)** efficiency — the benchmark — but little dynamic efficiency (no supernormal profit to fund R&D).\n\n## Monopoly\n\nA **pure monopoly** is a single seller (in practice, ≥25% market share or ‘monopoly power’). **High barriers to entry** (economies of scale, legal patents, brand, control of resources) let it earn **long-run supernormal profit**.\n- Downward-sloping AR with MR below it; profit-maximises at MC = MR, giving **higher price and lower output** than perfect competition.\n- **Allocatively inefficient (P > MC)** and often **productively inefficient / X-inefficient**; can create **deadweight welfare loss**.\n- **But:** economies of scale (a **natural monopoly**), supernormal profit funding **dynamic efficiency/innovation**, and lower prices from scale can be benefits.\n- **Price discrimination** — charging different prices to different groups for the same good (needs market power, separable markets, different elasticities, no resale). Can raise producer surplus and output but reduce consumer surplus.\n\n## Monopolistic competition\n\n**Many firms, differentiated products, low barriers.** Each has slight price-setting power (downward AR).\n- **Short run:** supernormal profit possible.\n- **Long run:** entry erodes it → **normal profit** (AR tangent to AC), but at a point of **excess capacity** — neither productively nor allocatively efficient. Examples: restaurants, hairdressers.\n\n## Oligopoly\n\nA **few large firms dominate** (high **concentration ratio**); **interdependence** is the defining feature — each firm's action depends on rivals' reactions.\n- **Kinked demand curve** model → **price rigidity** (rivals match price cuts but not rises), so firms compete on **non-price** terms (branding, quality, loyalty schemes).\n- **Collusion:** firms may form a **cartel** to fix prices/output like a monopoly (illegal in most countries); **tacit collusion / price leadership** is subtler.\n- **Game theory** (e.g. the **prisoner's dilemma**) shows why firms may not collude despite incentives — dominant strategies can lead to competition.\n\n## Contestable markets\n\nA market is **contestable** if entry and exit are **cheap and easy** (low sunk costs). The *threat* of entry (‘hit-and-run’) disciplines incumbents to keep prices and profits low even with few firms — so **behaviour** matters as much as structure.\n\n## Why it matters\n\nMarket structures are the central A2 micro topic and the basis for competition policy (Unit 8). Compare structures on **efficiency, profit, price/output and consumer welfare** to power evaluation.",
+  "keyTerms": [
+    { "term": "Perfect competition", "definition": "Many price-taking firms with identical products and no barriers to entry; long-run normal profit." },
+    { "term": "Price taker vs price maker", "definition": "A price taker accepts the market price; a price maker can influence price via a downward-sloping AR." },
+    { "term": "Monopoly", "definition": "A single (or dominant) seller protected by high barriers to entry, earning long-run supernormal profit." },
+    { "term": "Barriers to entry", "definition": "Obstacles (scale, patents, brand, sunk costs) that prevent new firms entering a market." },
+    { "term": "Natural monopoly", "definition": "An industry where economies of scale mean one firm can supply the whole market at lowest cost." },
+    { "term": "Price discrimination", "definition": "Charging different prices to different consumers for the same good, needing market power and no resale." },
+    { "term": "Monopolistic competition", "definition": "Many firms with differentiated products and low barriers; long-run normal profit with excess capacity." },
+    { "term": "Oligopoly", "definition": "A market dominated by a few interdependent firms with high barriers to entry." },
+    { "term": "Collusion / cartel", "definition": "Firms agreeing to fix prices or output to act like a monopoly." },
+    { "term": "Contestable market", "definition": "A market where low entry/exit costs mean the threat of entry disciplines incumbents." }
+  ],
+  "diagrams": [
+    "**Perfect competition:** horizontal AR=MR; short-run supernormal profit/loss vs long-run normal profit (AR=AC tangency).",
+    "**Monopoly:** downward AR, MR below it; MC=MR output; shade supernormal profit and the deadweight welfare loss vs the competitive (P=MC) output.",
+    "**Monopolistic competition long run:** AR tangent to AC at MC=MR output → normal profit with excess capacity.",
+    "**Oligopoly kinked demand curve:** demand kinked at the current price with a discontinuous MR → price rigidity.",
+    "**Price discrimination:** two sub-markets with different elasticities, each priced at its own MC=MR."
+  ],
+  "tips": [
+    "Learn each structure by its **four assumptions** (number of firms, barriers, product, information) and its **long-run profit and efficiency** outcome.",
+    "Always draw the **deadweight welfare loss** on the monopoly diagram and compare with the competitive P = MC output.",
+    "Give a **balanced monopoly evaluation**: allocative/productive inefficiency vs economies of scale, natural monopoly and dynamic efficiency.",
+    "For oligopoly, use **interdependence + the kinked demand curve** to explain price rigidity, and **game theory/prisoner's dilemma** for collusion.",
+    "Bring in **contestability** to argue that *behaviour* (threat of entry) can matter more than the number of firms."
+  ],
+  "videos": {
+    "channels": [
+      { "name": "tutor2u Economics", "url": "https://www.youtube.com/@tutor2u", "why": "Full market-structures playlist with clear diagrams." },
+      { "name": "EconplusDal", "url": "https://www.youtube.com/@EconplusDal", "why": "Outstanding diagram-drawing for every market structure." }
+    ],
+    "keyConcepts": [
+      { "concept": "Perfect competition", "title": "Perfect competition short & long run", "url": "https://www.youtube.com/results?search_query=perfect+competition+short+long+run+a+level+economics" },
+      { "concept": "Monopoly & price discrimination", "title": "Monopoly diagram and price discrimination", "url": "https://www.youtube.com/results?search_query=monopoly+price+discrimination+a+level+economics+econplusdal" },
+      { "concept": "Oligopoly & game theory", "title": "Oligopoly, kinked demand and game theory", "url": "https://www.youtube.com/results?search_query=oligopoly+kinked+demand+game+theory+a+level+economics" },
+      { "concept": "Contestable markets", "title": "Contestable markets explained", "url": "https://www.youtube.com/results?search_query=contestable+markets+a+level+economics" }
+    ]
+  },
+  "searchTerms": ["homogeneous product", "price taker maker", "concentration ratio", "kinked demand", "prisoner's dilemma", "cartel collusion", "natural monopoly", "excess capacity", "sunk costs contestability"]
+}

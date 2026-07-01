@@ -1,0 +1,42 @@
+{
+  "id": "a7-labour-market",
+  "unit": "a7",
+  "title": "The labour market",
+  "order": 4,
+  "summary": "## Applying demand & supply to labour\n\nThe **labour market** applies demand and supply to a **factor** (labour), setting the **wage rate** and level of employment. Labour demand is a **derived demand** — firms want workers for the output they produce, not for their own sake.\n\n## Demand for labour\n\nThe demand for labour comes from the **marginal revenue product (MRP)**:\n> **MRP = marginal physical product × marginal revenue (≈ price of the output).**\nA profit-maximising firm hires up to where **MRP = wage rate**. MRP eventually falls (diminishing returns), giving a downward-sloping labour-demand curve.\n\n**Determinants / elasticity of labour demand:** productivity, the price of the product, the proportion of labour in total costs, and the ease of substituting capital for labour. Demand is more elastic when labour is a big share of costs and easily substituted.\n\n## Supply of labour\n\nThe supply of labour to an **occupation** depends on the wage relative to alternatives, plus **non-monetary factors** (job satisfaction, conditions, qualifications required, training time). For an individual, higher wages usually raise hours worked, but a **backward-bending supply curve** can occur when the **income effect** (choosing more leisure) outweighs the **substitution effect** at high wages.\n\n**Wage differentials** (why wages differ between jobs) arise from differences in MRP/skill, qualifications and training, labour (im)mobility, non-monetary characteristics (**compensating differentials**), and discrimination.\n\n## Wage determination\n\nIn a **competitive labour market**, the wage and employment level are set where **labour demand (MRP) = labour supply**. Firms are **wage takers** facing a horizontal supply of labour at the market wage.\n\n## Imperfect labour markets\n\n- **Monopsony** — a **single (dominant) buyer of labour** (e.g. a large employer, or the government for nurses). A monopsonist restricts employment and pays a **lower wage** than a competitive market (marginal cost of labour lies above the supply curve).\n- **Trade unions** — collective bargaining raises wages above the market level; in a competitive market this can **reduce employment**, but in a **monopsony** a union (bilateral monopoly) can raise **both wages and employment** toward the competitive level.\n- **Minimum wage** — a wage floor: protects low-paid workers and can boost demand/motivation, but may cause unemployment if set above the equilibrium (though in a monopsony it can raise employment).\n\n## Why it matters\n\nThe labour market links micro theory (MRP, market structures) to real-world issues of wages, inequality and unemployment, and it underpins government intervention on minimum wages and union law (Unit 8). Expect diagram-based analysis of monopsony, unions and minimum wages.",
+  "keyTerms": [
+    { "term": "Derived demand", "definition": "Demand for a factor that arises from demand for the goods it helps produce." },
+    { "term": "Marginal revenue product (MRP)", "definition": "The extra revenue from employing one more worker: marginal product × marginal revenue." },
+    { "term": "Wage differential", "definition": "A difference in wages between jobs or workers, due to skill, MRP, mobility or non-monetary factors." },
+    { "term": "Compensating differential", "definition": "Extra pay to offset unattractive job characteristics (e.g. danger or unsocial hours)." },
+    { "term": "Backward-bending supply curve", "definition": "When higher wages eventually reduce hours worked as the income effect outweighs the substitution effect." },
+    { "term": "Monopsony", "definition": "A market with a single or dominant buyer of labour, which lowers wages and employment." },
+    { "term": "Trade union", "definition": "An organisation of workers that bargains collectively to raise wages and improve conditions." },
+    { "term": "Minimum wage", "definition": "A legal wage floor to protect low-paid workers." }
+  ],
+  "diagrams": [
+    "**Competitive labour market:** downward MRP (labour demand) and upward labour supply; equilibrium wage and employment at their intersection.",
+    "**Monopsony:** supply of labour (= average cost of labour) with the marginal cost of labour above it; employment set where MCL = MRP, wage read off the supply curve → lower wage and employment.",
+    "**Trade union / minimum wage:** show a wage set above equilibrium and the resulting excess supply (unemployment) in a competitive market, or the employment-raising effect in a monopsony.",
+    "**Backward-bending supply curve:** individual labour supply rising then bending back at high wages."
+  ],
+  "tips": [
+    "Define labour demand as **derived demand** driven by **MRP**, and state the hiring rule **MRP = wage**.",
+    "Draw and explain the **monopsony diagram** (MCL above supply → lower wage and employment) — a favourite exam topic.",
+    "Show the **union/minimum-wage effect differs** between a competitive market (possible unemployment) and a monopsony (can raise employment) — strong evaluation.",
+    "Use **wage differentials** (MRP, skills, mobility, compensating differentials, discrimination) to explain pay gaps.",
+    "Introduce the **backward-bending supply curve** via income vs substitution effects for A2-level depth."
+  ],
+  "videos": {
+    "channels": [
+      { "name": "tutor2u Economics", "url": "https://www.youtube.com/@tutor2u", "why": "Clear labour-market, MRP and monopsony coverage." },
+      { "name": "EconplusDal", "url": "https://www.youtube.com/@EconplusDal", "why": "Excellent monopsony and trade-union diagrams." }
+    ],
+    "keyConcepts": [
+      { "concept": "MRP & competitive wage determination", "title": "Marginal revenue product and wages", "url": "https://www.youtube.com/results?search_query=marginal+revenue+product+labour+market+a+level+economics" },
+      { "concept": "Monopsony", "title": "Monopsony labour market", "url": "https://www.youtube.com/results?search_query=monopsony+labour+market+a+level+economics+econplusdal" },
+      { "concept": "Trade unions & minimum wage", "title": "Trade unions and the minimum wage", "url": "https://www.youtube.com/results?search_query=trade+unions+minimum+wage+a+level+economics" }
+    ]
+  },
+  "searchTerms": ["derived demand", "MRP marginal product", "elasticity of labour demand", "monopsony MCL", "bilateral monopoly", "collective bargaining", "income substitution effect leisure", "wage differentials discrimination"]
+}

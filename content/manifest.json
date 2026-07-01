@@ -244,7 +244,6 @@
       "unit": "a6",
       "order": 1,
       "title": "Efficiency & market failure",
-      "stub": true,
       "keywords": [
         "allocative productive efficiency",
         "market failure",
@@ -256,7 +255,6 @@
       "unit": "a6",
       "order": 2,
       "title": "Externalities & information failure",
-      "stub": true,
       "keywords": [
         "MSC MSB",
         "asymmetric information",
@@ -268,7 +266,6 @@
       "unit": "a6",
       "order": 3,
       "title": "Behavioural economics",
-      "stub": true,
       "keywords": [
         "bounded rationality",
         "nudge",
@@ -281,7 +278,6 @@
       "unit": "a7",
       "order": 1,
       "title": "Utility & indifference analysis",
-      "stub": true,
       "keywords": [
         "marginal utility",
         "indifference curve",
@@ -294,7 +290,6 @@
       "unit": "a7",
       "order": 2,
       "title": "Costs, revenue & profit",
-      "stub": true,
       "keywords": [
         "fixed variable cost",
         "returns to scale",
@@ -307,7 +302,6 @@
       "unit": "a7",
       "order": 3,
       "title": "Market structures",
-      "stub": true,
       "keywords": [
         "perfect competition",
         "monopoly",
@@ -321,7 +315,6 @@
       "unit": "a7",
       "order": 4,
       "title": "The labour market",
-      "stub": true,
       "keywords": [
         "MRP",
         "wage determination",

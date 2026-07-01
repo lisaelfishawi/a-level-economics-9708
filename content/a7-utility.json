@@ -1,0 +1,43 @@
+{
+  "id": "a7-utility",
+  "unit": "a7",
+  "title": "Utility & indifference analysis",
+  "order": 1,
+  "summary": "## Utility theory\n\n**Utility** is the satisfaction a consumer gains from consuming a good. Economists use it to explain the shape of the demand curve.\n\n- **Total utility** — the overall satisfaction from consuming a given quantity.\n- **Marginal utility** — the *extra* utility from consuming **one more unit**.\n\n### The law of diminishing marginal utility\nAs consumption of a good increases, the **marginal utility of each extra unit eventually falls**. Because consumers only buy an extra unit if the price reflects its (falling) marginal utility, this explains why the **demand curve slopes downward**.\n\n### The equi-marginal principle (consumer equilibrium)\nA consumer maximises total utility when the **marginal utility per dollar is equal across all goods**:\n> **MUₐ / Pₐ = MU_b / P_b = …**\nIf one good gives more utility per dollar, the consumer reallocates spending toward it until the ratios equalise. Diminishing marginal utility also underlies the **paradox of value** (water vs diamonds): water has high *total* but low *marginal* utility, so a low price.\n\n## Indifference curve analysis\n\nA more advanced tool using **ordinal** (ranked) rather than cardinal utility.\n\n### Indifference curves\nAn **indifference curve** shows all combinations of two goods giving the **same total utility** (the consumer is ‘indifferent’ between them). Properties:\n- **Downward sloping** — to keep utility constant, more of one good means less of the other.\n- **Convex to the origin** — because of a **diminishing marginal rate of substitution (MRS)**: the more you have of a good, the less of the other you'll give up for it.\n- **Cannot cross**; **higher curves = higher utility**.\n\n### The budget line\nThe **budget line** shows all combinations affordable given **income and prices**. Its slope = the **ratio of the two prices**. A rise in income shifts it **outward (parallel)**; a change in one price **pivots** it.\n\n### Consumer equilibrium\nThe consumer maximises utility where the **budget line is tangent to the highest attainable indifference curve** (MRS = price ratio).\n\n## Income and substitution effects\n\nA price change can be split into two effects:\n- **Substitution effect** — the good is now relatively cheaper/dearer, so the consumer switches toward/away from it (always *opposite* to the price change).\n- **Income effect** — the price change alters *real income*/purchasing power.\nFor **normal goods** both reinforce the law of demand. For **inferior goods** the income effect works against it; for a **Giffen good** (a strongly inferior staple) the income effect outweighs the substitution effect, giving an **upward-sloping demand curve** — a rare exception.\n\n## Why it matters\n\nUtility and indifference analysis give the *microfoundations* of the demand curve and let you decompose price effects rigorously — the basis for consumer theory and exceptions like Giffen and Veblen goods.",
+  "keyTerms": [
+    { "term": "Total utility", "definition": "The overall satisfaction gained from consuming a given quantity of a good." },
+    { "term": "Marginal utility", "definition": "The additional utility gained from consuming one more unit of a good." },
+    { "term": "Diminishing marginal utility", "definition": "The principle that extra units eventually yield less additional satisfaction." },
+    { "term": "Equi-marginal principle", "definition": "Utility is maximised when marginal utility per dollar is equal across all goods." },
+    { "term": "Indifference curve", "definition": "A curve showing combinations of two goods that give equal total utility." },
+    { "term": "Marginal rate of substitution (MRS)", "definition": "The rate at which a consumer will swap one good for another while staying equally satisfied." },
+    { "term": "Budget line", "definition": "The combinations of two goods a consumer can afford given income and prices." },
+    { "term": "Substitution effect", "definition": "The change in demand due to a good becoming relatively cheaper or dearer." },
+    { "term": "Income effect", "definition": "The change in demand due to a price change altering real income." },
+    { "term": "Giffen good", "definition": "A strongly inferior good whose demand rises as its price rises (income effect dominates)." }
+  ],
+  "diagrams": [
+    "**Total & marginal utility curves:** TU rising at a decreasing rate then possibly falling; MU falling and cutting the x-axis where TU peaks.",
+    "**Indifference map + budget line:** convex indifference curves and a straight budget line; mark the tangency point as consumer equilibrium (MRS = price ratio).",
+    "**Income & substitution effects:** show a price fall pivoting the budget line, then decompose the move into substitution (along the original curve) and income (to the new curve) effects."
+  ],
+  "tips": [
+    "Explain the **downward demand curve via diminishing marginal utility** — a key link between the two ideas.",
+    "State the **equi-marginal condition (MU/P equal across goods)** for consumer equilibrium.",
+    "For indifference curves, justify the **convex shape with a diminishing MRS** and note curves never cross.",
+    "Decompose a price change into **substitution (always opposite to price) and income effects**, then classify the good (normal/inferior/Giffen).",
+    "Use the **water–diamond paradox** to distinguish total from marginal utility — a neat evaluation point."
+  ],
+  "videos": {
+    "channels": [
+      { "name": "tutor2u Economics", "url": "https://www.youtube.com/@tutor2u", "why": "Utility and indifference-curve tutorials for A Level." },
+      { "name": "EconplusDal", "url": "https://www.youtube.com/@EconplusDal", "why": "Clear on income/substitution effects and Giffen goods." }
+    ],
+    "keyConcepts": [
+      { "concept": "Marginal utility & demand", "title": "Diminishing marginal utility explained", "url": "https://www.youtube.com/results?search_query=diminishing+marginal+utility+a+level+economics" },
+      { "concept": "Indifference curves & budget lines", "title": "Indifference curve analysis", "url": "https://www.youtube.com/results?search_query=indifference+curve+budget+line+a+level+economics" },
+      { "concept": "Income & substitution effects", "title": "Income and substitution effects", "url": "https://www.youtube.com/results?search_query=income+substitution+effect+giffen+a+level+economics" }
+    ]
+  },
+  "searchTerms": ["cardinal ordinal utility", "MU/P", "paradox of value water diamonds", "marginal rate of substitution", "tangency", "normal inferior Giffen Veblen", "budget constraint"]
+}

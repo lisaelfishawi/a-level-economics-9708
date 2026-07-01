@@ -1,0 +1,40 @@
+{
+  "id": "a6-behavioural",
+  "unit": "a6",
+  "title": "Behavioural economics",
+  "order": 3,
+  "summary": "## Why behavioural economics?\n\nTraditional theory assumes people are **rational utility-maximisers** (‘homo economicus’) with full information and stable preferences. **Behavioural economics** studies how real people *actually* decide — often imperfectly — and why they systematically depart from the rational model. This is itself a form of **information/decision failure** and helps design better policy.\n\n## Bounded rationality and bounded self-control\n\n- **Bounded rationality** — people have **limited information, time and mental processing power**, so they can't fully optimise; they ‘satisfice’ (settle for good enough) instead of maximise.\n- **Bounded self-control** — even when people know the rational choice, **willpower is limited** (e.g. they over-eat, under-save).\n\n## Rules of thumb (heuristics) and biases\n\nTo cope, people use **heuristics** (mental shortcuts), which cause predictable **biases**:\n- **Anchoring** — over-relying on an initial reference figure (e.g. the original price).\n- **Availability bias** — judging likelihood by how easily examples come to mind.\n- **Framing** — choices are influenced by *how* options are presented (‘90% fat-free’ vs ‘10% fat’).\n- **Loss aversion** — losses feel worse than equivalent gains feel good (part of prospect theory).\n- **Herding** — copying others' behaviour.\n- **Present bias / hyperbolic discounting** — overvaluing the present, undervaluing the future (under-saving, addiction).\n\n## Choice architecture and nudges\n\n**Choice architecture** is the way choices are designed/presented; a **nudge** steers behaviour **without removing choice or changing incentives much**. Key tools:\n- **Default choices** — e.g. **automatic enrolment** into pension/organ-donation schemes dramatically raises participation.\n- **Framing** and **anchoring** used positively (e.g. showing the healthy option first).\n- **Restricted / mandated choice** and **social norms** (‘9 out of 10 neighbours paid their tax on time’).\n\n**Advantages:** cheap, preserve freedom of choice, can be very effective (defaults).\n**Criticisms:** effects can be small or short-lived, ethical concerns about **paternalism** and manipulation, and they may not fix the underlying problem.\n\n## Why it matters\n\nBehavioural economics explains why merit goods are under-consumed and demerit goods over-consumed even with information, and it gives governments a modern, low-cost policy tool. It's excellent material for **evaluation** — bringing realism to the rational-agent assumptions that underpin the rest of the course.",
+  "keyTerms": [
+    { "term": "Behavioural economics", "definition": "The study of how psychological factors cause real decisions to depart from the rational model." },
+    { "term": "Bounded rationality", "definition": "Limited information and mental capacity that prevent full optimisation, leading people to satisfice." },
+    { "term": "Bounded self-control", "definition": "Limited willpower that stops people acting on what they know to be the best choice." },
+    { "term": "Heuristic", "definition": "A mental shortcut or rule of thumb used to make decisions quickly." },
+    { "term": "Anchoring", "definition": "Relying too heavily on an initial reference value when making decisions." },
+    { "term": "Framing", "definition": "How the presentation of a choice affects the decision made." },
+    { "term": "Loss aversion", "definition": "The tendency to feel losses more strongly than equivalent gains." },
+    { "term": "Choice architecture", "definition": "The design of how choices are presented to decision-makers." },
+    { "term": "Nudge", "definition": "A change in choice architecture that steers behaviour while preserving freedom of choice." },
+    { "term": "Default choice", "definition": "The option that applies if a person makes no active choice (e.g. auto-enrolment)." }
+  ],
+  "diagrams": [
+    "No formal diagram is required. You can link behavioural insights to the **merit/demerit good** and **externality** diagrams to explain why consumption differs from the social optimum."
+  ],
+  "tips": [
+    "Contrast **‘homo economicus’ (rational)** with real, boundedly-rational behaviour — a strong opening for evaluation.",
+    "Have **2–3 biases ready** (anchoring, framing, loss aversion, present bias) with a concrete example each.",
+    "Explain **defaults/auto-enrolment** as the most powerful nudge, and cite behaviour like under-saving.",
+    "Evaluate nudges: cheap and choice-preserving, but note **paternalism** concerns and possibly small/short-lived effects.",
+    "Use behavioural economics to **critique the rational-agent assumption** across micro topics for high-level marks."
+  ],
+  "videos": {
+    "channels": [
+      { "name": "tutor2u Economics", "url": "https://www.youtube.com/@tutor2u", "why": "Clear behavioural economics and nudge coverage for A Level." },
+      { "name": "EconplusDal", "url": "https://www.youtube.com/@EconplusDal", "why": "Good on biases, heuristics and choice architecture." }
+    ],
+    "keyConcepts": [
+      { "concept": "Bounded rationality & biases", "title": "Behavioural economics and biases", "url": "https://www.youtube.com/results?search_query=behavioural+economics+bounded+rationality+biases+a+level" },
+      { "concept": "Nudges & choice architecture", "title": "Nudge theory and choice architecture", "url": "https://www.youtube.com/results?search_query=nudge+theory+choice+architecture+a+level+economics" }
+    ]
+  },
+  "searchTerms": ["homo economicus", "satisficing", "rule of thumb", "availability herding", "present bias hyperbolic discounting", "prospect theory", "auto enrolment", "paternalism"]
+}
