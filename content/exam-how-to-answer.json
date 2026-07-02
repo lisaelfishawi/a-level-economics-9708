@@ -1,0 +1,98 @@
+{
+  "id": "exam-how-to-answer",
+  "unit": "exam",
+  "title": "How to answer exam questions",
+  "order": 1,
+  "summary": "## The big idea\n\nHere is the secret most students miss: in Economics you are marked on **how you answer**, not just on what you know. Two students can know the same theory and get very different grades because one *explains, applies and evaluates* while the other just *lists facts*. Learning the exam skills in this chapter can lift you a whole grade or two without learning any extra content.\n\n## The papers at a glance\n\nThe 9708 course is examined by four papers. **Papers 1 and 3 are multiple choice**; **Papers 2 (AS) and 4 (A Level) are written papers** with a **data-response** question and **essay** questions. The written papers include parts worth around **8 and 12 marks**, and it is in these higher-mark parts that **evaluation** earns the top level. (Always check the current 9708 syllabus for the exact marks and timings, as these can change.)\n\n## What the marks are really for (AO1–AO4)\n\nEvery question rewards a mix of four **assessment objectives**. Knowing them tells you what to actually write:\n\n- **AO1 — Knowledge:** state the correct definitions and facts.\n- **AO2 — Application:** apply theory to the specific context or data in the question.\n- **AO3 — Analysis:** build logical chains of cause and effect, usually with a diagram.\n- **AO4 — Evaluation:** weigh things up and reach a justified judgement.\n\nLow-mark parts are mostly AO1/AO2; high-mark parts are won on **AO3 and AO4**. If you only ever describe (AO1), you cap your own mark.\n\n## Read the command word first\n\nThe **command word** tells you exactly what skill to show. Answer the wrong skill and you lose marks however much you write.\n\n| Command word | What it wants | Evaluation? |\n|---|---|---|\n| Define / What is meant by | A precise meaning | No |\n| Identify / State / Give | A brief point, no explanation | No |\n| Calculate | A number, with working shown | No |\n| Explain | A point developed with reasoning | No |\n| Analyse | A full chain of reasoning, usually with a diagram | No |\n| Comment on | Brief analysis plus a little judgement | Some |\n| Discuss / Assess / Evaluate / Consider | Both sides analysed **and** a justified judgement | **Yes** |\n\nThe simple rule: if the command word is **discuss, assess, evaluate or consider**, you *must* weigh up and conclude — analysis alone will not reach the top.\n\n## Building a chain of analysis (AO3)\n\nAnalysis means linking steps so each one *causes* the next, and explaining every link — never just asserting the end result. Weak: ‘A tax on petrol reduces pollution.’ Strong: ‘A tax raises the price of petrol → higher price causes a contraction in quantity demanded (law of demand) → less petrol is burned → fewer emissions → the negative externality falls.’ Each arrow is explained. Aim for **at least three linked steps**, and support them with a **labelled diagram** you refer to in your writing (‘as shown by the shift from S1 to S2…’).\n\n## How to actually evaluate (AO4 — the hardest skill)\n\nEvaluation is not just writing ‘however’. It means judging *how strong* an argument is. Useful angles:\n\n- **It depends on… magnitude / elasticity** — how big is the effect? (e.g. if demand is inelastic, a tax barely cuts quantity).\n- **Short run vs long run** — the effect may differ over time.\n- **Assumptions / ceteris paribus** — is the ‘all else equal’ realistic?\n- **Stakeholders** — who gains and who loses (consumers, producers, government, society)?\n- **Priorities & likelihood** — which effect matters most, and how likely is it in practice?\n- **A justified judgement** — actually decide, and say *why*: ‘Overall, the tax is likely to reduce pollution but only modestly, because demand for petrol is price-inelastic in the short run.’\n\nAvoid the classic trap of ‘on one hand… on the other hand…’ with no decision. The examiner is looking for a **supported conclusion**.\n\n## Structuring an essay\n\n- **Introduction:** briefly define the key terms and set the scope. Keep it short.\n- **Body — KAA:** each paragraph makes a point, develops a **chain of analysis**, applies it, and uses a **diagram** where relevant.\n- **Evaluation:** weigh the arguments using the angles above.\n- **Conclusion:** answer the actual question with a clear, justified judgement — do not introduce new theory here.\n\n## Data-response technique\n\n**Use the data.** Quote figures and refer to the extract explicitly (‘the 30% rise in price…’). Match your effort to the marks: a 2-mark part gets one or two sentences; a 12-mark part needs analysis and evaluation. Always apply your theory to *this* context, not a generic answer.\n\n## Multiple-choice technique (Papers 1 & 3)\n\nRead the stem carefully and underline key words like **‘most likely’**, **‘best’** or **‘will definitely’**. Watch for the ‘both curves shift’ trap where only one of price/quantity is certain. Sketch a quick diagram in the margin. Eliminate wrong options, and **never leave a blank** — there is no penalty for a wrong guess. Pace yourself at roughly a minute and a half per question.\n\n## Time management\n\nSpend time **in proportion to the marks** — a rough guide is about **1 to 1.5 minutes per mark**. Plan essays for a minute before writing, and leave a few minutes to check. Running out of time on the last (highest-mark) question is a common, avoidable way to lose a grade.\n\n## Worked mini-example\n\n*Question: ‘Explain why a fall in supply raises the price of a good. [4]’*\n\n- **Weak answer:** ‘Because there is less of it so it costs more.’ (One unexplained assertion — around 1 mark.)\n- **Strong answer:** ‘A fall in supply shifts the supply curve left from S1 to S2 (diagram). At the original price there is now excess demand, because quantity demanded exceeds quantity supplied. This shortage leads buyers to bid the price up and encourages sellers to supply more, until a new, higher equilibrium price is reached.’ (Labelled diagram + a clear chain — full marks.)\n\n## Common mistakes\n\nListing points without explaining them; describing instead of analysing; forgetting the diagram; never reaching a judgement on evaluate questions; ignoring the data in data-response; misreading the command word; and poor timing.\n\n## Best model answers\n\nThe most reliable models are Cambridge's own **specimen paper answers, mark schemes and examiner reports** — they show exactly how marks are awarded. Find them via the links in any chapter's **Past-paper questions** panel.",
+  "revisionNotes": "# How to answer — quick revision\n\n**The mindset**\n- Marks reward *how* you answer (AO1 knowledge → AO2 application → AO3 analysis → AO4 evaluation), not just facts.\n\n**Command words**\n- Define / State / Calculate → short, precise, no evaluation.\n- Explain / Analyse → developed chains of reasoning (+ diagram); no judgement needed.\n- Discuss / Assess / Evaluate / Consider → both sides **plus a justified judgement**.\n\n**Analysis (AO3)**\n- Link steps: cause → effect → effect → impact, explaining every arrow (aim for 3+ links).\n- Support with a **labelled diagram** you refer to in the text.\n\n**Evaluation (AO4)**\n- Judge *how strong* an argument is: magnitude/elasticity, short vs long run, assumptions, stakeholders, priorities, likelihood.\n- End with a **clear, justified conclusion** — not ‘on the other hand…’ with no decision.\n\n**Essay shape**\n- Intro (define + scope) → KAA body paragraphs (point + chain + diagram) → evaluation → justified conclusion.\n\n**Data response**\n- Use the data — quote figures; match length to the marks; apply theory to the context.\n\n**MCQ (P1 & P3)**\n- Watch ‘most likely / best / definitely’; beware the both-curves trap; sketch a diagram; never leave a blank.\n\n**Timing**\n- About 1–1.5 minutes per mark; plan essays; save time to check.",
+  "keyTerms": [
+    {
+      "term": "Command word",
+      "definition": "The instruction in a question (e.g. explain, analyse, evaluate) that tells you which skill to demonstrate."
+    },
+    {
+      "term": "Assessment objectives (AO1–AO4)",
+      "definition": "Knowledge (AO1), application (AO2), analysis (AO3) and evaluation (AO4) — the skills marks are awarded for."
+    },
+    {
+      "term": "Analysis",
+      "definition": "Building an explained chain of cause and effect, usually supported by a diagram."
+    },
+    {
+      "term": "Chain of reasoning",
+      "definition": "A sequence of linked steps where each is shown to cause the next, with every link explained."
+    },
+    {
+      "term": "Evaluation",
+      "definition": "Judging how strong an argument is and reaching a justified conclusion."
+    },
+    {
+      "term": "KAA",
+      "definition": "Knowledge, Application and Analysis — the analytical build-up of an answer before evaluation."
+    },
+    {
+      "term": "Judgement",
+      "definition": "A clear, supported decision that directly answers the question in an evaluate/discuss response."
+    }
+  ],
+  "diagrams": [
+    "**Every diagram:** label the axes, name all curves (D, S, D1, D2, AD, AS…) and mark the equilibrium/points, then *refer to it in your writing* (‘as shown by the shift from S1 to S2…’). An unreferenced diagram earns little.",
+    "**Use the diagram to analyse:** draw the change, then explain the movement to the new equilibrium step by step — the diagram and the words should support each other."
+  ],
+  "tips": [
+    "**Read the command word first** and answer that skill exactly — explain ≠ analyse ≠ evaluate.",
+    "For **evaluate/discuss/assess**, you *must* reach a **justified judgement** — analysis alone caps your mark.",
+    "**Chain your analysis**: at least three linked steps, each arrow explained, ideally with a labelled diagram.",
+    "**Match length to marks** (~1–1.5 min per mark); don't write an essay for a 2-mark ‘define’.",
+    "In **data response, quote the data** and apply theory to the specific context — not a generic answer.",
+    "In **MCQs**, watch ‘most likely/best/definitely’, beware the both-curves-shift trap, and never leave a blank.",
+    "**Evaluate with substance**: magnitude/elasticity, short vs long run, assumptions, stakeholders, likelihood — then decide."
+  ],
+  "videos": {
+    "channels": [
+      {
+        "name": "tutor2u Economics",
+        "url": "https://www.youtube.com/@tutor2u",
+        "why": "Lots of exam-technique and command-word videos for AS/A2."
+      },
+      {
+        "name": "EconplusDal",
+        "url": "https://www.youtube.com/@EconplusDal",
+        "why": "Famous for essay/25-marker technique and evaluation frameworks."
+      }
+    ],
+    "keyConcepts": [
+      {
+        "concept": "Essay & 12-mark technique",
+        "title": "How to structure a top-mark economics essay",
+        "url": "https://www.youtube.com/results?search_query=how+to+write+economics+essay+evaluation+a+level+econplusdal"
+      },
+      {
+        "concept": "Evaluation technique",
+        "title": "How to evaluate in economics answers",
+        "url": "https://www.youtube.com/results?search_query=economics+evaluation+technique+a+level"
+      },
+      {
+        "concept": "Command words & AOs",
+        "title": "Command words and assessment objectives",
+        "url": "https://www.youtube.com/results?search_query=economics+command+words+assessment+objectives+a+level"
+      },
+      {
+        "concept": "Data-response technique",
+        "title": "How to answer data-response questions",
+        "url": "https://www.youtube.com/results?search_query=economics+data+response+technique+a+level"
+      }
+    ]
+  },
+  "searchTerms": [
+    "exam technique",
+    "command words",
+    "assessment objectives AO1 AO2 AO3 AO4",
+    "evaluation judgement",
+    "chain of reasoning",
+    "essay structure KAA",
+    "data response technique",
+    "mark scheme",
+    "how to answer"
+  ]
+}

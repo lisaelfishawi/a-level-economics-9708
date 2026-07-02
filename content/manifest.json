@@ -41,6 +41,10 @@
     {
       "id": "a10",
       "title": "A2 · 10 — Government macroeconomic intervention"
+    },
+    {
+      "id": "exam",
+      "title": "📝 Exam skills — how to answer"
     }
   ],
   "chapters": [
@@ -422,6 +426,20 @@
         "debt",
         "structural adjustment",
         "Greece Argentina"
+      ]
+    },
+    {
+      "id": "exam-how-to-answer",
+      "unit": "exam",
+      "order": 1,
+      "title": "How to answer exam questions",
+      "keywords": [
+        "exam technique",
+        "command words",
+        "evaluation",
+        "essay structure",
+        "data response",
+        "AO1 AO2 AO3 AO4"
       ]
     }
   ]
