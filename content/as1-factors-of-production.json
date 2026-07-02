@@ -1,41 +1,101 @@
 {
   "id": "as1-factors-of-production",
   "unit": "as1",
-  "title": "Factors of production",
   "order": 2,
-  "summary": "## The four factors of production\n\nResources used to produce goods and services are grouped into **four factors of production**, each earning a **reward**:\n\n| Factor | Definition | Reward |\n|---|---|---|\n| **Land** | All natural resources (soil, minerals, sea, forests) | Rent |\n| **Labour** | Human physical and mental effort | Wages |\n| **Capital** | Man-made aids to production (machines, tools, factories) | Interest |\n| **Enterprise** | Risk-taking and organising the other three factors | Profit |\n\n- **Land** is the gift of nature; some is *renewable* (forests) and some *non-renewable* (oil).\n- **Labour** can be improved through **human capital** — education, training, healthcare raise productivity.\n- **Capital** includes *working capital* (stocks/raw materials) and *fixed capital* (machinery, buildings). **Investment** is spending on capital goods.\n- **The entrepreneur** combines the factors, bears *uncertainty/risk*, and is the residual claimant on profit.\n\n## Mobility of factors\n\nFactors can be more or less mobile:\n- **Geographical mobility** — the ability to move *location* (labour may be tied by family/housing).\n- **Occupational mobility** — the ability to move between *uses/jobs* (a surgeon cannot easily become a pilot).\nImmobility is a cause of structural unemployment and market failure.\n\n## Specialisation and the division of labour\n\n**Specialisation** is concentrating on what you do best; the **division of labour** is breaking production into separate tasks done by different workers (Adam Smith's pin factory).\n\n**Advantages:** higher productivity, workers become skilled, time saved, allows use of machinery, lower unit costs.\n\n**Disadvantages:** boredom/demotivation, occupational immobility if a task disappears, over-reliance/interdependence (one breakdown halts the line), loss of craftsmanship, structural unemployment risk.\n\nSpecialisation applies at every level — individuals, firms, regions and **countries** (the basis of international trade and comparative advantage).\n\n## Money — what makes specialisation work\n\nSpecialisation requires **exchange**, which requires **money**. Money's four functions:\n1. **Medium of exchange** — removes the need for barter's *double coincidence of wants*.\n2. **Measure/unit of value** — prices everything in common terms.\n3. **Store of value** — wealth can be held over time (undermined by inflation).\n4. **Standard of deferred payment** — allows borrowing and credit.\n\n## Why it matters\n\nUnderstanding the factors and their rewards underpins production, costs, the labour market and the gains from trade. Specialisation explains why economies are productive — and why structural change can create unemployment.",
+  "title": "Factors of production",
+  "summary": "## The big idea\n\nTo produce anything, an economy combines **resources**. Economists group all resources into **four factors of production**, and each one earns a **reward** for its owner. Getting these straight is the foundation for costs, the labour market and the gains from trade later on.\n\n## The four factors and their rewards\n\n**Land** is all the *natural* resources — soil, minerals, oil, the sea, forests. Its reward is **rent**. Some land is renewable (forests), some is not (oil).\n\n**Labour** is *human* physical and mental effort. Its reward is **wages**. Labour can be made more productive by improving **human capital** — the skills, education, training and health embodied in workers.\n\n**Capital** means the *man-made aids to production* — machines, tools, factories, computers. Its reward is **interest**. Be careful: to an economist, ‘capital’ means physical equipment, *not* money. Spending on capital goods is called **investment**.\n\n**Enterprise** is the factor that *takes risks* and *organises the other three*. The **entrepreneur** decides what to make, bears the uncertainty of possibly failing, and keeps the **profit** if it succeeds.\n\n## Mobility of factors\n\nFactors are not always easy to move, and this matters for the economy. **Geographical mobility** is the ability to move *location* — labour is often geographically immobile because of family ties or the cost of housing. **Occupational mobility** is the ability to switch *use or job* — a surgeon cannot quickly become an airline pilot. When factors are immobile, resources get stuck in the wrong place, which causes **structural unemployment** and is a source of market failure.\n\n## Specialisation and the division of labour\n\n**Specialisation** means concentrating on what you (or a firm, region or country) do best. The **division of labour** is the specific idea of breaking production into separate tasks done by different workers — Adam Smith's famous pin factory, where splitting the job massively raised output.\n\nThe **advantages** are powerful: workers become skilled at their task, less time is wasted switching jobs, machinery can be used efficiently, and **output per worker rises** so unit costs fall. But there are **disadvantages**: work can become boring and demotivating, workers become narrowly skilled and so **occupationally immobile** if their task disappears, and production becomes interdependent — one breakdown or strike can halt the whole line. Specialisation also applies to whole **countries**, which is the basis of international trade.\n\n## Money — what makes specialisation possible\n\nSpecialisation only works if people can **exchange** what they produce, and exchange needs **money**. Without it, trade relies on **barter**, which requires a ‘double coincidence of wants’ (both people must want exactly what the other has) — slow and inefficient. Money performs four functions: a **medium of exchange**, a **measure/unit of value**, a **store of value** (weakened by inflation) and a **standard of deferred payment** (allowing credit).\n\n## Real-world application\n\nCountries specialise according to their factors: oil-rich Gulf states export petroleum, Bangladesh built growth on labour-intensive garment factories, and Germany specialises in high-skill engineering. When a factor is immobile — such as coal miners after pit closures in the UK — the result is long-term structural unemployment, showing why factor mobility matters.\n\n<div class='qr'>\n\n## ⚡ Quick revision\n\n- Four factors → rewards: **Land → rent, Labour → wages, Capital → interest, Enterprise → profit**.\n- **Capital** = machines/tools (not money); spending on it = **investment**. **Human capital** = workers' skills/health.\n- **Mobility**: geographical (location) and occupational (job/use); immobility → structural unemployment.\n- **Specialisation / division of labour**: raises productivity & lowers unit costs, but risks boredom, immobility and interdependence.\n- **Money** enables exchange (vs barter's double coincidence of wants); 4 functions — medium of exchange, measure of value, store of value, standard of deferred payment.\n\n</div>",
+  "revisionNotes": "# Factors of production — quick revision\n\n**The four factors → rewards**\n- **Land** → rent (natural resources) · **Labour** → wages (human effort) · **Capital** → interest (man-made aids) · **Enterprise** → profit (risk-taking + organising).\n\n**Watch-outs**\n- Economist's **capital** = physical equipment, NOT money. Investment = spending on capital.\n- **Human capital** = skills/education/health that raise labour productivity.\n\n**Mobility**\n- **Geographical** (move location) and **occupational** (change job/use). Immobility → structural unemployment.\n\n**Specialisation & division of labour**\n- + higher productivity, skill, lower unit costs, use of machinery.\n- − boredom, occupational immobility, interdependence, loss of craftsmanship.\n\n**Money** (enables exchange; replaces barter's double coincidence of wants)\n- 4 functions: medium of exchange, measure of value, store of value (hit by inflation), standard of deferred payment.",
+  "questions": "# Practice questions — Factors of production\n\n**Original practice questions in the Cambridge 9708 style** (not copied from real papers).\n\n## Paper 1 style — multiple choice\n\n**1.** Which factor of production earns *interest* as its reward?\n\n- A — land\n- B — labour\n- C — capital\n- D — enterprise\n\n<details><summary>▸ Show answer</summary><p><strong>C.</strong> Capital (man-made aids to production) earns interest. Land→rent, labour→wages, enterprise→profit.</p></details>\n\n**2.** To an economist, ‘capital’ means:\n\n- A — money held in a bank\n- B — man-made aids to production such as machinery\n- C — the wealth of an entrepreneur\n- D — shares in a company\n\n<details><summary>▸ Show answer</summary><p><strong>B.</strong> Capital is physical equipment used to produce goods and services, not money.</p></details>\n\n**3.** A worker who cannot easily change from one occupation to another is said to lack:\n\n- A — geographical mobility\n- B — occupational mobility\n- C — human capital\n- D — enterprise\n\n<details><summary>▸ Show answer</summary><p><strong>B.</strong> Occupational mobility is the ability to move between jobs/uses. (Geographical mobility is about location.)</p></details>\n\n**4.** Which is a disadvantage of the division of labour?\n\n- A — higher output per worker\n- B — lower unit costs\n- C — workers may become bored and demotivated\n- D — greater use of machinery\n\n<details><summary>▸ Show answer</summary><p><strong>C.</strong> Boredom/demotivation (and occupational immobility, interdependence) are drawbacks; the others are advantages.</p></details>\n\n## Paper 2 style — data response\n\n> A car factory divides assembly into dozens of small repeated tasks, each done by a different worker. Output per worker is high, but managers report rising boredom and note that a fault on one part of the line stops the whole factory.\n\n**(a)** Define ‘division of labour’. **[2]**\n\n**(b)** Explain **two** advantages of the division of labour shown or implied in the passage. **[4]**\n\n**(c)** Analyse why the division of labour can raise a firm's productivity. **[6]**\n\n**(d)** Assess whether the benefits of the division of labour outweigh its drawbacks for this car factory. **[8]**\n\n<details><summary>▸ Show mark guidance</summary><p><strong>(a)</strong> Breaking a production process into separate tasks performed by different workers. [1+1]</p><p><strong>(b)</strong> E.g. workers become skilled/faster; less time switching tasks; machinery used efficiently → higher output per worker. Use the data.</p><p><strong>(c)</strong> Chain: specialise → practice/skill + less switching + machinery → more output per worker → lower unit cost → higher productivity.</p><p><strong>(d)</strong> Benefits: productivity, lower costs. Drawbacks named: boredom/demotivation, interdependence (a fault stops the line), occupational immobility. Judgement on balance for this firm.</p></details>\n\n## Paper 2 / 4 style — essays\n\n**Essay 1 (a)** Explain, using examples, the four factors of production and the reward each earns. **[8]**  \n**(b)** Discuss whether improving human capital is the most effective way to raise a country's output. **[12]**\n\n<details><summary>▸ Show mark guidance</summary><p><strong>(a)</strong> Land–rent, labour–wages, capital–interest, enterprise–profit, each defined with an example.</p><p><strong>(b)</strong> Human capital raises labour productivity long-term. But other routes matter: more physical capital/investment, technology, better enterprise, factor mobility. Evaluate: depends on time frame and the economy's starting point. Judgement.</p></details>\n\n**Essay 2 (a)** Explain why money makes specialisation possible. **[8]**  \n**(b)** Assess whether specialisation always benefits an economy. **[12]**\n\n<details><summary>▸ Show mark guidance</summary><p><strong>(a)</strong> Specialisation needs exchange; barter needs a double coincidence of wants; money (medium of exchange + other functions) removes this, enabling trade.</p><p><strong>(b)</strong> Benefits: productivity, lower costs, trade. Costs: over-dependence, structural unemployment if demand shifts, boredom, vulnerability to shocks. Judgement on ‘always’.</p></details>",
   "keyTerms": [
-    { "term": "Land", "definition": "All natural resources used in production; rewarded by rent." },
-    { "term": "Labour", "definition": "Human physical and mental effort in production; rewarded by wages." },
-    { "term": "Capital", "definition": "Man-made aids to production such as machinery and tools; rewarded by interest." },
-    { "term": "Enterprise", "definition": "The factor that takes risks and organises the others; rewarded by profit." },
-    { "term": "Human capital", "definition": "The skills, knowledge and health embodied in workers, raising their productivity." },
-    { "term": "Investment", "definition": "Spending by firms on capital goods that increases productive capacity." },
-    { "term": "Geographical mobility", "definition": "The ease with which a factor can move between locations." },
-    { "term": "Occupational mobility", "definition": "The ease with which a factor can move between different uses or jobs." },
-    { "term": "Division of labour", "definition": "Splitting a production process into separate tasks performed by different workers." },
-    { "term": "Specialisation", "definition": "Concentrating on a narrow range of tasks or products to raise efficiency." }
-  ],
-  "diagrams": [
-    "No diagram required, but division of labour links to **lower average costs** — you can reference the cost curves you meet later in the A2 costs chapter."
+    {
+      "term": "Land",
+      "definition": "All natural resources used in production; rewarded by rent."
+    },
+    {
+      "term": "Labour",
+      "definition": "Human physical and mental effort in production; rewarded by wages."
+    },
+    {
+      "term": "Capital",
+      "definition": "Man-made aids to production such as machinery and tools; rewarded by interest."
+    },
+    {
+      "term": "Enterprise",
+      "definition": "The factor that takes risks and organises the others; rewarded by profit."
+    },
+    {
+      "term": "Human capital",
+      "definition": "The skills, knowledge and health embodied in workers that raise their productivity."
+    },
+    {
+      "term": "Investment",
+      "definition": "Spending by firms on capital goods to increase productive capacity."
+    },
+    {
+      "term": "Geographical mobility",
+      "definition": "The ease with which a factor can move between locations."
+    },
+    {
+      "term": "Occupational mobility",
+      "definition": "The ease with which a factor can move between different jobs or uses."
+    },
+    {
+      "term": "Division of labour",
+      "definition": "Splitting a production process into separate tasks done by different workers."
+    },
+    {
+      "term": "Barter",
+      "definition": "Direct exchange of goods without money, needing a double coincidence of wants."
+    }
   ],
   "tips": [
-    "Memorise the **factor–reward pairs** (land→rent, labour→wages, capital→interest, enterprise→profit) — a frequent quick-mark question.",
-    "Don't confuse the economist's **capital** (machines/tools) with everyday ‘capital’ meaning money — money is not a factor of production.",
-    "For specialisation questions, give a **balanced answer**: list advantages AND disadvantages, then evaluate which dominates.",
-    "Link **occupational immobility** to structural unemployment and market failure for higher-level analysis.",
-    "Use money's **four functions** as a ready-made list; note that **inflation erodes the store-of-value function**."
+    "Memorise the **factor–reward pairs** (land→rent, labour→wages, capital→interest, enterprise→profit).",
+    "Never confuse the economist's **capital** (machines) with money.",
+    "For specialisation questions, give a **balanced** answer (advantages AND disadvantages) then judge.",
+    "Link **occupational immobility** to structural unemployment for higher-level analysis.",
+    "Use money's **four functions**; note **inflation** erodes the store-of-value function."
+  ],
+  "diagrams": [
+    "No diagram required. Division of labour links to **lower average costs** — you can reference the cost curves in the A2 costs chapter."
   ],
   "videos": {
     "channels": [
-      { "name": "tutor2u Economics", "url": "https://www.youtube.com/@tutor2u", "why": "Short revision clips on factors, specialisation and division of labour." },
-      { "name": "EconplusDal", "url": "https://www.youtube.com/@EconplusDal", "why": "Clear, exam-oriented A Level explanations." }
+      {
+        "name": "tutor2u Economics",
+        "url": "https://www.youtube.com/@tutor2u",
+        "why": "Short revision clips on factors and specialisation."
+      },
+      {
+        "name": "EconplusDal",
+        "url": "https://www.youtube.com/@EconplusDal",
+        "why": "Clear, exam-oriented explanations."
+      }
     ],
     "keyConcepts": [
-      { "concept": "Factors of production & their rewards", "title": "The four factors of production", "url": "https://www.youtube.com/results?search_query=factors+of+production+a+level+economics+tutor2u" },
-      { "concept": "Specialisation & division of labour", "title": "Division of labour — pros and cons", "url": "https://www.youtube.com/results?search_query=specialisation+division+of+labour+a+level+economics" },
-      { "concept": "Functions of money", "title": "The four functions of money", "url": "https://www.youtube.com/results?search_query=functions+of+money+a+level+economics" }
+      {
+        "concept": "Factors of production & rewards",
+        "title": "The four factors of production",
+        "url": "https://www.youtube.com/results?search_query=factors+of+production+a+level+economics+tutor2u"
+      },
+      {
+        "concept": "Division of labour",
+        "title": "Specialisation & division of labour",
+        "url": "https://www.youtube.com/results?search_query=specialisation+division+of+labour+a+level+economics"
+      },
+      {
+        "concept": "Functions of money",
+        "title": "The four functions of money",
+        "url": "https://www.youtube.com/results?search_query=functions+of+money+a+level+economics"
+      }
     ]
   },
-  "searchTerms": ["land labour capital enterprise", "rent wages interest profit", "fixed working capital", "mobility of labour", "barter double coincidence of wants", "Adam Smith pin factory"]
+  "searchTerms": [
+    "land labour capital enterprise",
+    "rent wages interest profit",
+    "human capital",
+    "mobility of labour",
+    "barter double coincidence",
+    "Adam Smith pin factory",
+    "investment capital goods"
+  ]
 }

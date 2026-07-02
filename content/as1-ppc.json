@@ -1,40 +1,86 @@
 {
   "id": "as1-ppc",
   "unit": "as1",
-  "title": "Production possibility curves",
   "order": 4,
-  "summary": "## What a PPC shows\n\nA **production possibility curve (PPC)** — also called a production possibility frontier (PPF) — shows the **maximum combinations of two goods** an economy can produce when all resources are **fully and efficiently employed**, with fixed technology.\n\nTypically drawn with two goods (e.g. *capital goods* vs *consumer goods*) on the axes. The curve is the *boundary* of what is achievable.\n\n## Key points on and off the curve\n\n- **On the curve** → output is *productively efficient* and resources are *fully employed*.\n- **Inside the curve** → resources are *unemployed or used inefficiently* (e.g. during a recession).\n- **Outside the curve** → currently *unattainable* (impossible without growth).\n\n## Opportunity cost on a PPC\n\nMoving along the curve from one point to another means producing **more of one good and less of the other** — that sacrifice is the **opportunity cost**.\n\n- A **straight-line PPC** → *constant* opportunity cost (resources equally suited to both goods).\n- A **curved (concave to origin) PPC** → *increasing* opportunity cost, because resources are not equally suited to producing both goods. As you specialise in one good, you must give up ever-larger amounts of the other. This is the usual shape.\n\n## Shifts of the PPC = economic growth\n\nThe whole curve shifts **outward** with **economic growth** — more or better resources or technology:\n- increase in the **quantity** of factors (e.g. larger workforce, more capital from investment),\n- increase in the **quality** of factors (education/training, better technology),\n- discovery of new resources.\nIt shifts **inward** with a fall in resources (war, natural disaster, mass emigration). A shift in only one axis shows growth concentrated in one industry.\n\n## Capital vs consumer goods (growth trade-off)\n\nAn economy choosing **more capital goods today** (point favouring investment) sacrifices current consumption but enjoys a **larger outward PPC shift in future** — investment drives long-run growth. Choosing mostly consumer goods raises living standards now but limits future growth.\n\n## Actual vs potential output\n\n- **Potential growth** = an outward shift of the PPC (capacity rises).\n- **Actual growth** = moving from inside the curve *towards* it (using spare capacity) — this is the macro distinction between LRAS shifts and closing an output gap.\n\n## Why it matters\n\nThe PPC is the simplest model of scarcity, choice, opportunity cost, efficiency, unemployment and growth — all on one diagram. It reappears throughout macro (potential vs actual output).",
+  "title": "Production possibility curves",
+  "summary": "## The big idea\n\nThe **production possibility curve (PPC)** — also called the production possibility frontier — is the simplest and most useful diagram in the whole course. On one picture it shows scarcity, choice, opportunity cost, efficiency, unemployment and growth. It shows the **maximum combinations of two goods** an economy can produce when all its resources are **fully and efficiently used**, with technology fixed.\n\n<figure class='diagram'>\n<svg viewBox='0 0 470 320' xmlns='http://www.w3.org/2000/svg' role='img' aria-label='Production possibility curve'>\n<line x1='60' y1='270' x2='430' y2='270' stroke='#b9b2ab' stroke-width='2'/>\n<line x1='60' y1='270' x2='60' y2='40' stroke='#b9b2ab' stroke-width='2'/>\n<polygon points='430,270 421,266 421,274' fill='#b9b2ab'/>\n<polygon points='60,40 56,49 64,49' fill='#b9b2ab'/>\n<path d='M60,75 Q360,80 360,270' fill='none' stroke='#ff3b30' stroke-width='2.5'/>\n<path d='M60,55 Q415,60 415,270' fill='none' stroke='#ff7a18' stroke-width='2' stroke-dasharray='6 4'/>\n<circle cx='285' cy='126' r='4.5' fill='#ffd60a'/>\n<circle cx='200' cy='195' r='4.5' fill='#b9b2ab'/>\n<circle cx='333' cy='118' r='4.5' fill='#ff3b30'/>\n<text x='292' y='124' fill='#ffd60a' font-size='12' font-family='sans-serif'>A</text>\n<text x='180' y='199' fill='#b9b2ab' font-size='12' font-family='sans-serif'>B</text>\n<text x='341' y='116' fill='#ff3b30' font-size='12' font-family='sans-serif'>C</text>\n<text x='300' y='250' fill='#ff3b30' font-size='12' font-family='sans-serif'>PPC1</text>\n<text x='388' y='250' fill='#ff7a18' font-size='12' font-family='sans-serif'>PPC2</text>\n<text x='14' y='36' fill='#b9b2ab' font-size='11' font-family='sans-serif'>Capital goods</text>\n<text x='330' y='292' fill='#b9b2ab' font-size='11' font-family='sans-serif'>Consumer goods</text>\n</svg>\n<figcaption>Fig — Production possibility curve (PPC)</figcaption>\n</figure>\n\n<div class='diagram-key'>\n\n**What each part means:** the axes show two types of good (here **capital goods** vs **consumer goods**). The **red curve (PPC1)** is the frontier — the maximum output when all resources are fully and efficiently used. **Point A** is *on* the curve = efficient and fully employed. **Point B** is *inside* = resources wasted or unemployed. **Point C** is *outside* = currently unattainable. The **dashed curve (PPC2)** shows **economic growth** — more or better resources shift the whole frontier outward, making C reachable.\n\n</div>\n\n## On, inside and outside the curve\n\nA point **on the curve** (A) means the economy is **productively efficient** and fully employing its resources — it is doing as well as it currently can. A point **inside the curve** (B) means resources are **unemployed or used inefficiently**, as in a recession. A point **outside the curve** (C) is currently **unattainable** — the economy simply does not have the resources to reach it yet.\n\n## Opportunity cost on the PPC\n\nMoving along the curve means producing **more of one good and less of the other** — and that sacrifice *is* the opportunity cost, shown geometrically. The **shape** of the curve reveals how opportunity cost behaves. A **straight-line** PPC means **constant** opportunity cost (resources are equally good at both jobs). The usual **curved (concave to the origin)** shape means **increasing** opportunity cost: because resources are *not* equally suited to both goods, the more you specialise in one good the larger the amount of the other you must give up.\n\n## Shifts of the PPC — economic growth\n\nWhen the whole curve shifts **outward** (PPC1 → PPC2), the economy can produce more of *both* goods — this is **economic growth**. It happens when there is an increase in the **quantity** of resources (a bigger workforce, more capital from investment, new resource discoveries) or in their **quality** (education and training, better technology). A fall in resources — war, natural disaster, mass emigration — shifts the curve **inward**.\n\n## The capital-vs-consumer-goods trade-off\n\nA powerful use of the PPC is the choice between making **capital goods** or **consumer goods** today. Producing more capital goods now means sacrificing current consumption, but capital raises future productive capacity — so the economy enjoys a **bigger outward shift** later. Choosing mostly consumer goods raises living standards now but limits future growth. This is the trade-off between the present and the future.\n\n## Actual vs potential growth\n\nFinally, the PPC clarifies a key macro distinction. **Potential growth** is an *outward shift* of the curve (capacity rises). **Actual growth** is moving from a point *inside* the curve *towards* it, by using up spare capacity. You will meet this again as shifts of LRAS versus closing an output gap.\n\n<div class='qr'>\n\n## ⚡ Quick revision\n\n- **PPC** = max combinations of two goods with resources fully & efficiently used, technology fixed.\n- **On** curve = efficient/full employment; **inside** = unemployment/inefficiency; **outside** = unattainable.\n- Moving along the curve shows **opportunity cost**; **concave** shape = **increasing** opportunity cost; straight line = constant.\n- **Outward shift** = economic growth (more/better resources or technology); inward shift = fall in resources.\n- **Capital vs consumer goods**: more capital today → bigger future outward shift.\n- **Potential growth** = outward shift; **actual growth** = moving from inside towards the curve.\n\n</div>",
+  "revisionNotes": "# Production possibility curve — quick revision\n\n**What it shows**\n- Max output combinations of **two goods** with resources fully & efficiently used (tech fixed).\n\n**Points**\n- **On** the curve = productively efficient, fully employed.\n- **Inside** = unemployment / inefficiency (e.g. recession).\n- **Outside** = currently unattainable.\n\n**Opportunity cost & shape**\n- Moving along the curve = giving up one good for the other (opportunity cost).\n- **Concave (bowed out)** = increasing opportunity cost (resources not equally suited); **straight line** = constant.\n\n**Shifts**\n- **Outward** = economic growth (more/better resources, technology, investment).\n- **Inward** = fewer resources (war, disaster, emigration).\n\n**Trade-offs & growth**\n- More **capital goods** now → bigger future outward shift (vs consumer goods now).\n- **Potential growth** = outward shift; **actual growth** = moving from inside toward the curve.",
+  "questions": "# Practice questions — Production possibility curves\n\n**Original practice questions in the Cambridge 9708 style** (not copied from real papers).\n\n## Paper 1 style — multiple choice\n\n**1.** A point *inside* a country's PPC indicates:\n\n- A — economic growth\n- B — productive efficiency\n- C — unemployed or inefficiently used resources\n- D — an unattainable output\n\n<details><summary>▸ Show answer</summary><p><strong>C.</strong> Inside the curve, some resources are idle or misused, so the economy could produce more.</p></details>\n\n**2.** A PPC that is concave (bowed outward from the origin) shows:\n\n- A — constant opportunity cost\n- B — increasing opportunity cost\n- C — zero opportunity cost\n- D — falling output\n\n<details><summary>▸ Show answer</summary><p><strong>B.</strong> The concave shape reflects increasing opportunity cost because resources are not equally suited to both goods.</p></details>\n\n**3.** An outward shift of the entire PPC is caused by:\n\n- A — a fall in unemployment\n- B — moving resources between the two goods\n- C — an increase in the quantity or quality of resources\n- D — a rise in the price level\n\n<details><summary>▸ Show answer</summary><p><strong>C.</strong> More/better resources or technology raise capacity (economic growth). Reducing unemployment is a move *towards* the curve, not a shift.</p></details>\n\n**4.** An economy choosing to produce more capital goods and fewer consumer goods today is most likely to experience:\n\n- A — a smaller PPC in the future\n- B — a larger outward shift of the PPC in the future\n- C — no change in future capacity\n- D — immediate higher living standards\n\n<details><summary>▸ Show answer</summary><p><strong>B.</strong> Capital goods raise future productive capacity, shifting the PPC further out later (at the cost of consumption now).</p></details>\n\n## Paper 2 style — data response\n\n> After a severe drought and mass emigration of skilled workers, Country Y's output of both food and manufactured goods fell sharply, and factories stood idle.\n\n**(a)** Define ‘production possibility curve’. **[2]**\n\n**(b)** Using a PPC diagram, explain the effect of the mass emigration on Country Y. **[4]**\n\n**(c)** Analyse how idle factories would be shown on a PPC. **[6]**\n\n**(d)** ‘Country Y should devote more resources to capital goods than to consumer goods.’ Assess this view. **[8]**\n\n<details><summary>▸ Show mark guidance</summary><p><strong>(a)</strong> A curve showing the maximum combinations of two goods producible with resources fully and efficiently used. [1+1]</p><p><strong>(b)</strong> Diagram: emigration reduces resources → the whole PPC shifts inward. Explain in words + labelled diagram.</p><p><strong>(c)</strong> Idle factories = unemployed resources → the economy operates at a point inside the PPC, below its frontier.</p><p><strong>(d)</strong> For: capital raises future capacity/growth. Against: sacrifices current consumption/living standards, uncertain returns, may need consumer goods now after a crisis. Judgement.</p></details>\n\n## Paper 2 / 4 style — essays\n\n**Essay 1 (a)** Explain how a PPC illustrates opportunity cost and economic growth. **[8]**  \n**(b)** Discuss whether an outward shift of the PPC always improves living standards. **[12]**\n\n<details><summary>▸ Show mark guidance</summary><p><strong>(a)</strong> Opportunity cost = the sacrifice when moving along the curve; growth = an outward shift from more/better resources. Use a diagram.</p><p><strong>(b)</strong> Growth raises potential output/incomes, but may bring inequality, pollution, resource depletion, or be in capital goods not consumer goods. ‘Always’ is too strong — judgement.</p></details>\n\n**Essay 2 (a)** Explain the difference between a movement along a PPC and a shift of the PPC. **[8]**  \n**(b)** Assess the view that a country in a deep recession should focus on reaching its existing PPC rather than shifting it outward. **[12]**\n\n<details><summary>▸ Show mark guidance</summary><p><strong>(a)</strong> Movement = reallocating resources between the two goods (opportunity cost); shift = a change in total capacity. Diagram helps.</p><p><strong>(b)</strong> In recession there is spare capacity (inside the PPC), so demand-side measures to reach the frontier (actual growth) may matter most short term; but long-run supply-side policy (outward shift) matters too. Judgement on time frame.</p></details>",
   "keyTerms": [
-    { "term": "Production possibility curve (PPC)", "definition": "A curve showing the maximum combinations of two goods producible with full, efficient use of resources." },
-    { "term": "Productive efficiency", "definition": "Producing on the PPC, where it is impossible to make more of one good without making less of another." },
-    { "term": "Increasing opportunity cost", "definition": "The rising sacrifice of one good as more of another is produced, giving the PPC its concave shape." },
-    { "term": "Economic growth", "definition": "An increase in productive capacity, shown by an outward shift of the PPC." },
-    { "term": "Potential growth", "definition": "An outward shift of the PPC from more/better resources or technology." },
-    { "term": "Actual growth", "definition": "A move from inside the PPC towards it as spare capacity is used up." }
-  ],
-  "diagrams": [
-    "**Basic PPC:** Good A on one axis, Good B on the other; concave (bowed-out) curve. Mark a point ON the curve (efficient), a point INSIDE (unemployment/inefficiency), and a point OUTSIDE (unattainable).",
-    "**Opportunity cost:** show a movement from one point on the curve to another, with arrows showing more of Good A and less of Good B.",
-    "**Growth:** show the whole curve shifting OUTWARD (PPC1 → PPC2) for economic growth, or inward for a fall in resources.",
-    "**Capital vs consumer goods:** axes = capital goods vs consumer goods; show that choosing more capital goods today leads to a larger future outward shift."
+    {
+      "term": "Production possibility curve (PPC)",
+      "definition": "A curve showing the maximum combinations of two goods producible with resources fully and efficiently used."
+    },
+    {
+      "term": "Productive efficiency",
+      "definition": "Producing on the PPC, where more of one good requires less of another."
+    },
+    {
+      "term": "Increasing opportunity cost",
+      "definition": "The rising sacrifice of one good as more of another is produced, giving the PPC its concave shape."
+    },
+    {
+      "term": "Economic growth",
+      "definition": "An increase in productive capacity, shown by an outward shift of the PPC."
+    },
+    {
+      "term": "Potential growth",
+      "definition": "An outward shift of the PPC from more/better resources or technology."
+    },
+    {
+      "term": "Actual growth",
+      "definition": "A move from inside the PPC towards it as spare capacity is used."
+    }
   ],
   "tips": [
-    "Label axes with **two specific goods** and always mark points inside, on and outside the curve to show full understanding.",
-    "Explain the **concave shape** with *increasing opportunity cost* — resources are not equally suited to both goods. This is a common higher-mark point.",
-    "Distinguish a **movement along** the PPC (reallocating resources) from a **shift** (growth/decline) — same shift-vs-movement discipline as demand & supply.",
-    "Use the **capital vs consumer goods** trade-off to discuss investment and future growth — great for evaluation.",
-    "Link a point **inside** the PPC to **unemployment / a negative output gap** for synoptic macro marks."
+    "Label axes with **two specific goods** and mark points **inside, on and outside** the curve.",
+    "Explain the **concave shape** using *increasing opportunity cost* — a common higher-mark point.",
+    "Distinguish a **movement along** (reallocation) from a **shift** (growth/decline).",
+    "Use the **capital vs consumer goods** trade-off to discuss investment and future growth.",
+    "Link a point **inside** the PPC to **unemployment / a negative output gap**."
+  ],
+  "diagrams": [
+    "**PPC (see figure):** two goods on the axes, concave curve; mark A (on = efficient), B (inside = unemployment), C (outside = unattainable) and a dashed outward shift for growth.",
+    "**Opportunity cost:** show a movement from one point on the curve to another with arrows (more of one good, less of the other)."
   ],
   "videos": {
     "channels": [
-      { "name": "tutor2u Economics", "url": "https://www.youtube.com/@tutor2u", "why": "Clean PPC diagram tutorials with exam application." },
-      { "name": "EconplusDal", "url": "https://www.youtube.com/@EconplusDal", "why": "Strong diagram drawing and growth explanations." }
+      {
+        "name": "tutor2u Economics",
+        "url": "https://www.youtube.com/@tutor2u",
+        "why": "Clean PPC diagram tutorials with exam application."
+      },
+      {
+        "name": "EconplusDal",
+        "url": "https://www.youtube.com/@EconplusDal",
+        "why": "Strong diagram drawing and growth explanations."
+      }
     ],
     "keyConcepts": [
-      { "concept": "Drawing & interpreting the PPC", "title": "Production possibility frontier explained", "url": "https://www.youtube.com/results?search_query=production+possibility+curve+a+level+economics+tutor2u" },
-      { "concept": "Shifts of the PPC and economic growth", "title": "PPC shifts and growth", "url": "https://www.youtube.com/results?search_query=ppc+shift+economic+growth+a+level+economics" },
-      { "concept": "Capital vs consumer goods trade-off", "title": "Investment, capital goods and future growth", "url": "https://www.youtube.com/results?search_query=capital+goods+consumer+goods+ppc+economic+growth" }
+      {
+        "concept": "Drawing & interpreting the PPC",
+        "title": "Production possibility frontier explained",
+        "url": "https://www.youtube.com/results?search_query=production+possibility+curve+a+level+economics+tutor2u"
+      },
+      {
+        "concept": "PPC shifts & growth",
+        "title": "PPC shifts and economic growth",
+        "url": "https://www.youtube.com/results?search_query=ppc+shift+economic+growth+a+level+economics"
+      },
+      {
+        "concept": "Capital vs consumer goods",
+        "title": "Investment, capital goods and future growth",
+        "url": "https://www.youtube.com/results?search_query=capital+goods+consumer+goods+ppc+economic+growth"
+      }
     ]
   },
-  "searchTerms": ["PPF frontier", "opportunity cost diagram", "productive efficiency", "potential output", "outward shift", "capital goods consumer goods"]
+  "searchTerms": [
+    "PPF frontier",
+    "opportunity cost diagram",
+    "productive efficiency",
+    "potential output",
+    "outward shift",
+    "capital goods consumer goods",
+    "increasing opportunity cost"
+  ]
 }
