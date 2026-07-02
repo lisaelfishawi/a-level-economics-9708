@@ -163,7 +163,8 @@
         <div class="eyebrow">${data.unitTitle || data.unit || ""}</div>
         <h1>${data.title}</h1>
         <div class="head-actions">
-          ${data.revisionNotes ? '<button class="rev-btn" id="revBtn">📝 Revision notes</button>' : ''}
+          ${data.revisionNotes ? '<button class="tool-btn rev" id="revBtn"><span class="tb-ico">📖</span>Revision notes</button>' : ''}
+          ${data.questions ? '<button class="tool-btn quiz" id="qBtn"><span class="tb-ico">📝</span>Past-paper questions</button>' : ''}
           <button class="mark-btn ${isDone ? "is-done" : ""}" id="markBtn">${isDone ? "✓ Completed" : "Mark as done"}</button>
         </div>
       </header>
@@ -176,33 +177,35 @@
       this.classList.toggle("is-done", nowDone);
       this.textContent = nowDone ? "✓ Completed" : "Mark as done";
     });
-    if (data.revisionNotes) {
-      var rb = document.getElementById("revBtn");
-      if (rb) rb.addEventListener("click", function () { openRevModal(data.revisionNotes); });
-    }
+    var rb = document.getElementById("revBtn");
+    if (rb) rb.addEventListener("click", function () { openInfoModal("Revision notes", data.revisionNotes); });
+    var qb = document.getElementById("qBtn");
+    if (qb) qb.addEventListener("click", function () { openInfoModal("Past-paper questions", data.questions); });
     els.content.scrollTop = 0;
     window.scrollTo(0, 0);
   }
 
-  /* ---------- revision-notes modal ---------- */
-  function openRevModal(md) {
-    let ov = document.getElementById("revModal");
+  /* ---------- info modal (revision notes / questions) ---------- */
+  function openInfoModal(eyebrow, md) {
+    let ov = document.getElementById("infoModal");
     if (!ov) {
       ov = document.createElement("div");
-      ov.id = "revModal";
+      ov.id = "infoModal";
       ov.className = "modal-overlay";
-      ov.innerHTML = '<div class="modal"><button class="modal-close" aria-label="Close">✕</button><div class="modal-eyebrow">Revision notes</div><div class="modal-body prose"></div></div>';
+      ov.innerHTML = '<div class="modal"><button class="modal-close" aria-label="Close">✕</button><div class="modal-eyebrow"></div><div class="modal-body prose"></div></div>';
       document.body.appendChild(ov);
       ov.addEventListener("click", function (e) {
-        if (e.target === ov || e.target.classList.contains("modal-close")) closeRevModal();
+        if (e.target === ov || e.target.classList.contains("modal-close")) closeInfoModal();
       });
     }
+    ov.querySelector(".modal-eyebrow").textContent = eyebrow;
     ov.querySelector(".modal-body").innerHTML = marked.parse(md);
+    ov.querySelector(".modal").scrollTop = 0;
     ov.classList.add("open");
     document.body.style.overflow = "hidden";
   }
-  function closeRevModal() {
-    const ov = document.getElementById("revModal");
+  function closeInfoModal() {
+    const ov = document.getElementById("infoModal");
     if (ov) ov.classList.remove("open");
     document.body.style.overflow = "";
   }
@@ -260,7 +263,7 @@
   });
   document.addEventListener("keydown", (e) => {
     if (e.key === "/" && document.activeElement !== els.search) { e.preventDefault(); els.search.focus(); }
-    if (e.key === "Escape") { els.searchResults.hidden = true; els.search.blur(); closeRevModal(); }
+    if (e.key === "Escape") { els.searchResults.hidden = true; els.search.blur(); closeInfoModal(); }
   });
 
   /* ---------- mobile nav ---------- */

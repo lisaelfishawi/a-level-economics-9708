@@ -126,8 +126,15 @@ body::before { /* faint fiery aura top-left */
   padding: 9px 16px; border-radius: 9px; cursor: pointer; font-size: 13.5px;
 }
 .mark-btn.is-done { background: var(--surface-2); color: var(--yellow); border: 1px solid var(--yellow); }
-.rev-btn { background: var(--surface-2); color: var(--yellow); border: 1px solid var(--yellow); font-weight: 600; padding: 9px 16px; border-radius: 9px; cursor: pointer; font-size: 13.5px; }
-.rev-btn:hover { background: rgba(255,214,10,.12); box-shadow: var(--glow); }
+.tool-btn { display: inline-flex; align-items: center; gap: 8px; background: var(--surface-2); color: var(--text); border: 1px solid var(--border); font-weight: 600; padding: 9px 15px 9px 11px; border-radius: 10px; cursor: pointer; font-size: 13.5px; transition: border-color .15s, box-shadow .15s, transform .1s; }
+.tool-btn .tb-ico { display: inline-grid; place-items: center; width: 24px; height: 24px; border-radius: 7px; font-size: 13px; background: var(--surface); }
+.tool-btn:hover { box-shadow: var(--glow); transform: translateY(-1px); }
+.tool-btn.rev { border-color: rgba(255,214,10,.45); }
+.tool-btn.rev .tb-ico { background: rgba(255,214,10,.15); }
+.tool-btn.rev:hover { border-color: var(--yellow); }
+.tool-btn.quiz { border-color: rgba(255,122,24,.45); }
+.tool-btn.quiz .tb-ico { background: rgba(255,122,24,.16); }
+.tool-btn.quiz:hover { border-color: var(--orange); }
 
 /* revision-notes modal */
 .modal-overlay { position: fixed; inset: 0; background: rgba(0,0,0,.74); backdrop-filter: blur(3px); z-index: 60; display: none; align-items: flex-start; justify-content: center; padding: 6vh 16px; overflow-y: auto; }
