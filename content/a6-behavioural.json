@@ -3,18 +3,48 @@
   "unit": "a6",
   "title": "Behavioural economics",
   "order": 3,
-  "summary": "## Why behavioural economics?\n\nTraditional theory assumes people are **rational utility-maximisers** (‘homo economicus’) with full information and stable preferences. **Behavioural economics** studies how real people *actually* decide — often imperfectly — and why they systematically depart from the rational model. This is itself a form of **information/decision failure** and helps design better policy.\n\n## Bounded rationality and bounded self-control\n\n- **Bounded rationality** — people have **limited information, time and mental processing power**, so they can't fully optimise; they ‘satisfice’ (settle for good enough) instead of maximise.\n- **Bounded self-control** — even when people know the rational choice, **willpower is limited** (e.g. they over-eat, under-save).\n\n## Rules of thumb (heuristics) and biases\n\nTo cope, people use **heuristics** (mental shortcuts), which cause predictable **biases**:\n- **Anchoring** — over-relying on an initial reference figure (e.g. the original price).\n- **Availability bias** — judging likelihood by how easily examples come to mind.\n- **Framing** — choices are influenced by *how* options are presented (‘90% fat-free’ vs ‘10% fat’).\n- **Loss aversion** — losses feel worse than equivalent gains feel good (part of prospect theory).\n- **Herding** — copying others' behaviour.\n- **Present bias / hyperbolic discounting** — overvaluing the present, undervaluing the future (under-saving, addiction).\n\n## Choice architecture and nudges\n\n**Choice architecture** is the way choices are designed/presented; a **nudge** steers behaviour **without removing choice or changing incentives much**. Key tools:\n- **Default choices** — e.g. **automatic enrolment** into pension/organ-donation schemes dramatically raises participation.\n- **Framing** and **anchoring** used positively (e.g. showing the healthy option first).\n- **Restricted / mandated choice** and **social norms** (‘9 out of 10 neighbours paid their tax on time’).\n\n**Advantages:** cheap, preserve freedom of choice, can be very effective (defaults).\n**Criticisms:** effects can be small or short-lived, ethical concerns about **paternalism** and manipulation, and they may not fix the underlying problem.\n\n## Why it matters\n\nBehavioural economics explains why merit goods are under-consumed and demerit goods over-consumed even with information, and it gives governments a modern, low-cost policy tool. It's excellent material for **evaluation** — bringing realism to the rational-agent assumptions that underpin the rest of the course.",
+  "summary": "## The big idea\n\nEverything so far has assumed a tidy creature economists call *homo economicus*: perfectly informed, endlessly calculating, coolly maximising utility. Real humans buy gym memberships in January and stop going in February; they'll drive across town to save \\$5 on a \\$15 book but not on a \\$500 laptop. **Behavioural economics** studies how people *actually* choose — and shows the departures from rationality are not random noise but **systematic and predictable**. That matters twice over: it explains stubborn market failures (why information campaigns alone don't stop smoking), and it hands governments a whole new policy toolkit — the **nudge**.\n\n## Two kinds of 'bounded'\n\n- **Bounded rationality** — people have limited information, limited time and limited brainpower. Rather than compute the perfect choice, they **satisfice**: pick the first option that's *good enough*. Nobody compares every phone tariff on the market; we grab a plausible one and move on.\n- **Bounded self-control** — even knowing the best choice, **willpower runs out**. Smokers who want to quit, savers who never start, dieters at midnight: the gap between intention and action is a decision failure that information cannot fix, because information isn't the missing ingredient.\n\n## Heuristics and the biases they cause\n\nTo cope with complexity, people lean on **heuristics** — mental shortcuts. Useful, fast… and the source of predictable **biases**:\n\n- **Anchoring** — judgements cling to the first number seen. A '~~\\$200~~ now \\$120' price tag makes \\$120 feel cheap; the \\$200 anchor did the work.\n- **Availability bias** — probability is judged by how easily examples come to mind. Plane crashes dominate the news, so people fear flying and drive instead — statistically the riskier choice.\n- **Framing** — the same fact lands differently depending on presentation: '90% fat-free' sells; '10% fat' doesn't. 'Survival rate 90%' reassures; 'mortality rate 10%' alarms.\n- **Loss aversion** — losing \\$50 hurts roughly twice as much as winning \\$50 pleases (the heart of **prospect theory**). It's why people hold falling shares ('I'll sell when it recovers') and why 'don't lose your discount' beats 'earn a bonus'.\n- **Herding** — copying the crowd: stock-market bubbles, panic buying, restaurant queues.\n- **Present bias (hyperbolic discounting)** — the present is overweighted against the future: \\$100 today beats \\$110 next week, yet \\$110 in 53 weeks beats \\$100 in 52. Explains under-saving, procrastination and addiction.\n\n## Choice architecture and nudges\n\nIf choices are always presented *somehow*, then the presentation — the **choice architecture** — is itself a policy lever. A **nudge** alters that architecture to steer behaviour **without banning options or significantly changing prices**:\n\n- **Defaults** — the heavyweight champion of nudges. Make pension saving **opt-out** instead of opt-in and participation leaps (UK auto-enrolment took workplace-pension coverage from under half to nearly nine in ten). Same for organ-donation registers.\n- **Framing and salience** — traffic-light nutrition labels; printing 'most people in your area pay their tax on time' on reminder letters (HMRC's trials measurably sped up payment).\n- **Positioning** — fruit at the checkout, stairs more obvious than the lift.\n- **Mandated choice** — forcing an active decision (tick donor: yes/no) without dictating it.\n\n**The case for nudges:** almost free, preserve freedom of choice, politically easy, and defaults in particular are astonishingly effective — they work *with* inertia instead of against it.\n\n**The case against:** effects can be **small or short-lived** (a cafeteria rearrangement fades; a sugar tax endures); they can feel **manipulative** — 'libertarian paternalism' still steers people covertly, raising ethical questions about who designs the architecture; and a nudge rarely fixes a *structural* problem (no default enrols you into affordable housing). Serious harms — addiction, drink-driving — usually still need taxes and regulation.\n\n## Why it matters\n\nBehavioural economics is A2's licence to criticise every model that begins 'assume consumers are rational'. Deployed well, it upgrades your evaluation everywhere: demand theory (Unit 7's marginal utility), merit and demerit goods, even policy design (why an information campaign flopped where a default succeeded). And it is modern, real-world economics — several governments now run 'behavioural insights' units testing nudges with randomised trials.\n\n<div class='qr'>\n\n## ⚡ Quick revision\n\n- *Homo economicus* (rational maximiser) vs real people: **bounded rationality** (→ **satisficing**) and **bounded self-control** (weak willpower).\n- Heuristics → predictable biases: **anchoring, availability, framing, loss aversion, herding, present bias**.\n- **Prospect theory**: losses loom ~2× larger than gains.\n- **Choice architecture** = how options are presented; a **nudge** changes it without banning or (much) pricing.\n- Star nudge: **defaults** (pension auto-enrolment). Others: framing, salience, positioning, social norms, mandated choice.\n- Evaluate: cheap + freedom-preserving + defaults powerful **vs** small/fading effects, paternalism/manipulation worries, can't fix structural problems.\n- Use it to critique the **rational-agent assumption** across the whole course.\n\n</div>",
   "keyTerms": [
-    { "term": "Behavioural economics", "definition": "The study of how psychological factors cause real decisions to depart from the rational model." },
-    { "term": "Bounded rationality", "definition": "Limited information and mental capacity that prevent full optimisation, leading people to satisfice." },
-    { "term": "Bounded self-control", "definition": "Limited willpower that stops people acting on what they know to be the best choice." },
-    { "term": "Heuristic", "definition": "A mental shortcut or rule of thumb used to make decisions quickly." },
-    { "term": "Anchoring", "definition": "Relying too heavily on an initial reference value when making decisions." },
-    { "term": "Framing", "definition": "How the presentation of a choice affects the decision made." },
-    { "term": "Loss aversion", "definition": "The tendency to feel losses more strongly than equivalent gains." },
-    { "term": "Choice architecture", "definition": "The design of how choices are presented to decision-makers." },
-    { "term": "Nudge", "definition": "A change in choice architecture that steers behaviour while preserving freedom of choice." },
-    { "term": "Default choice", "definition": "The option that applies if a person makes no active choice (e.g. auto-enrolment)." }
+    {
+      "term": "Behavioural economics",
+      "definition": "The study of how psychological factors cause real decisions to depart from the rational model."
+    },
+    {
+      "term": "Bounded rationality",
+      "definition": "Limited information and mental capacity that prevent full optimisation, leading people to satisfice."
+    },
+    {
+      "term": "Bounded self-control",
+      "definition": "Limited willpower that stops people acting on what they know to be the best choice."
+    },
+    {
+      "term": "Heuristic",
+      "definition": "A mental shortcut or rule of thumb used to make decisions quickly."
+    },
+    {
+      "term": "Anchoring",
+      "definition": "Relying too heavily on an initial reference value when making decisions."
+    },
+    {
+      "term": "Framing",
+      "definition": "How the presentation of a choice affects the decision made."
+    },
+    {
+      "term": "Loss aversion",
+      "definition": "The tendency to feel losses more strongly than equivalent gains."
+    },
+    {
+      "term": "Choice architecture",
+      "definition": "The design of how choices are presented to decision-makers."
+    },
+    {
+      "term": "Nudge",
+      "definition": "A change in choice architecture that steers behaviour while preserving freedom of choice."
+    },
+    {
+      "term": "Default choice",
+      "definition": "The option that applies if a person makes no active choice (e.g. auto-enrolment)."
+    }
   ],
   "diagrams": [
     "No formal diagram is required. You can link behavioural insights to the **merit/demerit good** and **externality** diagrams to explain why consumption differs from the social optimum."
@@ -28,13 +58,40 @@
   ],
   "videos": {
     "channels": [
-      { "name": "tutor2u Economics", "url": "https://www.youtube.com/@tutor2u", "why": "Clear behavioural economics and nudge coverage for A Level." },
-      { "name": "EconplusDal", "url": "https://www.youtube.com/@EconplusDal", "why": "Good on biases, heuristics and choice architecture." }
+      {
+        "name": "tutor2u Economics",
+        "url": "https://www.youtube.com/@tutor2u",
+        "why": "Clear behavioural economics and nudge coverage for A Level."
+      },
+      {
+        "name": "EconplusDal",
+        "url": "https://www.youtube.com/@EconplusDal",
+        "why": "Good on biases, heuristics and choice architecture."
+      }
     ],
     "keyConcepts": [
-      { "concept": "Bounded rationality & biases", "title": "Behavioural economics and biases", "url": "https://www.youtube.com/results?search_query=behavioural+economics+bounded+rationality+biases+a+level" },
-      { "concept": "Nudges & choice architecture", "title": "Nudge theory and choice architecture", "url": "https://www.youtube.com/results?search_query=nudge+theory+choice+architecture+a+level+economics" }
+      {
+        "concept": "Bounded rationality & biases",
+        "title": "Behavioural economics and biases",
+        "url": "https://www.youtube.com/results?search_query=behavioural+economics+bounded+rationality+biases+a+level"
+      },
+      {
+        "concept": "Nudges & choice architecture",
+        "title": "Nudge theory and choice architecture",
+        "url": "https://www.youtube.com/results?search_query=nudge+theory+choice+architecture+a+level+economics"
+      }
     ]
   },
-  "searchTerms": ["homo economicus", "satisficing", "rule of thumb", "availability herding", "present bias hyperbolic discounting", "prospect theory", "auto enrolment", "paternalism"]
+  "searchTerms": [
+    "homo economicus",
+    "satisficing",
+    "rule of thumb",
+    "availability herding",
+    "present bias hyperbolic discounting",
+    "prospect theory",
+    "auto enrolment",
+    "paternalism"
+  ],
+  "revisionNotes": "# Behavioural economics — quick revision\n\n**The break with rationality**\n- Standard theory: *homo economicus* — full information, stable preferences, maximises utility.\n- Reality: **bounded rationality** (limited info/time/processing → **satisficing**) and **bounded self-control** (know the right choice, fail to act).\n\n**Biases (know 3–4 with examples)**\n- **Anchoring** — first number sticks ('was \\$200, now \\$120').\n- **Availability** — vivid events feel likely (fear of flying).\n- **Framing** — '90% fat-free' ≠ '10% fat' in the mind.\n- **Loss aversion** — losses ≈ 2× gains (prospect theory); holding losing shares.\n- **Herding** — bubbles, panic buying.\n- **Present bias / hyperbolic discounting** — under-saving, addiction, procrastination.\n\n**Nudges & choice architecture**\n- Choice architecture = design of how options appear; nudge = steer without banning/major price change.\n- **Defaults are king**: pension auto-enrolment (UK: coverage <50% → ~90%), organ-donation opt-out.\n- Also: social norms ('9/10 pay on time'), salience/positioning, mandated choice.\n\n**Evaluation**\n- + Cheap, choice-preserving, evidence-based (RCT-tested), defaults very powerful.\n- − Effects often small/temporary; 'libertarian paternalism' = covert steering (ethics); doesn't fix structural causes; severe harms still need tax/regulation.\n\n**Use in essays** — the standard critique of every 'rational consumer' assumption (utility theory, merit goods, information campaigns).",
+  "questions": "# Practice questions — Behavioural economics\n\n**Original practice questions in the Cambridge 9708 style** (not copied from real papers). Attempt each, reveal the answer, then self-mark. Links to real past papers are in the Past-paper questions panel.\n\n## Paper 1 style — multiple choice\n\n**1.** A consumer facing hundreds of broadband tariffs signs up for the first one that seems acceptable rather than comparing them all. This behaviour is best described as:\n\n- A — utility maximisation\n- B — satisficing due to bounded rationality\n- C — loss aversion\n- D — adverse selection\n\n<details><summary>▸ Show answer</summary><p><strong>B.</strong> Limited time and processing power make full comparison impossible, so the consumer settles for 'good enough' — satisficing, the signature of bounded rationality.</p></details>\n\n**2.** An investor refuses to sell shares that have fallen 40%, saying 'I'll sell once I break even', while readily selling shares that have gained. This illustrates:\n\n- A — herding\n- B — anchoring on the purchase price and loss aversion\n- C — present bias\n- D — rational expectations\n\n<details><summary>▸ Show answer</summary><p><strong>B.</strong> The purchase price anchors the judgement, and realising a loss hurts more than an equivalent gain pleases — so losses are held and gains are banked (the 'disposition effect').</p></details>\n\n**3.** Which of the following is an example of a nudge?\n\n- A — banning the sale of cigarettes to under-18s\n- B — imposing a tax on sugary drinks\n- C — automatically enrolling employees in a pension scheme with the right to opt out\n- D — subsidising gym memberships\n\n<details><summary>▸ Show answer</summary><p><strong>C.</strong> A default changes the choice architecture while leaving all options open and prices unchanged. A is regulation; B and D change prices — traditional instruments, not nudges.</p></details>\n\n**4.** A supermarket labels a yoghurt '90% fat-free' rather than 'contains 10% fat'. It is exploiting:\n\n- A — the framing effect\n- B — the free-rider problem\n- C — moral hazard\n- D — bounded self-control\n\n<details><summary>▸ Show answer</summary><p><strong>A.</strong> Identical information, different presentation, different response — framing.</p></details>\n\n## Paper 4 style — data response\n\n> A government makes workplace pensions opt-out instead of opt-in for all employees. Within three years, participation rises from 47% to 88%, with the biggest gains among young and low-paid workers. Almost nobody who is enrolled chooses to leave. Critics note that average contribution rates are set low, and that many workers say they 'never really decided' to join. A rival proposal had been a tax relief worth 25% of contributions.\n\n**(a)** Define 'choice architecture'. **[2]**\n\n**(b)** Explain why traditional economic theory struggles to explain the low participation rate before the reform. **[4]**\n\n**(c)** Analyse why changing the default raised participation so dramatically when an information campaign had previously failed. **[6]**\n\n**(d)** Assess whether nudges like auto-enrolment are better policy tools than financial incentives such as tax relief. **[8]**\n\n<details><summary>▸ Show mark guidance</summary><p><strong>(a)</strong> The way choices are structured and presented to decision-makers (defaults, order, framing). [1+1]</p><p><strong>(b)</strong> A rational maximiser with full information would already save the optimal amount — free money (employer contributions) left unclaimed contradicts rationality. Present bias and bounded self-control (intending to join 'next year') plus inertia explain it. [4]</p><p><strong>(c)</strong> The information campaign targeted knowledge, but knowledge wasn't the constraint — inertia and procrastination were. Defaults harness inertia: doing nothing now produces the good outcome; present-biased people never get around to opting out either. Hence huge, durable effects concentrated on those most prone to inertia. [6]</p><p><strong>(d)</strong> Nudge: near-zero cost, 41-point jump, preserves choice; but contributions anchored low and 'never really decided' raises autonomy concerns. Tax relief: rewards active savers, scales with contributions — but costly, regressive (helps taxpayers most), and evidence suggests weak take-up among exactly the groups auto-enrolment reached. Judgement: combine — default for participation, incentives to raise contribution *levels*. [8]</p></details>\n\n## Paper 4 style — essays\n\n**Essay 1 (a)** Explain what is meant by bounded rationality and bounded self-control, and how heuristics can lead to biased decisions. **[8]**\n**(b)** Assess the extent to which behavioural economics undermines the traditional theory of consumer choice. **[12]**\n\n<details><summary>▸ Show mark guidance</summary><p><strong>(a)</strong> Limits on information/processing → satisficing; limits on willpower → intention–action gaps; heuristics (anchoring, availability, framing) as shortcuts that misfire systematically.</p><p><strong>(b)</strong> Undermines: systematic (not random) deviations from utility maximisation; preferences unstable and frame-dependent. Defends: traditional theory still predicts well in aggregate and for routine purchases; behavioural effects are refinements, incorporated (e.g. prospect theory) rather than revolutionary. Judgement: modifies rather than demolishes — but evaluation answers must use it.</p></details>\n\n**Essay 2 (a)** Explain, with examples, how governments can use choice architecture to influence consumer behaviour. **[8]**\n**(b)** Discuss whether nudges should replace taxation and regulation as the main tools for reducing consumption of demerit goods. **[12]**\n\n<details><summary>▸ Show mark guidance</summary><p><strong>(a)</strong> Defaults (pensions, organ donation), social-norm messaging (tax letters), salience/positioning (labelling, layout), mandated choice — with a real example each.</p><p><strong>(b)</strong> Nudges: cheap, liberty-preserving, politically easy — but effects modest against addiction (present bias + bounded self-control are strong); no revenue. Taxes: proven price mechanism + revenue; regulation: certainty for severe harms. Ethics cuts both ways (covert steering vs coercion). Judgement: complements, not replacements — nudges augment; they rarely substitute for price and law where harm is large.</p></details>"
 }
